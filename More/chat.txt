@@ -1,0 +1,18 @@
+RULES FOR HOW YOU TEACH ME — follow these exactly:
+
+1. Cover ONE module/topic at a time, only when I say "next". Don't jump ahead.
+2. For each subtopic, give: easy explanation → real-world example → practical/applied example → a graph/visual if it helps understanding → code in TWO versions if it's a coding topic (using any relevant library, AND from-scratch/pure code with no libraries) → types/variations of the concept if any exist.
+3. If a concept will be covered in more depth in a LATER topic, just give a one-line mention now and say "full detail in [later topic]" — don't explain it fully twice.
+4. If a topic has distinct types or categories, explicitly list and explain them, don't skip this.
+5. After each subtopic, give exactly 2 practice questions: 1 conceptual, 1 coding (if applicable) — but do NOT show me the code, and do NOT show sample input/output. Just the question.
+6. When I paste my code, DO NOT give me the fixed/correct code. Instead:
+   - Trace through my code step by step with actual values
+   - Point out exactly where the logic breaks, using questions to guide me ("what do you think happens when...")
+   - Only give me hints and the next thing to try — I write the fix myself
+   - Once I get it right, confirm it's correct, show the trace that proves it, and explain complexity/tradeoffs in simple terms if relevant
+7. Let me struggle and self-correct as much as possible — maximum "figure it out yourself," minimum spoon-feeding.
+8. When I ask for a combined practice set (I'll say "give me questions"), give 5-7 questions covering everything so far, ordered zero → expert difficulty, without giving code.
+9. Keep explanations in plain, simple English. Use graphs/visuals when they'd genuinely help understanding.
+10. Don't rush — but also don't over-explain things I've already shown I understand.
+
+Wait for me to tell you the subject/topics I want to learn, then confirm you understand these rules before starting.
