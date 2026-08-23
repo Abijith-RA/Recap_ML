@@ -1,0 +1,548 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4481
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 785.1970866141732586 Td
+(Module 6) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+39.6850393700787407 768.1892125984252289 Td
+(Technical Workouts) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 745.5120472440944468 Td
+(1. 1. Understand Database Fundamentals) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 731.3388188976377933 Td
+(a. What is a database) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 717.1655905511811397 Td
+(b. Why databases are important) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 702.9923622047243725 Td
+(c. Types of databases) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 688.819133858267719 Td
+(d. Relational databases) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 674.6459055118109518 Td
+(e. Database use cases in ML) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 660.4726771653542983 Td
+(2. 2. Understand Relational Database Concepts) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 646.2994488188976447 Td
+(a. Tables) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 632.1262204724408775 Td
+(b. Rows and columns) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 617.952992125984224 Td
+(c. Primary keys) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 603.7797637795274568 Td
+(d. Foreign keys) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 589.6065354330708033 Td
+(e. Relationships) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 575.4333070866141497 Td
+(3. 3. Understand SQL Fundamentals) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 561.2600787401574962 Td
+(a. SQL syntax) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 547.086850393700729 Td
+(b. Creating databases) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 532.9136220472440755 Td
+(c. Creating tables) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 518.7403937007873083 Td
+(d. Data types) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 504.5671653543306547 Td
+(e. Constraints) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 490.3939370078739444 Td
+(4. 4. Understand CRUD Operations) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 476.2207086614172908 Td
+(a. INSERT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 462.0474803149605805 Td
+(b. SELECT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 447.8742519685038701 Td
+(c. UPDATE) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 433.7010236220471597 Td
+(d. DELETE) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 419.5277952755905062 Td
+(e. Data management workflows) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 405.3545669291337958 Td
+(5. 5. Understand Filtering & Sorting) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 391.1813385826770855 Td
+(a. WHERE clause) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 377.0081102362204319 Td
+(b. ORDER BY) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 362.8348818897637216 Td
+(c. LIMIT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 348.6616535433070112 Td
+(d. DISTINCT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 334.4884251968503008 Td
+(e. Practical data retrieval) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 320.3151968503935905 Td
+(6. 6. Understand Aggregate Functions) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 306.1419685039369369 Td
+(a. COUNT) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 291.9687401574802834 Td
+(b. SUM) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 277.7955118110235162 Td
+(c. AVG) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 263.6222834645668627 Td
+(d. MIN) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 249.4490551181102092 Td
+(e. MAX) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 235.2758267716534419 Td
+(7. 7. Understand ML Data Storage Concepts) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 221.1025984251967884 Td
+(a. Dataset storage) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 206.9293700787401349 Td
+(b. Structured data management) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 192.7561417322833677 Td
+(c. Data retrieval workflows) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 178.5829133858267141 Td
+(d. Data consistency) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 164.4096850393699469 Td
+(e. Data quality awareness) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+277.3177952755905835 28.3466929133857093 Td
+(Page 1 of 1) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 3.0.4)
+/CreationDate (D:20260811222616+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000004685 00000 n 
+0000006502 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000004742 00000 n 
+0000004867 00000 n 
+0000004997 00000 n 
+0000005130 00000 n 
+0000005267 00000 n 
+0000005390 00000 n 
+0000005519 00000 n 
+0000005651 00000 n 
+0000005787 00000 n 
+0000005915 00000 n 
+0000006042 00000 n 
+0000006171 00000 n 
+0000006304 00000 n 
+0000006406 00000 n 
+0000006750 00000 n 
+0000006836 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <5EAF7048A344C03015A7F51D7AC93278> <5EAF7048A344C03015A7F51D7AC93278> ]
+>>
+startxref
+6940
+%%EOF

@@ -1,0 +1,24 @@
+-- SELECT * FROM employees WHERE first_name LIKE 'J%';
+-- SELECT * FROM employees;
+-- SELECT * FROM employees SELECT * FROM employees WHERE first_name LIKE 'J%';
+-- SELECT * FROM employees;
+-- UPDATE employees SET salary = salary + 2 ;
+-- UPDATE employees SET salary = salary - 2 ;
+-- SELECT * FROM employees;
+
+-- SELECT salary * 12 AS annual_income FROM employees;
+
+-- ALTER TABLE employees ADD COLUMN annual_income INT;
+-- SELECT * FROM employees;
+
+-- UPDATE employees SET annual_income = salary * 12;
+
+
+-- SELECT SUM(salary) FROM employees WHERE last_name IS NULL;
+
+-- UPDATE employees SET last_name = NULL WHERE id = 3;
+
+-- SELECT SUM(salary) FROM employees WHERE last_name IS NULL;
+
+-- UPDATE employees SET last_name = Alex WHERE id = 3 ;
+-- SELECT * FROM employees;
