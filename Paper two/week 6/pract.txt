@@ -1,0 +1,283 @@
+https://app.coderpad.io/sandbox
+
+/*
+CoderPad provides a basic SQL sandbox with the following schema.
+You can also use commands like '\dt;' and '\d employees;'
+
+employees                             projects
++---------------+---------+           +---------------+---------+
+| id            | int     |<----+  +->| id            | int     |
+| first_name    | varchar |     |  |  | title         | varchar |
+| last_name     | varchar |     |  |  | start_date    | date    |
+| salary        | int     |     |  |  | end_date      | date    |
+| department_id | int     |--+  |  |  | budget        | int     |
++---------------+---------+  |  |  |  +---------------+---------+
+                             |  |  |
+departments                  |  |  |  employees_projects
++---------------+---------+  |  |  |  +---------------+---------+
+| id            | int     |<-+  |  +--| project_id    | int     |
+| name          | varchar |     +-----| employee_id   | int     |
++---------------+---------+           +---------------+---------+
+*/
+
+-- SELECT e.first_name, e.last_name, e.salary,
+--   d.name as department_name
+-- FROM employees   AS e
+-- JOIN departments AS d ON e.department_id = d.id;
+
+-- SELECT * FROM employees;
+
+-- UPDATE employees SET salary = salary + 2;
+
+-- UPDATE employees
+-- SET salary = salary - 4;
+
+-- SELECT * FROM employees;
+
+-- SELECT first_name,last_name
+-- FROM employees
+-- WHERE first_name LIKE 'A%';
+
+-- SELECT SUM(salary)
+-- FROM employees
+-- WHERE last_name IS NULL;
+
+-- SELECT COUNT(*) AS total
+-- FROM employees;
+
+-- ROLLBACK;
+
+-- UPDATE employees
+-- SET salary = salary + 2;
+
+-- ROLLBACK;
+
+-- SELECT first_name, last_name, salary
+-- FROM employees
+-- WHERE salary > 30000;
+
+-- SELECT *
+-- FROM employees
+-- WHERE salary BETWEEN 20000 AND 50000;
+
+-- SELECT COUNT(*) AS Employee_count
+-- FROM employees;
+
+-- SELECT MAX(salary),MIN(salary)
+-- FROM employees;
+
+-- SELECT SUM(salary) AS total_salary
+-- FROM employees;
+
+-- SELECT AVG(salary) AS average_salary
+-- FROM employees;
+
+-- SELECT *
+-- FROM departments;
+
+-- SELECT COUNT(*) AS department_count
+-- FROM employees
+-- GROUP BY department_id;
+
+-- SELECT d.name, e.first_name, e.last_name
+-- FROM employees e
+-- INNER JOIN departments d
+-- ON e.department_id = d.id;
+
+-- Find the total salary for each department.
+
+-- SELECT department_id, SUM(salary) AS total_in_department
+-- FROM employees
+-- GROUP BY department_id;
+
+-- SELECT d.name, SUM(e.salary) AS total_in_department
+-- FROM employees e
+-- JOIN departments d
+-- ON e.department_id = d.id
+-- GROUP BY d.name;
+
+-- SELECT *
+-- FROM (SELECT d.name, SUM(e.salary) AS total_in_department
+-- FROM employees e
+-- JOIN departments d
+-- ON e.department_id = d.id
+-- GROUP BY d.name)
+-- AS total_department
+-- WHERE total_in_department > 60000;
+
+-- Find the highest salary in each department.
+
+-- SELECT department_id, MAX(salary) AS highest_salary
+-- FROM employees
+-- GROUP BY department_id;
+
+-- SELECT department_id, salary, MAX(salary) OVER(PARTITION BY department_id) AS highest_salary
+-- FROM employees;
+
+-- Find departments where the average salary is greater than 30,000.
+
+-- SELECT department_id, AVG(salary) AS average_salary
+-- FROM employees
+-- GROUP BY department_id
+-- HAVING AVG(salary) > 30000;
+
+-- Sort employees by salary from highest to lowest.
+
+-- SELECT *
+-- FROM employees
+-- ORDER BY salary DESC;
+
+-- Find the top 3 highest-paid employees.
+
+-- SELECT *
+-- FROM employees
+-- ORDER BY salary DESC
+-- LIMIT 3;
+
+-- Find employees whose first name starts with 'J' and salary is greater than 20,000.
+
+-- SELECT *
+-- FROM employees
+-- WHERE first_name like 'J%' AND salary > 20000;
+
+
+-- Basic JOIN
+-- Display employee name and their department name.
+
+-- SELECT e.first_name, e.last_name, d.name
+-- FROM employees e
+-- INNER JOIN departments d
+-- ON e.department_id = d.id;
+
+-- Display:
+-- first_name
+-- last_name
+-- department_name
+-- salary
+
+-- SELECT e.first_name, e.last_name, d.name, e.salary
+-- FROM employees e
+-- INNER JOIN departments d
+-- ON e.department_id = d.id;
+
+-- Find all employees who belong to the Engineering department.
+
+-- SELECT e.*, d.name
+-- FROM employees e
+-- INNER JOIN departments d
+-- ON e.department_id = d.id
+-- WHERE d.name LIKE 'Engi%';
+
+-- Display all departments and the employees belonging to them, including departments with no employees.
+
+-- SELECT e.*, d.name
+-- FROM employees e
+-- RIGHT JOIN departments d
+-- ON e.department_id = d.id;
+
+-- Display employees and their assigned projects.
+-- SELECT * FROM employees_projects;
+
+-- SELECT ep.project_id, ps.title, e.first_name, e.last_name
+-- FROM employees_projects ep
+-- INNER JOIN employees e
+-- ON ep.employee_id = e.id
+-- INNER JOIN projects ps
+-- ON ep.project_id = ps.id;
+
+
+-- ## Level 4 — Multi-table JOINs
+
+-- 24. Display:
+--    employee name
+--    department name
+--    project title
+
+-- 25. Find all employees working on the project "Website Redesign".
+
+-- 26. Find the number of projects assigned to each employee.
+
+-- 27. Find the total budget of projects assigned to each employee.
+
+-- 28. Find employees who are not assigned to any project.
+
+
+-- ## Level 5 — Subqueries
+
+-- 29. Find employees who earn more than the average salary.
+
+-- 30. Find the employee who has the highest salary.
+
+-- 31. Find employees who earn the same salary as another employee.
+
+-- 32. Find employees who work in the same department as John.
+
+
+-- ## Level 6 — CTEs
+
+-- 33. Create a CTE that calculates the average salary by department, then display departments whose average salary is greater than 30,000.
+
+-- 34. Using a CTE, find the highest-paid employee in each department.
+
+
+-- ## Level 7 — Window Functions
+
+-- 35. Give every employee a salary rank.
+
+--    Expected idea:
+--    employee | salary | rank
+
+-- 36. Rank employees within each department.
+
+-- 37. Calculate a running total of salaries ordered by employee ID.
+
+-- 38. Show each employee's salary along with their department's average salary.
+
+-- 39. Find the top 2 highest-paid employees in each department.
+
+
+-- ## Level 8 — Data Modeling & Normalization
+
+-- 40. Explain the relationships between:
+--    employees
+--    departments
+--    projects
+--    employees_projects
+
+-- 41. Why do we need the employees_projects table?
+
+-- 42. Identify the primary key and foreign keys in each table.
+
+-- 43. Explain why storing multiple project IDs inside the employees table would be bad database design.
+
+-- 44. Identify whether this relationship is one-to-one, one-to-many, or many-to-many:
+
+--    employees ↔ projects
+
+
+-- ## Level 9 — Performance
+
+-- 45. What is an index and why would you create one on employees.salary?
+
+-- 46. Which query would benefit from an index?
+
+-- 47. Explain why SELECT * can be inefficient.
+
+-- 48. How would you investigate why a query is running slowly?
+
+
+-- ## Level 10 — Advanced / Interview Level
+
+-- 49. Find the second-highest salary.
+
+-- 50. Find the second-highest salary in each department.
+
+-- 51. Find employees whose salary is higher than their department's average salary.
+
+-- 52. Find the department with the highest total salary.
+
+-- 53. Find the employee who is assigned to the most projects.
+
+-- 54. Find projects that have more than 2 employees assigned.
+
+-- 55. Find employees who are not assigned to any project and display their department.

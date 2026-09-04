@@ -1,0 +1,41 @@
+ 
+# ML – Module 7
+
+## Pending Topics
+
+1. **Denormalization**
+
+   * Understand what denormalization is.
+   * Understand why denormalization may be used to improve read performance in a database.
+
+2. **Correlated Subqueries**
+
+   * Understand what correlated subqueries are.
+   * Understand how the inner query depends on values from the outer query.
+
+3. **Window Functions**
+
+   * Understand what window functions are.
+   * Learn how they perform calculations across related rows without grouping them into a single result.
+
+4. **Foreign Keys**
+
+   * Learn how to add foreign keys correctly.
+   * Understand how foreign keys are used to create relationships between tables.
+
+5. **Practical SQL Exercises**
+
+   * Complete more practical SQL exercises after clearly understanding the concepts.
+   * Practice writing queries independently.
+   * Work with small, related tables and observe how the output changes for each query.
+
+
+# Feedback
+
+The student has a basic understanding of SQL concepts but needs more improvement in practical implementation.
+
+* More focus should be given to writing queries independently using **correlated subqueries, window functions, and foreign-key relationships**, rather than only learning their definitions.
+* The student should practice with **small, related tables** and understand how the output changes for each query.
+* **Explanation and communication skills** also need improvement.
+* The student should practice explaining each concept clearly in their own words and support the explanation with simple examples.
+* More consistent **hands-on practice** is required to improve confidence and SQL problem-solving skills.

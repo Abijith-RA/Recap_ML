@@ -1,0 +1,100 @@
+Level 1 — Basic SQL
+
+Start with these first:
+
+Select all employees.
+Select only first_name, last_name, and salary.
+Find employees with salary greater than 30,000.
+Find employees whose first name starts with 'S'.
+Find employees whose salary is between 20,000 and 50,000.
+Find employees whose last_name is NULL.
+Count the total number of employees.
+Find the highest salary.
+Find the lowest salary.
+Find the total salary of all employees.
+
+Level 2 — Filtering & Aggregation
+Find the average salary of employees.
+Count employees in each department.
+Find the total salary for each department.
+Find the highest salary in each department.
+Find departments where the average salary is greater than 30,000.
+Sort employees by salary from highest to lowest.
+Find the top 3 highest-paid employees.
+Find employees whose first name starts with 'J' and salary is greater than 20,000.
+
+Level 3 — JOINs
+Basic JOIN
+Display employee name and their department name.
+Display:
+first_name
+last_name
+department_name
+salary
+Find all employees who belong to the Engineering department.
+Display all departments and the employees belonging to them, including departments with no employees.
+Display employees and their assigned projects.
+
+Level 4 — Multi-table JOINs
+Display:
+employee name
+department name
+project title
+Find all employees working on the project "Website Redesign".
+Find the number of projects assigned to each employee.
+Find the total budget of projects assigned to each employee.
+Find employees who are not assigned to any project.
+
+Level 5 — Subqueries
+Find employees who earn more than the average salary.
+Find the employee who has the highest salary.
+Find employees who earn the same salary as another employee.
+Find employees who work in the same department as John.
+
+Level 6 — CTEs
+Create a CTE that calculates the average salary by department, then display departments whose average salary is greater than 30,000.
+Using a CTE, find the highest-paid employee in each department.
+
+Level 7 — Window Functions
+Give every employee a salary rank.
+
+Expected idea:
+
+employee | salary | rank
+Rank employees within each department.
+Calculate a running total of salaries ordered by employee ID.
+Show each employee's salary along with their department's average salary.
+Find the top 2 highest-paid employees in each department.
+
+
+Level 8 — Data Modeling & Normalization
+
+Now move beyond writing queries.
+
+Explain the relationships between:
+employees
+departments
+projects
+employees_projects
+Why do we need the employees_projects table?
+Identify the primary key and foreign keys in each table.
+Explain why storing multiple project IDs inside the employees table would be bad database design.
+Identify whether this relationship is one-to-one, one-to-many, or many-to-many:
+employees ↔ projects
+
+
+Level 9 — Performance
+What is an index and why would you create one on employees.salary?
+Which query would benefit from an index?
+Explain why SELECT * can be inefficient.
+How would you investigate why a query is running slowly?
+
+
+Level 10 — Advanced / Interview Level 🔥
+Find the second-highest salary.
+Find the second-highest salary in each department.
+Find employees whose salary is higher than their department's average salary.
+Find the department with the highest total salary.
+Find the employee who is assigned to the most projects.
+Find projects that have more than 2 employees assigned.
+Find employees who are not assigned to any project and display their department.
