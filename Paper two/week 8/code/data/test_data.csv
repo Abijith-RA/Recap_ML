@@ -1,0 +1,21 @@
+age,city_Austin,city_Boston,city_Chicago,city_Denver,city_Houston,city_Miami,city_New York,city_Phoenix,city_Seattle,department_Engineering,department_Finance,department_HR,department_IT,department_Marketing,department_Operations,department_Sales,department_Support,salary
+26.0,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,81211.68
+20.0,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,86568.111379
+21.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,86568.111379
+41.0,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,89316.78
+50.0,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,86568.111379
+49.0,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,70500.07
+52.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,60134.55
+26.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,86568.111379
+23.0,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,135361.15
+21.0,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,59387.02
+24.0,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,86568.111379
+33.0,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,86568.111379
+55.0,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,40836.35
+55.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,140096.4
+28.0,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,64733.66
+42.0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,110421.02
+37.0,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,112833.68
+49.0,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,86568.111379
+57.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,57613.77
+41.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,128210.82
