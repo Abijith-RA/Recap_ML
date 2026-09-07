@@ -1,0 +1,509 @@
+employee_id,name,email,phone,age,gender,department,city,education,years_experience,performance_rating,remote_work,join_date,salary,notes
+EMP1445,George White,george.white@example.com,+1-488-389-5502,44.0,F,FINANCE,boston,Bachelor,4.0,1.0,0.0,,,
+EMP1345,Elizabeth Martinez,elizabeth.martinez@example.com,+1-690-446-7520,35.0,M,sales,Boston,Bachelor,3.0,1.0,1.0,08-25-2014,,Needs improvement
+EMP1048,Kimberly Taylor,kimberly.taylor@example.com,+1-438-222-1825,45.0,Female,Engineering,NYC,PHD,4.0,1.0,1.0,02/04/2014,111440.19,On PIP
+EMP1068,Anthony Smith,anthony.smith@example.com,+1-968-155-1071,41.0,M,engineering,CHICAGO,Bachelor,10.0,1.0,,20-Oct-2017,97546.76,N/A
+EMP1364,Carol Wilson,carol.wilson139@example.com,+1-764-431-4934,42.0,F,finance,Houston,Bachelor,1.0,3.0,0.0,01-21-2019,76496.72,On PIP
+EMP1133,Christopher Thompson,christopher.thompson@example.com,+1-470-211-9009,52.0,F,Sales,NYC,High School,12.0,3.0,1.0,28-Sep-2019,73731.29,
+EMP1294,Robert Wilson,robert.wilson@example.com,+1-849-446-1426,38.0,F,Human Resources,CHICAGO,Bachelors,1.0,2.0,0.0,12-14-2012,56525.84,
+EMP1032,Lisa Brown,,+1-352-355-5353,35.0,M,support,Austin,High School,2.0,3.0,1.0,10-14-2019,49337.8,
+EMP1219,Timothy Harris,timothy.harris@example.com,+1-578-340-5617,58.0,female,Human Resources,Seattle,PhD,6.0,1.0,0.0,,446838.1,
+EMP1091,Timothy Johnson,timothy.johnson@example.com,+1-590-305-4834,42.0,F,marketing,MIAMI,Master,3.0,3.0,1.0,2016-12-10,78340.72,Promoted last cycle
+EMP1484,Brian Davis,brian.davis772@example.com,+1-659-531-2932,31.0,male,ENGINEERING,Miami,,10.0,3.0,0.0,15/05/2014,,On PIP
+EMP1346,Richard Moore,richard.moore@example.com,+1-525-470-2280,53.0,M,I.T.,Phoenix,Bachelor,1.0,4.0,0.0,2019-03-18,86744.0,
+EMP1120,Sarah Davis,sarah.davis@example.com,+1-650-155-4904,38.0,Male,Human Resources,Boston,Bachelor,1.0,3.0,,05/08/2015,55046.89,N/A
+EMP1067,Timothy Thomas,timothy.thomas@example.com,+1-932-878-7029,37.0,F,H.R.,seattle,Master,6.0,3.0,0.0,13-Mar-2017,70692.05,N/A
+EMP1421,William Robinson,william.robinson918@example.com,+1-885-603-7744,44.0,M,Suport,Seattle,PhD,5.0,3.0,1.0,04-04-2024,74049.36,On PIP
+EMP1329,  Susan Brown  ,susan.brown@example.com,+1-319-131-7502,29.0,F,Operations,Houston,bachelor,2.0,3.0,1.0,22/08/2017,64004.19,
+EMP1378,Thomas Taylor,thomas.taylor324@example.com,+1-686-266-7591,49.0,Female,sales,Chicago,High School,,3.0,1.0,25/07/2020,74948.15,
+EMP1226,Joshua Anderson,joshua.anderson@example.com,+1-734-238-6262,,male,Operations,Austin,High School,1.0,2.0,0.0,12/04/2011,47553.69,
+EMP1202,Timothy Thomas,timothy.thomas551@example.com,+1-470-671-6822,23.0,F,Engineering,Seattle,High School,2.0,3.0,1.0,29/01/2024,74067.64,Good performer
+EMP1148,Donald Martinez,donald.martinez@example.com,+1-990-409-3767,18.0,Male,Support,Houston,PHD,1.0,3.0,1.0,2023-03-01,68961.09,Good performer
+EMP1441,Kimberly Smith,kimberly.smith@example.com,+1-810-917-7738,54.0,M,support,New York,Master,3.0,2.0,1.0,11-11-2012,65943.74,Good performer
+EMP1147,Andrew Davis,andrew.davis@example.com,+1-763-832-7651,49.0,M,Markting,chicago,bachelor,1.0,2.0,1.0,2017-07-02,71031.93,N/A
+EMP1316,Betty Anderson,betty.anderson@example.com,+1-232-963-3041,45.0,Female,Ops,Miami,PhD,4.0,2.0,1.0,2023-04-03,79517.61,On PIP
+EMP1326,Matthew Miller,matthew.miller@example.com,+1-357-929-6033,33.0,F,Sales ,Miami,PHD,,3.0,1.0,2015-02-20,83568.88,
+EMP1066,Dorothy Johnson,dorothy.johnson@example.com,+1-452-310-4328,34.0,Male,Support,MIAMI,PHD,4.0,2.0,,2012-07-06,68117.93,
+EMP1428,John Moore,john.moore85@example.com,+1-928-537-5839,30.0,Male,Operations,Denver,bachelor,0.0,2.0,0.0,2020-07-06,50724.86,Good performer
+EMP1035,Barbara Jackson,barbara.jackson@example.com,+1-263-610-5546,32.0,F,HR,boston,bachelor,2.0,3.0,0.0,11-18-2022,51859.82,
+EMP1347,Kenneth Harris,kenneth.harris@example.com,+1-795-535-4083,51.0,Female,support,Miami,PhD,8.0,,0.0,2011-06-05,73296.57,On PIP
+EMP1262,Kevin Rodriguez,kevin.rodriguez@example.com,+1-481-979-2359,28.0,male,Suport,miami,Master,0.0,3.0,0.0,2021-01-13,53857.62,On PIP
+EMP1493,Sarah Harris,sarah.harris650@example.com,+1-726-507-9173,30.0,,IT,Boston,Master,2.0,2.0,0.0,23-Nov-2015,91424.86,Promoted last cycle
+EMP1340,Thomas Thomas,thomas.thomas319@example.com,+1-607-451-1367,30.0,male,I.T.,phoenix,PhD,9.0,3.0,0.0,02-25-2012,109209.41,On PIP
+EMP1246,Sandra Harris,sandra.harris850@example.com,+1-730-170-8930,19.0,female,it,seattle,PHD,1.0,2.0,,03-Jan-2020,98128.37,
+EMP1205,James Brown,james.brown@example.com,+1-563-491-2704,32.0,F,SALES,seattle,PHD,11.0,3.0,1.0,14/03/2012,90362.21,
+EMP1450,Jessica Thomas,jessica.thomas@example.com,+1-814-525-8185,28.0,male,Markting,austin,High School,0.0,3.0,1.0,11-09-2017,53391.59,Needs improvement
+EMP1332,Kevin Miller,kevin.miller@example.com,+1-855-612-1259,42.0,F,it,austin ,Bachelors,0.0,3.0,1.0,2019-04-10,69645.69,Good performer
+EMP1497,Melissa Martinez,melissa.martinez@example.com,+1-646-133-9384,33.0,male,sales,Denver,bachelor,0.0,3.0,1.0,22/12/2020,62112.84,
+EMP1411,Andrew Jackson,andrew.jackson388@example.com,+1-568-603-2331,48.0,Female,I.T.,new york,PHD,13.0,2.0,0.0,16/03/2017,,Needs improvement
+EMP1005,Donald Brown,donald.brown@example.com,+1-423-886-5709,44.0,Male,it,boston,PhD,1.0,3.0,1.0,25/11/2012,102432.52,
+EMP1408,Susan Martinez,,+1-254-599-7441,43.0,F,it,MIAMI,PhD,3.0,3.0,0.0,01-18-2010,"$100,406.09",
+EMP1489,  Jessica Martin  ,jessica.martin311@example.com,+1-474-424-9666,43.0,Female,Ops,houston,Master,19.0,3.0,0.0,01/06/2025,98905.15,Good performer
+EMP1331,Mark Brown,mark.brown@example.com,+1-206-592-7264,44.0,male,finance,Chicago,bachelor,15.0,1.0,0.0,10-Sep-2017,98544.62,Needs improvement
+EMP1319,William Moore,william.moore@example.com,+1-692-861-7751,45.0,Male,it,new york,Bachelor,2.0,3.0,0.0,2021-04-23,"$77,488.47",
+EMP1224,Susan Johnson,susan.johnson@example.com,+1-695-338-2078,49.0,Male,FINANCE,Seattle,PhD,2.0,1.0,1.0,,98781.88,Promoted last cycle
+EMP1478,Daniel Smith,daniel.smith@example.com,+1-255-400-5431,0.0,M,I.T.,denver,High School,1.0,3.0,0.0,10-08-2018,,On PIP
+EMP1335,Ashley Clark,ashley.clark@example.com,+1-619-645-2257,,Female,ENGINEERING,Austin,Bachelor,2.0,2.0,0.0,2010-12-15,74552.56,
+EMP1315,Nancy Davis,nancy.davis@example.com,+1-589-577-1207,38.0,M,support,Austin,Bachelor,2.0,4.0,0.0,19-Nov-2019,54405.78,
+EMP1163,Dorothy Thompson,dorothy.thompson@example.com,+1-961-990-7206,44.0,male, Engineering,denver,Bachelors,7.0,3.0,1.0,2017-12-19,96859.97,On PIP
+EMP1485,Ashley Thompson,ashley.thompson@example.com,+1-811-882-6353,44.0,female,it,Denver,PHD,4.0,2.0,1.0,29/09/2016,108413.96,On PIP
+EMP1166,Betty Thomas,betty.thomas@example.com,+1-837-479-9575,46.0,Male,I.T.,Houston,bachelor,2.0,2.0,0.0,18-Aug-2017,83039.66,
+EMP1103,James Martin,james.martin@example.com,+1-564-632-8303,28.0,Male,Finance,houston,Bachelor,5.0,2.0,0.0,2021-07-26,89253.01,N/A
+EMP1476,David Martinez,david.martinez423@example.com,+1-227-373-7317,54.0,Female,finance,boston,Master,1.0,2.0,0.0,2024-04-12,90366.23,On PIP
+EMP1243,John Johnson,john.johnson@example.com,+1-212-792-7726,31.0,male,finance,austin,Master,6.0,3.0,0.0,05/04/2024,97497.62,Promoted last cycle
+EMP1006,David Thompson,david.thompson@example.com,+1-284-280-3478,39.0,,Ops,austin ,Master,0.0,4.0,,16/03/2015,66644.51,
+EMP1169,Timothy Thompson,timothy.thompson@example.com,+1-266-550-7514,44.0,female,Engineering,denver,PHD,10.0,2.0,0.0,07/01/2021,130276.5,Promoted last cycle
+EMP1434,Joshua Martinez,joshua.martinez918@example.com,+1-962-121-9652,34.0,Male,Marketing,miami,Master,1.0,3.0,1.0,2016-03-24,72797.79,
+EMP1063,Melissa Thompson,melissa.thompson@example.com,+1-735-371-5843,36.0,female,Engineering,seattle,High School,4.0,1.0,,26/05/2024,,
+EMP1361,Kimberly Brown,kimberly.brown786@example.com,+1-320-507-6839,45.0,F,Human Resources,miami,High School,4.0,3.0,0.0,05-28-2022,57245.76,N/A
+EMP1305,Kenneth Moore,kenneth.moore81@example.com,+1-493-144-5838,150.0,male, Engineering,denver,Bachelors,3.0,1.0,0.0,09/11/2016,"$92,884.72",Good performer
+EMP1018,Thomas Miller,thomas.miller@example.com,+1-400-465-6218,25.0,Female,operations,Houston,bachelor,2.0,2.0,,01-26-2012,51940.08,Needs improvement
+EMP1234,David Anderson,david.anderson825@example.com,+1-252-869-3521,48.0,male,Finance,seattle,PhD,14.0,1.0,0.0,15-Jul-2025,118773.3,
+EMP1423,Robert Garcia,robert.garcia@example.com,+1-264-984-7113,31.0,F,I.T.,chicago,,4.0,3.0,1.0,12-22-2016,83438.15,
+EMP1086,Andrew Clark,andrew.clark@example.com,+1-875-259-8789,43.0,F,Engineering,boston,High School,999.0,3.0,1.0,2019-04-02,1866415.71,
+EMP1481,CHRISTOPHER JACKSON,christopher.jackson@example.com,+1-806-553-8708,19.0,F,finance,Seattle,Master,1.0,3.0,1.0,21/12/2016,88763.21,
+EMP1284,Michael White,michael.white@example.com,+1-929-261-6770,38.0,M,marketing,boston,PhD,7.0,4.0,0.0,2016-04-20,101634.03,Good performer
+EMP1215,Brian Moore,brian.moore@example.com,+1-748-114-2203,27.0,Male,Markting,CHICAGO,bachelor,4.0,1.0,0.0,2018-02-09,59696.44,Promoted last cycle
+EMP1180,Steven Clark,steven.clark@example.com,,30.0,M,Support,Seattle,Bachelor,6.0,2.0,0.0,21/10/2016,"$57,034.15",
+EMP1233,Joseph Wilson,joseph.wilson328@example.com,+1-498-527-8845,33.0,Male,Engineering,Chicago,Bachelor,3.0,2.0,0.0,10-19-2015,79817.48,Good performer
+EMP1344,Brian Martinez,brian.martinez@example.com,+1-392-146-6630,29.0,Female,support,Seattle,bachelor,0.0,3.0,0.0,2010-12-04,44073.19,Needs improvement
+EMP1301,Daniel White,,+1-786-991-1827,35.0,M,Markting,Austin,Bachelors,3.0,3.0,1.0,06/06/2014,"$58,751.73",Good performer
+EMP1165,Carol Wilson,carol.wilson@example.com,,51.0,F,ENGINEERING,boston,High School,1.0,2.0,0.0,09-10-2021,65973.79,Good performer
+EMP1350,William Martinez,william.martinez@example.com,+1-730-320-3252,50.0,male,HR,denver,High School,5.0,2.0,1.0,2010-05-16,55366.21,
+EMP1454,John Johnson,john.johnson744@example.com,+1-993-139-8642,69.0,Female,Human Resources,austin ,PHD,3.0,2.0,0.0,08/10/2015,78992.88,
+EMP1436,Daniel Jackson,daniel.jackson@example.com,+1-739-260-3784,18.0,Female,Sales ,Miami,PhD,1.0,2.0,0.0,11-13-2014,75694.77,
+EMP1030,Steven Thompson,steven.thompson@example.com,+1-846-620-5580,27.0,female,HR,Chicago,Bachelors,6.0,1.0,1.0,07-12-2012,62373.05,Needs improvement
+EMP1108,  Margaret Moore  ,margaret.moore@example.com,+1-479-743-9884,41.0,Male,operations,New York,PHD,0.0,2.0,0.0,2010-10-21,64763.21,Needs improvement
+EMP1471,Paul Johnson,paul.johnson@example.com,+1-772-215-5341,28.0,Male,ENGINEERING,Phoenix,Bachelors,7.0,3.0,1.0,02-09-2020,96648.83,
+EMP1499,Carol Miller,carol.miller@example.com,+1-223-966-7509,27.0,Male,Operations,seattle,PhD,6.0,3.0,1.0,08/12/2013,78803.58,
+EMP1287,Dorothy Rodriguez,dorothy.rodriguez@example.com,+1-632-349-6464,35.0,Male,it,boston,Bachelor,4.0,1.0,0.0,04/03/2023,75870.33,
+EMP1160,Barbara Taylor,barbara.taylor@example.com,+1-274-379-3903,40.0,M,SALES,Denver,Bachelor,3.0,2.0,0.0,05-05-2010,67102.07,
+EMP1293,Sarah Thomas,sarah.thomas@example.com,+1-868-209-2323,40.0,M,Human Resources,Seattle,PhD,6.0,3.0,0.0,2023-09-22,82806.55,Good performer
+EMP1129,Jennifer Martin,jennifer.martin@example.com,+1-904-949-8418,50.0,M,H.R.,Miami,PhD,0.0,2.0,0.0,2021-05-29,,Needs improvement
+EMP1118,James Thomas,james.thomas@example.com,+1-862-644-9426,38.0,Female,,New York,Bachelor,2.0,2.0,0.0,23/03/2013,55942.6,
+EMP1190,Michelle Jackson,michelle.jackson910@example.com,+1-899-221-7179,44.0,F,Ops,NYC,Master,0.0,3.0,0.0,01-16-2020,69401.63,Promoted last cycle
+EMP1438,Kenneth Robinson,kenneth.robinson634@example.com,+1-572-865-1060,999.0,female,sales,austin ,Master,1.0,4.0,0.0,01-12-2016,219751.72,Promoted last cycle
+EMP1352,Nancy Davis,nancy.davis276@example.com,+1-802-107-9092,18.0,male,Suport,MIAMI,Bachelors,0.0,3.0,0.0,15-Dec-2022,"$54,316.86",Good performer
+EMP1327,Deborah Wilson,deborah.wilson459@example.com,+1-482-925-5122,30.0,female,Support,houston,bachelor,0.0,2.0,1.0,26/07/2023,51591.87,
+EMP1452,Amanda Thomas,amanda.thomas149@example.com,+1-833-705-2274,41.0,Male,Engineering,Miami,High School,3.0,2.0,0.0,11/02/2015,74575.3,
+EMP1290,Paul Moore,paul.moore@example.com,+1-857-435-3253,40.0,female,finance,CHICAGO,Master,8.0,2.0,1.0,2017-05-14,99788.2,
+EMP1444,Melissa Jackson,melissa.jackson904@example.com,+1-977-805-2966,34.0,M,Ops,austin,bachelor,3.0,2.0,1.0,2014-01-31,61800.02,N/A
+EMP1136,Joshua Clark,joshua.clark@example.com,+1-202-132-9376,20.0,Male,marketing,Boston,PHD,0.0,1.0,0.0,18/07/2019,82643.38,On PIP
+EMP1400,Susan Robinson,susan.robinson@example.com,+1-316-241-5041,24.0,Female,ENGINEERING,Denver,PhD,0.0,2.0,1.0,09/05/2021,101891.66,
+EMP1258,Elizabeth Martin,elizabeth.martin@example.com,+1-286-157-3628,22.0,female,operations,CHICAGO,PHD,1.0,2.0,,2012-10-14,70773.97,Promoted last cycle
+EMP1494,Jessica Garcia,jessica.garcia@example.com,+1-825-429-4370,67.0,F,Sales,CHICAGO,PHD,4.0,2.0,0.0,2022-01-13,77967.83,N/A
+EMP1007,THOMAS THOMAS,thomas.thomas@example.com,+1-896-917-7428,33.0,female,Support,MIAMI,bachelor,1.0,4.0,1.0,05-Dec-2018,44570.21,
+EMP1430,John Clark,john.clark422@example.com,+1-388-806-2827,30.0,M,Ops,New york,bachelor,5.0,3.0,0.0,12-Jul-2025,60882.06,On PIP
+EMP1012,Nancy Moore,nancy.moore@example.com,+1-689-282-8109,55.0,female, Engineering,Seattle,High School,,3.0,,04-05-2024,86614.18,Needs improvement
+EMP1156,Joseph Clark,joseph.clark@example.com,+1-977-535-5565,27.0,M,HR,Austin,bachelor,6.0,4.0,0.0,10-Sep-2016,63889.52,
+EMP1093,Barbara Thomas,barbara.thomas@example.com,+1-359-423-1497,,M,Marketing,NYC,PHD,4.0,3.0,0.0,09-26-2017,83978.93,
+EMP1225,Susan Rodriguez,susan.rodriguez@example.com,+1-223-682-7126,37.0,M,finance,Austin,High School,5.0,2.0,0.0,20/08/2013,69398.41,
+EMP1111,Betty Smith,betty.smith@example.com,+1-222-262-2094,41.0,M,Suport,seattle,Master,2.0,2.0,0.0,08-04-2023,"$62,806.71",On PIP
+EMP1429,Ashley Johnson,ashley.johnson@example.com,+1-421-132-1219,39.0,M, Engineering,denver,PHD,8.0,4.0,0.0,27-May-2015,113876.23,
+EMP1446,WILLIAM WHITE,william.white260@example.com,,34.0,Male,support,austin,PHD,3.0,3.0,0.0,10-06-2012,"$66,280.89",
+EMP1043,Patricia Garcia,patricia.garcia@example.com,+1-584-135-8603,43.0,female,support,Denver,PhD,8.0,4.0,0.0,2011-05-28,80917.56,On PIP
+EMP1059,Joseph Wilson,joseph.wilson@example.com,+1-627-624-6965,26.0,female,finance,Seattle,High School,1.0,3.0,0.0,27/01/2011,61725.59,
+EMP1387,Andrew Martin,andrew.martin@example.com,+1-423-653-4726,31.0,F,Suport,Denver,Master,10.0,2.0,1.0,10-21-2020,72097.47,
+EMP1079,Matthew Johnson,matthew.johnson@example.com,+1-822-203-3338,41.0,female,Markting,Seattle,High School,4.0,2.0,1.0,29/03/2015,58860.48,
+EMP1427,Kevin Harris,kevin.harris@example.com,+1-315-674-8142,33.0,F,engineering,Houston,High School,5.0,3.0,1.0,17/09/2021,72381.6,N/A
+EMP1161,Steven Johnson,steven.johnson@example.com,+1-963-834-5400,32.0,male,ENGINEERING,NYC,Master,5.0,2.0,1.0,15-Dec-2018,90977.24,
+EMP1186,Thomas Taylor,thomas.taylor351@example.com,+1-588-515-2427,32.0,female,I.T.,NYC,PHD,3.0,1.0,1.0,02-14-2015,95671.03,N/A
+EMP1102,Jennifer Rodriguez,jennifer.rodriguez@example.com,+1-938-156-9494,22.0,Female,Markting,phoenix,High School,1.0,3.0,1.0,10-18-2017,57045.09,
+EMP1269,Deborah Smith,deborah.smith@example.com,+1-379-468-4085,63.0,F,I.T.,seattle,bachelor,1.0,3.0,0.0,26/07/2023,74409.56,Promoted last cycle
+EMP1174,George Thompson,george.thompson@example.com,+1-368-610-4617,18.0,male,Sales,Houston,PhD,0.0,,0.0,02-11-2025,73629.15,
+EMP1431,Donald White,donald.white@example.com,+1-726-844-4959,21.0,F,marketing,Denver,Bachelor,1.0,2.0,1.0,25-Jan-2020,63558.71,
+EMP1313,Richard Harris,richard.harris@example.com,+1-769-576-1600,29.0,Female,finance,boston,PhD,7.0,3.0,0.0,31/10/2011,109951.98,
+EMP1259,Kenneth Wilson,kenneth.wilson@example.com,+1-438-594-1400,44.0,Male,Suport,phoenix,PHD,1.0,2.0,0.0,06/02/2025,65374.13,N/A
+EMP1193,Karen Harris,karen.harris371@example.com,+1-603-427-7316,18.0,male,finance,Denver,Master,1.0,2.0,1.0,08-07-2020,74213.16,
+EMP1341,Elizabeth Wilson,elizabeth.wilson@example.com,+1-490-883-6629,34.0,male,Marketing,austin,PhD,11.0,3.0,0.0,2015-09-20,,Good performer
+EMP1019,Mark Smith,mark.smith@example.com,+1-973-232-7918,54.0,Male,Sales,Phoenix,Master,9.0,2.0,1.0,02-28-2025,73326.39,Promoted last cycle
+EMP1041,  Elizabeth Harris  ,elizabeth.harris@example.com,+1-281-269-6394,20.0,F,Operations,new york,PhD,1.0,3.0,1.0,12/04/2014,75776.27,
+EMP1268,William Garcia,william.garcia@example.com,+1-343-610-5630,57.0,M,Sales ,Seattle,High School,5.0,3.0,0.0,29-May-2017,62341.52,Good performer
+EMP1330,Daniel Thompson,daniel.thompson@example.com,+1-489-292-8874,42.0,M,Operations,austin,Master,1.0,1.0,0.0,23-Oct-2016,62917.45,
+EMP1457,Andrew Wilson,andrew.wilson@example.com,+1-460-598-5985,33.0,Male,Marketing,Houston,Master,2.0,3.0,0.0,14-May-2024,70777.86,Good performer
+EMP1042,Karen Harris,karen.harris@example.com,+1-977-312-7228,52.0,Male,Sales,chicago,Master,,4.0,1.0,12-31-2017,64612.27,
+EMP1363,Barbara Smith,barbara.smith@example.com,+1-346-126-1983,20.0,Male,Ops,Denver,,0.0,1.0,0.0,13/02/2014,61401.44,On PIP
+EMP1291,Lisa Taylor,lisa.taylor@example.com,+1-583-934-1954,47.0,Female,it,boston,Bachelor,0.0,1.0,1.0,24-Aug-2010,79639.81,Promoted last cycle
+EMP1362,Joshua Jackson,joshua.jackson641@example.com,+1-368-986-9456,25.0,male,Engineering,boston,Bachelor,3.0,2.0,0.0,06-15-2021,85054.13,On PIP
+EMP1295,Michelle Davis,michelle.davis@example.com,+1-260-849-5690,24.0,F,FINANCE,Chicago,Bachelors,0.0,3.0,,02-08-2015,69547.7,On PIP
+EMP1105,Michael Moore,michael.moore@example.com,+1-326-576-9087,22.0,Male,I.T.,phoenix,Master,1.0,3.0,0.0,02-21-2023,"$77,694.54",Needs improvement
+EMP1173,Donna Miller,donna.miller@example.com,+1-424-915-8194,35.0,Male,ENGINEERING,New york,,6.0,1.0,1.0,16/07/2016,"$115,962.60",Needs improvement
+EMP1081,Ashley Robinson,ashley.robinson@example.com,+1-776-609-5863,,male,IT,Denver,Bachelors,3.0,1.0,0.0,06-12-2020,591559.52,
+EMP1047,Paul Davis,paul.davis@example.com,+1-488-692-4084,32.0,M,finance,austin ,Bachelor,10.0,3.0,0.0,2017-04-27,82401.78,
+EMP1311,Nancy Taylor,nancy.taylor@example.com,+1-812-346-8114,26.0,Female,FINANCE,austin,PhD,0.0,3.0,0.0,06-07-2020,91487.36,
+EMP1094,John Moore,john.moore@example.com,+1-460-963-1620,35.0,Male,H.R.,austin,PhD,3.0,3.0,1.0,07/08/2017,79274.07,
+EMP1477,SANDRA JACKSON,sandra.jackson145@example.com,+1-968-383-2370,28.0,Female,Marketing,phoenix,Master,0.0,3.0,1.0,13-May-2019,69491.39,Needs improvement
+EMP1082,  Kenneth White  ,kenneth.white@example.com,+1-840-229-6547,43.0,F,Support,miami,PHD,2.0,4.0,0.0,02-13-2012,74143.6,Good performer
+EMP1306,Mary White,mary.white948@example.com,+1-433-489-4274,38.0,F,Operations,CHICAGO,Master,2.0,3.0,1.0,20-Mar-2017,61516.81,
+EMP1143,Carol Taylor,carol.taylor@example.com,+1-496-994-7239,,Male,IT,NYC,High School,1.0,3.0,1.0,03-27-2013,61267.07,
+EMP1459,Anthony Miller,anthony.miller@example.com,+1-317-406-9617,36.0,F,operations,New York,High School,0.0,1.0,0.0,06/04/2017,42874.3,
+EMP1181,Linda Miller,linda.miller@example.com,+1-408-230-4930,40.0,male,IT,Houston,,0.0,1.0,0.0,30/12/2021,78251.94,
+EMP1425,Emily Garcia,emily.garcia@example.com,+1-258-181-3556,28.0,Male,FINANCE,Austin,Bachelor,1.0,1.0,1.0,01/12/2020,67348.24,
+EMP1356,Amanda Davis,amanda.davis@example.com,+1-266-435-1310,26.0,female,Support,Denver,bachelor,5.0,2.0,0.0,06-26-2012,59746.91,
+EMP1140,Kevin Anderson,kevin.anderson@example.com,+1-975-217-9440,43.0,F,Sales,Boston,Bachelor,,3.0,1.0,16-Apr-2012,58824.08,On PIP
+EMP1107,Nancy Martin,nancy.martin@example.com,+1-632-779-1189,45.0,M,support,Miami,Bachelors,7.0,2.0,0.0,2018-03-05,68717.65,
+EMP1239,Anthony White,anthony.white@example.com,+1-770-232-2035,29.0,F,Suport,New York,High School,4.0,2.0,0.0,2020-06-13,"$51,687.81",
+EMP1292,Betty Johnson,betty.johnson176@example.com,+1-874-621-6144,22.0,M,Marketing,Houston,PHD,0.0,2.0,0.0,07/07/2016,74645.28,
+EMP1247,Susan Moore,susan.moore298@example.com,+1-727-907-6842,38.0,Male,Sales,denver,bachelor,5.0,2.0,0.0,11/04/2012,63437.3,
+EMP1402,Dorothy Brown,dorothy.brown336@example.com,+1-295-950-6367,27.0,male,,Miami,Bachelors,6.0,2.0,0.0,2025-07-04,70665.5,Good performer
+EMP1321,Ashley Garcia,ashley.garcia@example.com,+1-306-603-2604,41.0,F,Support,boston,Bachelors,5.0,1.0,1.0,2019-01-26,57852.82,N/A
+EMP1096,George Taylor,george.taylor@example.com,+1-303-248-6204,40.0,male,Engineering,NEW YORK,bachelor,1.0,3.0,1.0,17/02/2010,,On PIP
+EMP1123,  Margaret Johnson  ,margaret.johnson@example.com,+1-445-263-7027,44.0,M,hr,Chicago,Bachelors,5.0,3.0,1.0,01/12/2017,65624.53,Promoted last cycle
+EMP1261,Brian Smith,brian.smith@example.com,+1-793-729-3642,46.0,male,ENGINEERING,Boston,PhD,1.0,4.0,0.0,04-Feb-2017,110465.63,N/A
+EMP1024,Sandra Wilson,sandra.wilson@example.com,+1-285-586-5569,44.0,Male,Suport,Seattle,Master,8.0,2.0,0.0,11/04/2021,73759.51,
+EMP1014,Michael Martinez,michael.martinez@example.com,+1-757-529-3147,38.0,Female,hr,NEW YORK,Master,6.0,2.0,1.0,05-14-2011,70507.36,N/A
+EMP1062,Michelle Robinson,michelle.robinson@example.com,+1-689-832-9821,55.0,Male,Ops,houston,Master,10.0,2.0,1.0,22-Feb-2010,85229.39,
+EMP1308,Emily Smith,emily.smith@example.com,+1-219-930-7151,56.0,Male,FINANCE,Denver,PHD,,1.0,0.0,02/03/2018,107874.01,
+EMP1040,Steven Brown,,+1-824-291-4658,38.0,M,hr,Denver,PHD,2.0,3.0,0.0,17-Nov-2020,81114.71,
+EMP1367,Sarah Miller,sarah.miller@example.com,+1-384-520-9822,66.0,Male,sales,Boston,PHD,2.0,3.0,0.0,08/01/2012,81199.69,
+EMP1273,Elizabeth Miller,elizabeth.miller@example.com,+1-441-532-3301,22.0,F,FINANCE,CHICAGO,PhD,1.0,3.0,1.0,2015-04-24,93898.36,
+EMP1209,Dorothy Brown,dorothy.brown@example.com,+1-719-931-8503,40.0,M,Sales,MIAMI,PhD,0.0,3.0,0.0,2014-09-07,"$402,373.85",Promoted last cycle
+EMP1237,Sandra Jackson,sandra.jackson527@example.com,+1-442-254-3871,39.0,Male,finance,seattle,PHD,0.0,2.0,0.0,13/02/2024,"$93,816.54",Good performer
+EMP1099,Elizabeth Thompson,elizabeth.thompson@example.com,+1-667-594-2870,21.0,M,Marketing,austin ,Master,1.0,4.0,0.0,2013-06-10,59167.41,
+EMP1366,Sarah Davis,sarah.davis57@example.com,+1-561-828-9693,18.0,M,it,NEW YORK,Master,1.0,3.0,1.0,01-21-2019,78424.16,Needs improvement
+EMP1250,Mary Martin,mary.martin170@example.com,+1-966-901-4883,43.0,Male,Human Resources,phoenix,High School,6.0,3.0,0.0,01-29-2022,61929.42,
+EMP1488,George Anderson,george.anderson@example.com,+1-986-661-7943,34.0,male,Human Resources,Phoenix,PHD,3.0,3.0,1.0,13-Mar-2010,71558.29,Good performer
+EMP1383,Mary Rodriguez,mary.rodriguez@example.com,+1-989-174-8238,18.0,F,it,austin ,High School,1.0,3.0,1.0,04-Feb-2010,"$61,688.41",N/A
+EMP1296,Donald Rodriguez,donald.rodriguez@example.com,+1-336-811-6007,43.0,Female,it,Denver,Master,22.0,4.0,0.0,2018-11-19,132312.37,
+EMP1409,Michelle Smith,michelle.smith@example.com,+1-244-136-7275,54.0,M,Marketing,Boston,bachelor,8.0,3.0,0.0,2020-02-18,82246.74,Good performer
+EMP1380,Barbara Thompson,barbara.thompson838@example.com,+1-600-615-9103,28.0,male,marketing,Seattle,bachelor,7.0,5.0,1.0,17/10/2019,73289.07,N/A
+EMP1128,Ashley Martinez,ashley.martinez@example.com,+1-450-797-2821,24.0,M,Support,CHICAGO,High School,3.0,1.0,1.0,11-01-2010,49757.43,
+EMP1083,Margaret Jackson,margaret.jackson209@example.com,+1-870-604-2932,28.0,M,finance,denver,Bachelors,4.0,,1.0,03/06/2017,86148.12,
+EMP1466,Joshua Anderson,joshua.anderson198@example.com,+1-548-808-3968,21.0,M,Engineering,denver,High School,1.0,3.0,1.0,02-23-2015,67769.3,
+EMP1208,Kenneth Clark,kenneth.clark@example.com,+1-531-208-9352,37.0,Male, Engineering,CHICAGO,Bachelor,5.0,1.0,0.0,2018-07-24,88218.62,On PIP
+EMP1028,Thomas Taylor,thomas.taylor@example.com,+1-403-179-3415,41.0,F,it,Boston,bachelor,9.0,4.0,1.0,06-10-2017,93355.8,
+EMP1090,Joshua Jackson,joshua.jackson@example.com,+1-662-390-1027,0.0,F,FINANCE,Boston,PhD,1.0,1.0,0.0,03-18-2017,66546.07,
+EMP1395,Robert Brown,robert.brown@example.com,+1-288-475-5608,26.0,M,I.T.,austin ,PhD,4.0,2.0,1.0,05-16-2013,98109.43,
+EMP1074,Margaret Jackson,margaret.jackson@example.com,+1-891-776-3999,36.0,F,Human Resources,houston,PhD,1.0,3.0,1.0,09-05-2024,70899.21,N/A
+EMP1188,Brian Thompson,brian.thompson@example.com,+1-559-935-7461,44.0,F,HR,,Master,3.0,2.0,0.0,02-Dec-2016,61823.39,N/A
+EMP1172,Kevin Thomas,kevin.thomas@example.com,+1-334-153-4399,42.0,F,ENGINEERING,Austin,PHD,2.0,4.0,1.0,01-15-2022,109286.17,Promoted last cycle
+EMP1162,Elizabeth Harris,elizabeth.harris680@example.com,+1-318-188-1551,35.0,,engineering,miami,Bachelors,,3.0,1.0,10-Feb-2011,73117.47,Promoted last cycle
+EMP1070,Melissa Brown,melissa.brown@example.com,+1-972-805-1555,,F,finance,Boston,bachelor,4.0,3.0,1.0,10-25-2017,75692.52,Promoted last cycle
+EMP1222,George Miller,george.miller@example.com,+1-211-742-9432,34.0,Male,H.R.,Seattle,bachelor,3.0,4.0,0.0,20-Jul-2010,63877.51,
+EMP1092,  Susan Anderson  ,susan.anderson@example.com,+1-528-588-9293,58.0,F,SALES,Chicago,Bachelors,4.0,2.0,0.0,21/03/2023,58488.61,
+EMP1413,Jennifer Davis,jennifer.davis318@example.com,+1-499-972-2880,20.0,male, Engineering,Denver,Bachelors,1.0,1.0,1.0,29-Sep-2022,75680.87,On PIP
+EMP1198,Robert Rodriguez,robert.rodriguez@example.com,+1-916-629-2182,32.0,female,H.R.,chicago,Bachelors,,2.0,1.0,,75463.49,Promoted last cycle
+EMP1398,Steven Anderson,steven.anderson@example.com,+1-329-151-3687,40.0,Male,support,phoenix,PhD,0.0,2.0,0.0,29/08/2025,67100.4,
+EMP1126,Joseph Thomas,joseph.thomas@example.com,+1-622-125-8578,,Female,operations,houston,High School,3.0,2.0,0.0,29-Jul-2015,50906.46,
+EMP1248,Lisa Martin,lisa.martin@example.com,+1-712-111-3347,47.0,M,Operations,seattle,Bachelors,10.0,3.0,0.0,27-Jul-2023,77844.22,
+EMP1274,Deborah Brown,deborah.brown@example.com,+1-402-171-5256,31.0,F,IT,Phoenix,Bachelors,1.0,3.0,1.0,11-05-2011,70185.31,Promoted last cycle
+EMP1060,Patricia Smith,patricia.smith@example.com,+1-214-920-4990,37.0,Female,Human Resources,austin ,Bachelor,16.0,2.0,0.0,13/11/2025,79913.88,
+EMP1121,BARBARA JACKSON,barbara.jackson424@example.com,+1-516-508-8936,23.0,Male,Ops,austin,Bachelor,2.0,2.0,0.0,03/07/2010,54412.75,
+EMP1013,Sandra Harris,sandra.harris@example.com,+1-558-259-9989,40.0,female,Marketing,houston,Bachelor,4.0,2.0,,19/04/2022,69848.81,Promoted last cycle
+EMP1393,Nancy White,nancy.white583@example.com,+1-607-550-4788,38.0,female,Markting,MIAMI,High School,4.0,2.0,0.0,30-Aug-2019,53412.44,Needs improvement
+EMP1271,Anthony White,anthony.white528@example.com,+1-531-791-7293,32.0,Male,engineering,Houston,Bachelor,2.0,3.0,,2019-02-01,78691.4,Needs improvement
+EMP1377,Barbara Martin,barbara.martin@example.com,+1-933-278-1085,34.0,Female,Engineering,Miami,Master,5.0,3.0,0.0,08-12-2010,107728.99,
+EMP1125,SARAH HARRIS,sarah.harris@example.com,+1-311-169-6922,42.0,Female, Engineering,CHICAGO,PHD,7.0,2.0,1.0,03-22-2021,116977.89,
+EMP1462,Jessica Rodriguez,jessica.rodriguez@example.com,+1-268-719-8337,38.0,Male,finance,Chicago,High School,2.0,2.0,1.0,2010-08-22,68883.37,
+EMP1158,Margaret Miller,margaret.miller@example.com,+1-675-799-7507,34.0,M,sales,new york,Bachelor,5.0,4.0,1.0,10-Jan-2012,75800.2,Good performer
+EMP1342,Deborah Moore,deborah.moore123@example.com,+1-720-284-7999,48.0,M,finance,New york,Bachelor,0.0,1.0,1.0,2015-08-11,78646.43,Needs improvement
+EMP1187,Karen Smith,karen.smith@example.com,+1-677-734-1533,18.0,F,it,boston,Bachelor,1.0,3.0,1.0,07-21-2016,78567.94,
+EMP1374,Lisa Moore,lisa.moore@example.com,+1-769-826-7266,32.0,male,FINANCE,New York,,10.0,1.0,0.0,11-29-2022,"$93,901.12",Good performer
+EMP1470,Patricia Jackson,patricia.jackson958@example.com,+1-809-605-6536,999.0,Male,sales,houston,PHD,12.0,2.0,1.0,2017-10-01,234524.96,
+EMP1482,Michael Harris,michael.harris160@example.com,+1-238-414-8489,50.0,Female,support,houston,High School,19.0,2.0,0.0,2016-07-03,79966.03,Promoted last cycle
+EMP1214,Susan Moore,susan.moore@example.com,+1-491-871-7404,150.0,male,Ops,Chicago,PhD,0.0,3.0,0.0,07-29-2015,89197.24,
+EMP1455,Thomas Johnson,thomas.johnson@example.com,+1-987-601-1538,30.0,female,Markting,Seattle,PhD,1.0,3.0,1.0,22-Mar-2014,80897.58,N/A
+EMP1348,William Smith,william.smith@example.com,+1-412-857-4438,35.0,male,finance,NYC,Master,0.0,2.0,,15/06/2015,76111.67,Promoted last cycle
+EMP1464,Lisa Robinson,lisa.robinson975@example.com,+1-547-368-7883,36.0,male,it,Phoenix,Master,0.0,3.0,1.0,02/03/2022,86547.69,Needs improvement
+EMP1089,Patricia Jackson,patricia.jackson@example.com,+1-663-378-6470,36.0,female,Marketing,chicago,Bachelor,3.0,2.0,,07-23-2016,,Promoted last cycle
+EMP1324,Jessica Smith,jessica.smith@example.com,+1-303-353-8198,,M,Operations,MIAMI,Bachelors,3.0,2.0,0.0,29-Jul-2021,58086.86,
+EMP1132,Margaret Wilson,margaret.wilson@example.com,+1-487-411-4229,35.0,M,Operations,CHICAGO,High School,0.0,1.0,0.0,06-24-2012,"$47,486.25",
+EMP1125,SARAH HARRIS,sarah.harris@example.com,+1-311-169-6922,42.0,Female, Engineering,CHICAGO,PHD,7.0,2.0,1.0,03-22-2021,116977.89,
+EMP1175,Deborah Moore,deborah.moore@example.com,+1-358-989-1928,36.0,female,Sales,Boston,PHD,0.0,1.0,1.0,09/08/2025,75762.03,Good performer
+EMP1500,Karen Robinson,karen.robinson48@example.com,+1-223-780-5914,49.0,F,Human Resources,new york,Bachelors,3.0,2.0,0.0,2025-06-02,58737.59,Promoted last cycle
+EMP1192,Jennifer Harris,jennifer.harris@example.com,+1-263-266-6046,41.0,Male,finance,houston,PHD,,,0.0,04/09/2021,96911.03,
+EMP1015,Steven Miller,steven.miller@example.com,+1-533-798-9492,999.0,Female,Markting,new york,Bachelor,20.0,3.0,0.0,26-Nov-2021,248465.67,
+EMP1404,Thomas Clark,thomas.clark@example.com,+1-729-137-2866,32.0,Male,Support,MIAMI,Bachelor,6.0,2.0,0.0,06/04/2012,60935.17,
+EMP1251,Joshua Wilson,joshua.wilson@example.com,+1-288-989-2140,33.0,F,Sales ,phoenix,Bachelors,12.0,2.0,1.0,18-Jul-2022,76957.64,
+EMP1124,Donna Moore,donna.moore@example.com,+1-822-622-4482,32.0,male,I.T.,houston,PhD,1.0,4.0,0.0,2012-10-25,92596.73,On PIP
+EMP1139,Melissa Thompson,melissa.thompson912@example.com,+1-407-661-2839,40.0,male,operations,Miami,PhD,7.0,3.0,0.0,12-18-2014,84191.55,
+EMP1112,Matthew Thompson,matthew.thompson@example.com,,24.0,Female,marketing,seattle,bachelor,1.0,2.0,0.0,11/01/2016,59601.61,
+EMP1052,Elizabeth Harris,elizabeth.harris772@example.com,+1-402-408-3075,55.0,Female,Marketing,seattle,Bachelors,13.0,1.0,1.0,23-Dec-2010,90917.57,
+EMP1359,William Miller,william.miller@example.com,+1-756-371-1038,30.0,Female,I.T.,MIAMI,Bachelor,1.0,1.0,1.0,09-Feb-2025,72231.16,
+EMP1113,Anthony Robinson,anthony.robinson@example.com,+1-940-461-5799,30.0,male,marketing,austin ,High School,9.0,3.0,1.0,01-Dec-2017,64073.66,
+EMP1010,Brian Robinson,brian.robinson@example.com,+1-537-751-4654,18.0,Female,SALES,,Master,1.0,1.0,1.0,03/10/2023,,Promoted last cycle
+EMP1020,Christopher Brown,christopher.brown@example.com,+1-324-564-1189,54.0,M,SALES,New York,High School,9.0,3.0,1.0,10-Aug-2017,73457.62,On PIP
+EMP1017,Kimberly Anderson,kimberly.anderson@example.com,+1-417-785-5960,36.0,F,IT,Boston,PhD,0.0,4.0,1.0,29/09/2012,90864.49,
+EMP1278,Richard Davis,richard.davis@example.com,,51.0,Female,Finance,Denver,High School,8.0,2.0,0.0,2011-09-06,77951.88,
+EMP1001,Christopher Miller,christopher.miller@example.com,+1-764-534-1968,56.0,Female,SALES,New york,High School,22.0,2.0,0.0,2022-09-07,,
+EMP1424,Susan Miller,susan.miller@example.com,+1-830-375-6136,56.0,Male,support,houston,PHD,0.0,2.0,0.0,15/10/2019,67859.62,Promoted last cycle
+EMP1106,William Robinson,william.robinson@example.com,+1-738-137-7482,39.0,Male,I.T.,Boston,bachelor,0.0,4.0,0.0,03-02-2011,72981.65,N/A
+EMP1343,Karen White,karen.white265@example.com,+1-822-806-2615,22.0,Female,support,austin ,PhD,0.0,3.0,0.0,14/04/2015,65979.25,
+EMP1407,William Thomas,william.thomas@example.com,+1-573-335-2461,37.0,M,Sales,NEW YORK,Bachelors,2.0,3.0,0.0,08-Apr-2025,63696.84,
+EMP1491,Daniel Johnson,daniel.johnson577@example.com,+1-895-647-6650,53.0,F,Suport,MIAMI,PhD,8.0,2.0,1.0,09-23-2017,82989.18,
+EMP1379,Paul Davis,paul.davis693@example.com,+1-976-522-8743,55.0,Female,IT,CHICAGO,bachelor,0.0,4.0,1.0,06-Aug-2020,76088.32,Needs improvement
+EMP1231,Sandra Jackson,sandra.jackson@example.com,+1-319-744-5787,29.0,female,operations,houston,High School,0.0,3.0,0.0,05/05/2022,40756.75,
+EMP1458,DEBORAH JOHNSON,deborah.johnson@example.com,+1-973-658-6611,36.0,Male,SALES,Boston,Bachelors,13.0,4.0,0.0,26/10/2021,76097.61,
+EMP1071,Emily Jackson,emily.jackson@example.com,+1-920-946-3532,44.0,female,hr,seattle,bachelor,20.0,3.0,1.0,01/07/2013,87902.24,
+EMP1325,Mark Wilson,mark.wilson@example.com,+1-606-955-9975,33.0,F,Support,miami,High School,2.0,4.0,0.0,2025-04-15,41092.74,
+EMP1257,Nancy Thomas,nancy.thomas@example.com,+1-258-547-5322,52.0,Male,Engineering,Phoenix,bachelor,0.0,1.0,0.0,2012-09-26,83803.35,N/A
+EMP1285,John Wilson,john.wilson@example.com,+1-220-501-7390,34.0,M,Suport,Chicago,PhD,0.0,2.0,1.0,03-Mar-2014,66408.54,
+EMP1039,Amanda Thomas,amanda.thomas@example.com,+1-546-835-7890,34.0,female,Operations,Austin,PhD,1.0,1.0,1.0,16-Feb-2018,"$74,890.68",Promoted last cycle
+EMP1151,  Andrew Jackson  ,andrew.jackson@example.com,+1-824-795-6534,45.0,M,ENGINEERING,new york,Master,0.0,4.0,0.0,2013-11-30,90876.05,
+EMP1299,Deborah Wilson,deborah.wilson153@example.com,+1-525-326-8110,53.0,Female,operations,boston,PHD,0.0,3.0,0.0,09-14-2018,78386.68,Promoted last cycle
+EMP1463,  CHRISTOPHER MILLER  ,christopher.miller451@example.com,+1-628-578-3043,37.0,M,Operations,Seattle,Bachelor,1.0,3.0,0.0,2015-04-04,57680.98,Needs improvement
+EMP1164,Kevin Jackson,kevin.jackson@example.com,+1-975-641-6965,52.0,male,finance,denver,,2.0,2.0,1.0,02/10/2021,76946.48,
+EMP1168,Amanda Thompson,amanda.thompson@example.com,+1-928-694-7100,40.0,Female,operations,austin,PhD,1.0,3.0,0.0,04/06/2011,74431.2,
+EMP1275,Jennifer Martin,jennifer.martin440@example.com,+1-369-701-1744,38.0,M,IT,Houston,PhD,3.0,2.0,0.0,2021-03-01,93791.71,
+EMP1207,Matthew Brown,matthew.brown@example.com,+1-677-149-7586,45.0,Female, Engineering,Phoenix,High School,11.0,3.0,0.0,24/05/2015,"$88,544.33",On PIP
+EMP1245,Donald Thompson,donald.thompson@example.com,+1-432-478-2157,42.0,Male,support,Phoenix,High School,3.0,2.0,0.0,2023-10-18,48331.86,
+EMP1189,  David Harris  ,,+1-726-782-7171,23.0,M,Human Resources,austin ,bachelor,1.0,1.0,0.0,01-11-2013,48828.22,
+EMP1439,Kenneth Davis,kenneth.davis@example.com,+1-470-828-2820,35.0,F,FINANCE,MIAMI,High School,9.0,3.0,1.0,2018-12-14,79808.53,
+EMP1479,John White,john.white@example.com,+1-273-794-1428,29.0,male,Support,Boston,PhD,3.0,3.0,1.0,2010-06-06,63911.97,
+EMP1146,SANDRA RODRIGUEZ,sandra.rodriguez@example.com,+1-342-815-1558,26.0,male,finance,Austin,Master,4.0,1.0,1.0,2022-07-29,87313.93,Promoted last cycle
+EMP1442,Kimberly Thompson,kimberly.thompson@example.com,+1-772-756-4142,33.0,female,Engineering,Chicago,Master,12.0,3.0,0.0,12-10-2025,,Promoted last cycle
+EMP1435,Donald Brown,donald.brown714@example.com,+1-980-157-3644,35.0,male,Marketing,seattle,High School,1.0,1.0,0.0,05-05-2014,"$51,484.02",
+EMP1405,Melissa Davis,melissa.davis@example.com,+1-894-544-8595,29.0,male,operations,Denver,Bachelor,3.0,3.0,1.0,14-Dec-2022,"$56,940.66",
+EMP1351,Linda Johnson,linda.johnson@example.com,+1-809-574-8704,26.0,M,I.T.,phoenix,PHD,1.0,3.0,0.0,2013-10-06,101005.27,N/A
+EMP1369,Joseph Jackson,joseph.jackson@example.com,+1-741-439-1118,40.0,female,ENGINEERING,Boston,Bachelors,0.0,,0.0,19-Dec-2025,83403.29,
+EMP1412,Paul Jackson,paul.jackson@example.com,+1-588-168-5447,39.0,male,finance,austin ,Bachelor,10.0,2.0,1.0,2020-09-24,91975.88,
+EMP1307,Kimberly Robinson,kimberly.robinson@example.com,+1-731-275-7969,58.0,F,it,Phoenix,PhD,4.0,1.0,0.0,05-02-2013,114342.59,
+EMP1286,Timothy Jackson,timothy.jackson876@example.com,+1-446-338-8721,29.0,female,hr,New york,Bachelors,5.0,4.0,1.0,02-22-2023,53103.98,
+EMP1386,Matthew Clark,matthew.clark@example.com,+1-910-730-1525,50.0,male,,chicago,High School,16.0,2.0,0.0,2014-08-14,88287.33,
+EMP1176,Timothy Taylor,timothy.taylor@example.com,+1-436-500-1539,38.0,male,marketing,austin,PHD,4.0,2.0,1.0,07-May-2017,81596.18,
+EMP1419,Barbara White,barbara.white@example.com,+1-410-249-9676,39.0,male,Human Resources,miami,Master,13.0,3.0,1.0,2021-05-13,85020.23,
+EMP1365,Nancy Rodriguez,nancy.rodriguez@example.com,+1-384-822-7905,18.0,M,SALES,Chicago,Master,1.0,4.0,,10-31-2015,74002.41,N/A
+EMP1230,Anthony Harris,anthony.harris@example.com,+1-722-239-7654,52.0,Female,support,denver,Bachelor,2.0,2.0,1.0,26-Oct-2023,54276.67,On PIP
+EMP1433,Elizabeth Johnson,elizabeth.johnson@example.com,+1-290-923-9987,28.0,male,Finance,Denver,High School,3.0,3.0,0.0,12-28-2019,74556.78,
+EMP1229,Robert Johnson,robert.johnson@example.com,+1-532-904-4815,45.0,female,,denver,PHD,2.0,4.0,0.0,2019-08-29,109246.44,On PIP
+EMP1101,WILLIAM THOMPSON,william.thompson@example.com,+1-734-888-4775,,F,marketing,Boston,Bachelor,0.0,1.0,0.0,17/12/2025,52541.87,N/A
+EMP1410,Linda Brown,linda.brown@example.com,+1-207-221-2042,59.0,M,SALES,denver,bachelor,3.0,2.0,0.0,01-Jul-2022,68434.69,On PIP
+EMP1054,Emily Johnson,emily.johnson@example.com,+1-657-615-8181,34.0,F,I.T.,austin ,Master,6.0,2.0,1.0,2014-01-04,93525.18,
+EMP1228,Karen Martinez,karen.martinez@example.com,+1-908-361-4875,44.0,F,Suport,Miami,High School,2.0,3.0,1.0,03-30-2019,51428.32,Promoted last cycle
+EMP1474,Emily Anderson,emily.anderson@example.com,+1-751-336-3350,,male, Engineering,NYC,PHD,15.0,2.0,0.0,16-Apr-2025,125525.86,
+EMP1378,Thomas Taylor,thomas.taylor324@example.com,+1-686-266-7591,49.0,Female,sales,Chicago,High School,,3.0,1.0,25/07/2020,74948.15,
+EMP1155,Melissa Wilson,melissa.wilson@example.com,+1-875-850-1252,33.0,F,it,phoenix,PhD,1.0,3.0,1.0,21-Jun-2011,"$101,507.69",
+EMP1252,Kenneth Moore,kenneth.moore@example.com,+1-423-556-2392,,F,hr,Phoenix,Master,3.0,3.0,0.0,13/03/2013,69626.16,On PIP
+EMP1276,Kenneth Johnson,kenneth.johnson@example.com,+1-678-103-4649,27.0,female,Human Resources,Houston,Bachelor,6.0,,1.0,04-Nov-2024,65128.79,
+EMP1159,John Clark,john.clark@example.com,+1-524-166-2807,34.0,Female,engineering,MIAMI,Bachelors,11.0,4.0,1.0,13-Sep-2012,"$104,646.55",
+EMP1272,Linda Anderson,linda.anderson@example.com,+1-764-236-6881,32.0,male,Engineering,NYC,Bachelors,3.0,1.0,0.0,04-20-2018,78176.77,
+EMP1045,Matthew Anderson,matthew.anderson@example.com,+1-671-470-2294,36.0,female,IT,NEW YORK,PHD,3.0,3.0,0.0,25/06/2021,102306.58,
+EMP1490,Robert Jackson,robert.jackson@example.com,+1-359-807-2612,26.0,Female, Engineering,Denver,PHD,5.0,2.0,0.0,07-Aug-2013,"$111,374.47",
+EMP1114,Christopher Smith,christopher.smith@example.com,+1-538-431-4975,34.0,Female,it,houston,PhD,7.0,3.0,0.0,23/04/2017,109370.99,
+EMP1323,Karen Robinson,karen.robinson@example.com,+1-921-396-1228,41.0,male, Engineering,Denver,bachelor,20.0,2.0,0.0,04-25-2013,116154.88,N/A
+EMP1212,KAREN WHITE,karen.white@example.com,+1-436-657-6845,44.0,M,Markting,denver,PHD,8.0,3.0,0.0,2017-05-16,"$94,912.09",Good performer
+EMP1109,Jessica Johnson,jessica.johnson@example.com,+1-723-234-5810,36.0,Male,Sales,miami,PhD,0.0,3.0,0.0,02-13-2019,75717.47,
+EMP1170,Joseph Moore,joseph.moore509@example.com,+1-290-968-4532,37.0,Male,support,Denver,Bachelor,0.0,4.0,,29-Aug-2022,"$54,308.57",
+EMP1080,Elizabeth Moore,elizabeth.moore@example.com,+1-319-668-2940,21.0,female,SALES,phoenix,Bachelor,1.0,2.0,0.0,07-Dec-2015,,
+EMP1480,Elizabeth Martin,elizabeth.martin171@example.com,+1-355-814-1682,29.0,male,Sales ,houston,Bachelor,1.0,3.0,,07-06-2011,62818.21,Good performer
+EMP1085,John Thompson,john.thompson@example.com,+1-927-364-5948,,Male, Engineering,CHICAGO,Master,3.0,1.0,0.0,22-Feb-2014,93076.83,Needs improvement
+EMP1009,Joshua White,joshua.white@example.com,+1-908-265-9459,29.0,Male,it,denver,Bachelor,5.0,3.0,1.0,09/07/2010,80810.63,
+EMP1033,Margaret Smith,margaret.smith@example.com,+1-250-663-3085,37.0,F,HR,NYC,Bachelors,8.0,3.0,1.0,30-Oct-2013,,Good performer
+EMP1100,Donald Thomas,donald.thomas@example.com,+1-943-400-3365,18.0,Male,operations,Phoenix,PhD,1.0,2.0,1.0,2024-05-08,"$65,736.94",On PIP
+EMP1443,John Brown,john.brown@example.com,+1-245-219-8370,52.0,Female,marketing,Denver,High School,6.0,3.0,0.0,18/12/2024,"$68,531.29",
+EMP1418,William White,william.white@example.com,+1-751-160-1861,30.0,F,marketing,chicago,PHD,4.0,3.0,0.0,21-May-2011,,
+EMP1223,Dorothy Taylor,dorothy.taylor@example.com,+1-386-816-4717,33.0,female,Support,boston,High School,12.0,3.0,0.0,09-May-2010,57865.54,Needs improvement
+EMP1029,ANDREW MILLER,andrew.miller@example.com,+1-762-304-6106,56.0,female,,denver,Bachelors,11.0,2.0,1.0,05-Dec-2011,83294.32,
+EMP1288,Emily Thomas,emily.thomas@example.com,+1-761-496-3618,58.0,Female,Engineering,boston,Bachelors,10.0,3.0,1.0,05-06-2012,103291.19,
+EMP1376,Jessica Wilson,jessica.wilson@example.com,+1-225-655-9799,59.0,F,Suport,denver,Bachelors,1.0,4.0,1.0,2022-11-23,59703.75,
+EMP1056,Deborah Martinez,deborah.martinez@example.com,+1-703-394-3705,41.0,female,Marketing,CHICAGO,bachelor,19.0,2.0,1.0,22/05/2025,96426.26,On PIP
+EMP1483,Carol Jackson,carol.jackson@example.com,+1-953-590-6485,37.0,F,I.T.,houston,Master,1.0,2.0,1.0,09/02/2023,86498.1,
+EMP1395,Robert Brown,robert.brown@example.com,+1-288-475-5608,26.0,M,I.T.,austin ,PhD,4.0,2.0,1.0,05-16-2013,98109.43,
+EMP1417,  Lisa Robinson  ,lisa.robinson591@example.com,+1-850-312-2008,37.0,female,Sales ,Chicago,Master,3.0,3.0,1.0,21/02/2017,"$65,520.86",N/A
+EMP1049,Barbara Thompson,barbara.thompson@example.com,+1-239-713-4333,35.0,Male,Engineering,Seattle,,13.0,4.0,1.0,04-04-2010,109085.22,
+EMP1420,Patricia Martin,patricia.martin@example.com,+1-612-920-9531,56.0,F,engineering,,High School,0.0,5.0,0.0,2016-04-18,78766.02,Promoted last cycle
+EMP1381,Nancy Brown,nancy.brown@example.com,+1-738-747-3070,31.0,F,I.T.,Denver,High School,10.0,2.0,0.0,07-16-2014,77016.21,Good performer
+EMP1034,Thomas Anderson,thomas.anderson@example.com,+1-663-440-8372,48.0,Male,Operations,,,12.0,2.0,0.0,03/08/2019,77069.73,
+EMP1036,Sarah Taylor,sarah.taylor@example.com,+1-701-100-2198,34.0,F,Finance,Houston,bachelor,4.0,1.0,0.0,13-Oct-2018,78679.99,N/A
+EMP1064,David Anderson,david.anderson@example.com,+1-909-781-9787,45.0,F,Markting,Seattle,Master,6.0,4.0,0.0,13-Jul-2020,81902.82,N/A
+EMP1453,John Robinson,john.robinson310@example.com,+1-300-965-1027,18.0,Male,Engineering,Austin,Bachelor,1.0,3.0,1.0,03-16-2022,78721.52,Promoted last cycle
+EMP1312,Emily Miller,emily.miller@example.com,+1-507-776-2711,29.0,male,marketing,austin ,Bachelor,7.0,2.0,1.0,19-Feb-2014,72322.46,
+EMP1235,Karen Brown,karen.brown@example.com,+1-213-297-4535,54.0,male,Human Resources,Denver,High School,7.0,3.0,1.0,02-Jun-2012,55462.21,On PIP
+EMP1498,John Anderson,john.anderson@example.com,+1-497-876-3346,57.0,female,Finance,Seattle,High School,1.0,1.0,1.0,,70836.4,
+EMP1046,Anthony Brown,anthony.brown@example.com,+1-926-557-3837,30.0,M,marketing,Chicago,Bachelors,9.0,1.0,0.0,03/04/2015,78393.42,Promoted last cycle
+EMP1304,Anthony Moore,anthony.moore@example.com,+1-847-261-4156,34.0,M,HR,CHICAGO,PhD,10.0,3.0,1.0,17/07/2020,83919.43,Promoted last cycle
+EMP1178,Ashley Brown,ashley.brown@example.com,+1-507-133-2649,37.0,M,sales,houston,PHD,0.0,2.0,0.0,01-11-2010,77781.12,Promoted last cycle
+EMP1220,Sandra Robinson,sandra.robinson@example.com,+1-680-344-6546,43.0,F,IT,phoenix,High School,0.0,4.0,0.0,2022-06-11,64033.66,Needs improvement
+EMP1389,Thomas White,thomas.white@example.com,+1-695-239-3001,60.0,female,FINANCE,Denver,Bachelor,0.0,2.0,0.0,28-Mar-2021,75760.78,
+EMP1297,Lisa Thompson,lisa.thompson@example.com,,31.0,M,support,Phoenix,PhD,10.0,2.0,0.0,15/07/2019,82694.76,N/A
+EMP1022,James Smith,james.smith@example.com,,42.0,female,IT,Denver,PHD,6.0,2.0,1.0,04/06/2025,103341.54,
+EMP1249,Mary Robinson,mary.robinson@example.com,+1-723-573-3530,46.0,male,,Phoenix,PHD,4.0,4.0,1.0,24/07/2022,110130.28,N/A
+EMP1310,Linda Davis,linda.davis@example.com,+1-506-663-5502,41.0,Female,FINANCE,denver,Bachelors,9.0,2.0,,2024-04-27,,Needs improvement
+EMP1200,DEBORAH WILSON,deborah.wilson@example.com,+1-882-988-1896,34.0,Male,SALES,CHICAGO,PhD,13.0,3.0,1.0,05-01-2018,,
+EMP1138,Joshua Rodriguez,joshua.rodriguez@example.com,+1-506-986-6626,,male,Suport,austin ,PhD,5.0,4.0,0.0,,75204.81,Promoted last cycle
+EMP1025,Thomas Brown,thomas.brown@example.com,+1-810-498-6343,30.0,male,finance,Phoenix,Bachelors,4.0,2.0,0.0,31/01/2021,82795.23,
+EMP1185,Dorothy White,dorothy.white@example.com,+1-804-268-8132,44.0,M,IT,austin ,High School,1.0,3.0,0.0,,73105.55,
+EMP1206,Andrew Clark,andrew.clark666@example.com,+1-680-808-8728,38.0,F,Sales,,bachelor,9.0,2.0,1.0,04/08/2023,72516.82,
+EMP1135,Michelle Jackson,michelle.jackson@example.com,+1-922-512-1828,55.0,M,H.R.,houston,Bachelor,2.0,2.0,0.0,09-Nov-2014,54685.18,Good performer
+EMP1300,Andrew Moore,andrew.moore@example.com,+1-645-322-6020,43.0,F,IT,new york,High School,0.0,3.0,0.0,21/02/2024,64578.5,Promoted last cycle
+EMP1117,Dorothy Thomas,dorothy.thomas@example.com,+1-845-678-2746,46.0,male,Ops,houston,Bachelor,3.0,3.0,0.0,2017-12-03,57112.59,N/A
+EMP1213,Jennifer Robinson,jennifer.robinson@example.com,+1-254-765-9821,35.0,Male,Ops,seattle,Bachelors,2.0,1.0,0.0,30-Jun-2015,51400.81,
+EMP1460,Carol Moore,carol.moore@example.com,+1-314-346-9840,,Male,Support,Houston,Bachelors,3.0,1.0,1.0,07-25-2021,56608.0,
+EMP1437,Michelle Smith,michelle.smith416@example.com,+1-806-838-5291,41.0,male,Support,seattle,Master,0.0,3.0,0.0,22/02/2013,62942.99,
+EMP1371,George Moore,george.moore@example.com,+1-549-123-7575,31.0,female,Suport,houston,,3.0,4.0,,02-20-2016,66565.93,
+EMP1232,Deborah Thomas,deborah.thomas@example.com,+1-271-917-1077,25.0,Male,I.T.,new york,Bachelors,4.0,1.0,0.0,2013-11-19,89325.9,
+EMP1218,Thomas Brown,thomas.brown258@example.com,+1-579-475-3723,43.0,M,ENGINEERING,houston,Bachelors,8.0,3.0,0.0,2021-09-24,101943.16,
+EMP1057,Timothy Anderson,timothy.anderson@example.com,+1-581-137-4259,35.0,F,IT,austin ,Bachelor,7.0,3.0,1.0,31-Jan-2014,82901.08,Promoted last cycle
+EMP1486,  Dorothy Davis  ,dorothy.davis@example.com,+1-629-395-7004,38.0,F,sales,boston,PhD,2.0,4.0,0.0,03/09/2017,77231.66,
+EMP1487,Jennifer Robinson,jennifer.robinson656@example.com,+1-872-289-1061,19.0,M,marketing,Denver,High School,1.0,1.0,0.0,01-05-2018,,
+EMP1375,Anthony Smith,anthony.smith546@example.com,+1-913-360-6707,18.0,male,engineering,MIAMI,bachelor,,1.0,1.0,14/03/2012,77437.74,Needs improvement
+EMP1373,Lisa Rodriguez,lisa.rodriguez@example.com,+1-223-703-2032,150.0,M,support,chicago,bachelor,1.0,2.0,0.0,05-10-2020,81429.99,
+EMP1182,Patricia Garcia,patricia.garcia584@example.com,+1-323-186-4565,22.0,M,HR,Houston,High School,1.0,3.0,0.0,01/04/2015,49211.7,N/A
+EMP1098,Michelle White,michelle.white@example.com,+1-574-246-6439,44.0,F,Sales ,New York,Master,4.0,2.0,1.0,2014-12-21,69596.12,On PIP
+EMP1115,Patricia Anderson,patricia.anderson@example.com,+1-210-792-2118,41.0,F,FINANCE,boston,PhD,11.0,2.0,1.0,12/10/2021,110300.04,On PIP
+EMP1279,Joseph Clark,joseph.clark442@example.com,+1-440-752-3545,50.0,F,support,Austin,PhD,4.0,3.0,0.0,10-12-2024,74738.01,N/A
+EMP1119,David Martinez,david.martinez@example.com,+1-989-692-6289,30.0,male,Markting,denver,PhD,3.0,3.0,0.0,25/03/2013,"$90,024.76",
+EMP1384,Jennifer Davis,jennifer.davis@example.com,+1-910-889-3709,,female,Human Resources,Phoenix,Master,1.0,1.0,0.0,2021-11-16,56177.9,
+EMP1171,Amanda Jackson,amanda.jackson@example.com,+1-206-290-9829,45.0,Male,Ops,houston,PHD,3.0,2.0,1.0,02-29-2016,68959.02,Good performer
+EMP1440,John Robinson,john.robinson@example.com,+1-707-964-3593,25.0,male,Suport,houston,PhD,0.0,4.0,0.0,08-15-2017,69926.03,Promoted last cycle
+EMP1055,Jessica Thompson,jessica.thompson@example.com,+1-716-622-1667,25.0,Male,marketing,Boston,Bachelor,2.0,2.0,,30/11/2010,61150.69,Good performer
+EMP1177,Dorothy Robinson,dorothy.robinson@example.com,+1-871-636-9623,48.0,Male,marketing,seattle,High School,3.0,3.0,0.0,08-21-2011,67229.66,N/A
+EMP1328,Jessica Smith,jessica.smith554@example.com,+1-363-553-2745,44.0,female,ENGINEERING,Seattle,Master,5.0,3.0,0.0,01-31-2012,103456.07,
+EMP1195,Paul Clark,paul.clark@example.com,,35.0,male,HR,,,13.0,2.0,1.0,2024-03-20,78613.13,N/A
+EMP1199,Timothy Miller,timothy.miller@example.com,+1-538-643-4773,55.0,Male,Engineering,miami,PhD,1.0,2.0,0.0,20/11/2014,108853.56,
+EMP1362,Joshua Jackson,joshua.jackson641@example.com,+1-368-986-9456,25.0,male,Engineering,boston,Bachelor,3.0,2.0,0.0,06-15-2021,85054.13,On PIP
+EMP1475,Sarah Martin,sarah.martin@example.com,+1-550-685-6201,41.0,female,Operations,Miami,High School,3.0,3.0,0.0,07-24-2018,"$51,915.19",
+EMP1183,Jessica Brown,jessica.brown@example.com,+1-621-905-7670,34.0,F,marketing,Seattle,Bachelors,10.0,4.0,0.0,2010-09-22,,Promoted last cycle
+EMP1416,Joshua Martinez,joshua.martinez@example.com,,34.0,M,Sales ,phoenix,PHD,9.0,1.0,1.0,22-Sep-2018,94076.6,
+EMP1355,Daniel Clark,daniel.clark@example.com,+1-983-731-3135,24.0,Male,Marketing,Boston,bachelor,3.0,4.0,0.0,2012-03-27,63971.95,On PIP
+EMP1104,Christopher Harris,christopher.harris230@example.com,+1-833-286-3750,45.0,male,Sales ,Denver,PHD,6.0,2.0,0.0,04-21-2012,90494.58,
+EMP1221,Melissa Moore,melissa.moore@example.com,+1-417-203-2361,42.0,male,Operations,NYC,High School,4.0,2.0,1.0,09-15-2020,58618.3,N/A
+EMP1131,Kenneth Thomas,kenneth.thomas@example.com,+1-506-236-3324,43.0,male,IT,Phoenix,bachelor,7.0,,0.0,07/03/2023,85817.52,On PIP
+EMP1354,John Taylor,,+1-680-554-7348,36.0,Female,finance,Seattle,PHD,2.0,3.0,1.0,14/08/2012,89239.99,
+EMP1339,  James Clark  ,james.clark@example.com,+1-701-137-8693,,Female,Ops,seattle,PhD,2.0,3.0,0.0,11-22-2014,78606.64,Promoted last cycle
+EMP1401,Michael Jackson,michael.jackson@example.com,+1-633-264-4659,30.0,Male,Marketing,austin,PHD,1.0,1.0,1.0,06/05/2012,73330.58,
+EMP1061,Elizabeth Anderson,elizabeth.anderson@example.com,+1-615-290-4893,150.0,F,I.T.,MIAMI,Bachelor,10.0,3.0,0.0,2013-07-28,514354.15,
+EMP1095,MARY JOHNSON,mary.johnson@example.com,+1-885-618-7440,32.0,female,IT,Boston,High School,1.0,3.0,1.0,05-Feb-2014,64540.6,
+EMP1194,Anthony Wilson,anthony.wilson@example.com,+1-605-642-5724,39.0,F,I.T.,MIAMI,PHD,3.0,4.0,0.0,2024-02-19,103271.07,
+EMP1141,David Moore,,+1-507-223-3221,52.0,M, Engineering,Phoenix,High School,2.0,3.0,0.0,2019-07-22,72755.66,
+EMP1149,George Clark,george.clark@example.com,+1-638-838-2109,48.0,male,HR,houston,Master,13.0,3.0,1.0,11-13-2020,91549.03,Good performer
+EMP1203,KAREN DAVIS,karen.davis@example.com,+1-284-445-6218,38.0,Male, Engineering,chicago,PHD,2.0,2.0,1.0,06/09/2020,102112.02,On PIP
+EMP1153,Kimberly Brown,kimberly.brown@example.com,+1-994-762-6066,51.0,female,Markting,Seattle,Bachelors,9.0,3.0,1.0,13-Aug-2024,85568.24,On PIP
+EMP1338,James Thompson,james.thompson@example.com,+1-774-878-8826,56.0,male,support,Denver,bachelor,3.0,2.0,1.0,11-08-2022,54549.53,
+EMP1415,Lisa Robinson,lisa.robinson@example.com,+1-263-609-5238,36.0,F,it,MIAMI,High School,0.0,2.0,1.0,2015-01-01,63444.41,Good performer
+EMP1011,Joseph Moore,joseph.moore@example.com,+1-940-457-6974,57.0,Female,ENGINEERING,denver,bachelor,3.0,2.0,1.0,22/10/2011,84575.63,
+EMP1270,Donna Brown,donna.brown2@example.com,+1-472-150-7988,,M,sales,CHICAGO,High School,8.0,2.0,0.0,12-19-2011,59822.01,On PIP
+EMP1097,Donna Thompson,donna.thompson@example.com,+1-893-112-8666,31.0,F,finance,chicago,PhD,1.0,1.0,0.0,2014-05-18,98773.33,
+EMP1211,Carol Rodriguez,carol.rodriguez@example.com,+1-641-920-1898,32.0,female,HR,New York,bachelor,0.0,3.0,0.0,01-13-2014,59793.95,Good performer
+EMP1241,Nancy White,nancy.white296@example.com,+1-976-576-7442,36.0,female,Sales,austin ,PhD,13.0,2.0,1.0,12/07/2014,99601.09,
+EMP1058,Christopher Harris,christopher.harris@example.com,+1-471-484-7044,38.0,M,ENGINEERING,Denver,Bachelors,0.0,2.0,0.0,,77577.36,Needs improvement
+EMP1302,Jennifer Anderson,jennifer.anderson@example.com,+1-537-867-2771,48.0,female,IT,Seattle,PhD,2.0,2.0,0.0,22-Feb-2020,"$91,868.83",
+EMP1390,Christopher Wilson,christopher.wilson@example.com,+1-277-887-2892,61.0,Male,Ops,CHICAGO,Bachelor,1.0,3.0,0.0,08-Nov-2013,57493.45,On PIP
+EMP1360,Susan Davis,susan.davis@example.com,+1-779-769-2859,43.0,female,H.R.,austin,PHD,3.0,3.0,,2022-11-05,79026.06,Good performer
+EMP1037,Michael Taylor,michael.taylor@example.com,+1-932-411-3096,30.0,Male,IT,Miami,PHD,1.0,3.0,1.0,01-20-2024,"$90,716.23",Promoted last cycle
+EMP1456,Betty Smith,betty.smith464@example.com,+1-371-821-9153,32.0,Male,IT,Miami,Bachelors,11.0,2.0,0.0,2024-08-25,91469.85,
+EMP1021,William Johnson,william.johnson@example.com,+1-656-612-3914,35.0,Female,marketing,new york,Master,9.0,1.0,1.0,01-26-2016,81528.24,
+EMP1448,Kevin Thomas,kevin.thomas505@example.com,+1-960-873-9734,30.0,M,Human Resources,Houston,Bachelors,5.0,1.0,0.0,12-11-2015,50190.64,Needs improvement
+EMP1333,Susan Martin,susan.martin@example.com,+1-902-565-8099,50.0,Female,HR,CHICAGO,Master,6.0,3.0,0.0,14-Mar-2018,78401.3,Good performer
+EMP1076,Steven Davis,steven.davis@example.com,+1-891-460-5344,18.0,Male,finance,boston,High School,,4.0,1.0,14/06/2012,58319.64,On PIP
+EMP1201,Dorothy Garcia,dorothy.garcia@example.com,+1-728-116-8186,36.0,Male,IT,Seattle,PhD,5.0,3.0,0.0,08/06/2014,"$100,483.63",On PIP
+EMP1078,Joseph Anderson,joseph.anderson@example.com,+1-838-752-2399,63.0,M,marketing,NEW YORK,Bachelor,7.0,4.0,1.0,10-14-2024,77638.7,N/A
+EMP1264,George Thomas,george.thomas@example.com,+1-484-567-6205,39.0,male,Support,MIAMI,PhD,1.0,4.0,0.0,01-Jan-2019,61532.86,Promoted last cycle
+EMP1074,Margaret Jackson,margaret.jackson@example.com,+1-891-776-3999,36.0,F,Human Resources,houston,PhD,1.0,3.0,1.0,09-05-2024,70899.21,N/A
+EMP1150,Paul Smith,paul.smith@example.com,+1-301-301-4960,32.0,F,engineering,NYC,Bachelor,4.0,2.0,0.0,,82464.33,
+EMP1447,Brian Davis,brian.davis@example.com,+1-329-930-1767,41.0,,IT,Austin,High School,1.0,2.0,0.0,2023-02-14,60739.24,N/A
+EMP1003,Patricia Rodriguez,patricia.rodriguez@example.com,+1-788-407-9604,49.0,M,support,denver,Bachelor,2.0,3.0,1.0,02-07-2021,57315.91,On PIP
+EMP1053,Amanda Rodriguez,amanda.rodriguez@example.com,+1-592-467-3016,22.0,Female,Human Resources,phoenix,Bachelors,1.0,1.0,0.0,09/05/2013,55101.53,
+EMP1263,Anthony Thomas,anthony.thomas@example.com,+1-462-183-8354,29.0,M,sales,chicago,High School,1.0,2.0,1.0,07-20-2024,55647.15,N/A
+EMP1254,Daniel Martin,daniel.martin@example.com,+1-929-794-7580,34.0,Male,marketing,Miami,PHD,7.0,3.0,0.0,09-14-2019,91523.38,Promoted last cycle
+EMP1465,Kimberly Miller,kimberly.miller@example.com,+1-263-192-3959,41.0,female,it,boston,High School,3.0,,1.0,12/07/2018,70825.81,
+EMP1260,Daniel Johnson,daniel.johnson@example.com,+1-351-980-1788,28.0,F,I.T.,NYC,High School,7.0,4.0,1.0,31/07/2022,76990.83,
+EMP1334,Kimberly Davis,kimberly.davis@example.com,+1-636-437-5096,42.0,female,Ops,seattle,Bachelor,8.0,1.0,1.0,08-25-2018,63324.37,
+EMP1370,Nancy Garcia,nancy.garcia@example.com,+1-870-558-2280,46.0,F, Engineering,New York,High School,14.0,3.0,1.0,23-Dec-2019,103996.81,Needs improvement
+EMP1322,STEVEN RODRIGUEZ,steven.rodriguez@example.com,+1-790-579-7207,40.0,female,Finance,boston,High School,1.0,4.0,0.0,04-27-2012,66787.43,
+EMP1184,Steven Wilson,steven.wilson@example.com,+1-537-170-2026,40.0,Male,hr,Seattle,,2.0,4.0,1.0,2014-06-19,84639.22,
+EMP1152,Kenneth Rodriguez,kenneth.rodriguez@example.com,+1-927-841-6393,39.0,M,finance,New York,Bachelors,2.0,4.0,0.0,2013-07-07,81794.19,
+EMP1496,Timothy Smith,timothy.smith@example.com,+1-258-104-3472,50.0,male,support,seattle,High School,3.0,3.0,0.0,28/12/2018,56279.07,
+EMP1303,Daniel Johnson,daniel.johnson448@example.com,+1-798-887-9697,44.0,Male,Operations,austin,Bachelors,0.0,3.0,1.0,09-04-2020,61619.93,
+EMP1191,JOSHUA THOMPSON,joshua.thompson@example.com,+1-980-347-5770,30.0,F,Finance,Phoenix,Bachelor,5.0,2.0,1.0,2022-03-17,78644.95,Promoted last cycle
+EMP1075,ASHLEY DAVIS,ashley.davis@example.com,+1-578-634-6617,43.0,F,H.R.,CHICAGO,Bachelors,6.0,2.0,0.0,16-Mar-2019,"$64,075.91",Needs improvement
+EMP1349,Carol Clark,carol.clark@example.com,+1-243-514-3228,51.0,male, Engineering,Boston,,11.0,3.0,1.0,21-Jan-2021,93623.76,N/A
+EMP1244,David Miller,david.miller@example.com,+1-376-968-6238,49.0,Female,operations,Austin,Bachelors,7.0,3.0,1.0,2013-02-13,"$74,365.10",Good performer
+EMP1492,Jennifer White,jennifer.white@example.com,+1-445-761-4624,43.0,male,H.R.,CHICAGO,PHD,5.0,2.0,1.0,03/11/2020,70991.88,N/A
+EMP1088,Kenneth Robinson,kenneth.robinson@example.com,+1-598-418-6119,31.0,Male,Finance,New York,High School,4.0,3.0,1.0,18/06/2023,,On PIP
+EMP1240,Timothy Jackson,timothy.jackson@example.com,,30.0,female,Sales,NEW YORK,Bachelor,9.0,3.0,1.0,17/10/2013,75511.9,Promoted last cycle
+EMP1144,James Smith,james.smith991@example.com,+1-362-809-8349,28.0,male,Engineering,Chicago,PHD,7.0,3.0,0.0,28/10/2018,109381.49,
+EMP1426,Patricia Taylor,patricia.taylor431@example.com,+1-908-617-1709,33.0,F,it,,Master,12.0,4.0,0.0,08-31-2018,107876.79,N/A
+EMP1267,Robert Harris,robert.harris@example.com,+1-742-300-5240,39.0,female,Sales ,denver,High School,7.0,3.0,1.0,2013-08-07,67697.85,
+EMP1289,Karen Thompson,karen.thompson@example.com,+1-728-477-3772,41.0,F,sales,Seattle,PhD,0.0,3.0,1.0,31-Mar-2012,83627.95,N/A
+EMP1137,Amanda Martin,amanda.martin@example.com,+1-287-655-6303,0.0,F,marketing,Austin,PHD,1.0,2.0,0.0,04-Aug-2021,59373.12,Needs improvement
+EMP1167,Andrew Anderson,andrew.anderson@example.com,+1-290-306-3102,40.0,M,finance,Austin,PHD,2.0,3.0,1.0,06-29-2019,102437.79,
+EMP1084,Donna Brown,donna.brown@example.com,+1-984-773-1985,45.0,M,Ops,NYC,High School,-3.0,3.0,0.0,26-Mar-2021,45647.57,
+EMP1451,Steven White,,+1-525-802-1119,0.0,F,support,houston,Bachelor,0.0,2.0,0.0,05-11-2017,52142.37,N/A
+EMP1422,Emily White,emily.white@example.com,+1-549-339-4833,36.0,Female,SALES,chicago,Master,0.0,2.0,1.0,07/07/2015,55916.31,
+EMP1156,Joseph Clark,joseph.clark@example.com,+1-977-535-5565,27.0,M,HR,Austin,bachelor,6.0,4.0,0.0,10-Sep-2016,63889.52,
+EMP1357,Steven Jackson,steven.jackson600@example.com,+1-900-382-8318,28.0,male,hr,austin ,Bachelor,0.0,2.0,1.0,07-02-2013,47754.77,
+EMP1382,Dorothy Rodriguez,dorothy.rodriguez112@example.com,+1-225-897-7398,42.0,Male,engineering,Seattle,bachelor,0.0,3.0,1.0,03-Oct-2021,79406.57,N/A
+EMP1280,  Matthew Brown  ,matthew.brown603@example.com,+1-652-759-9735,37.0,M,Support,austin ,PHD,7.0,1.0,1.0,05-30-2014,72856.3,
+EMP1127,Charles Davis,charles.davis@example.com,+1-240-665-6094,31.0,Female, Engineering,New york,PhD,7.0,2.0,0.0,13/02/2024,109090.68,On PIP
+EMP1196,Melissa Jackson,melissa.jackson@example.com,+1-623-168-9226,47.0,female,Markting,houston,Master,2.0,2.0,1.0,26/01/2010,"$72,829.86",
+EMP1266,Charles Jackson,charles.jackson@example.com,+1-429-356-5252,34.0,M,sales,miami,Bachelor,13.0,3.0,1.0,15/05/2011,80717.28,N/A
+EMP1468,William Anderson,william.anderson@example.com,+1-986-352-1828,35.0,,Support,Phoenix,bachelor,4.0,3.0,0.0,01-Nov-2020,56947.97,Needs improvement
+EMP1105,Michael Moore,michael.moore@example.com,+1-326-576-9087,22.0,Male,I.T.,phoenix,Master,1.0,3.0,0.0,02-21-2023,"$77,694.54",Needs improvement
+EMP1154,  Kimberly Anderson  ,kimberly.anderson210@example.com,+1-768-896-3978,18.0,Male,Support,phoenix,High School,1.0,2.0,0.0,10-24-2015,48064.38,
+EMP1283,Melissa Anderson,melissa.anderson@example.com,+1-512-923-4756,,Male,ENGINEERING,seattle,PhD,4.0,3.0,0.0,08-20-2017,109508.58,Needs improvement
+EMP1392,Jessica Wilson,jessica.wilson589@example.com,+1-779-715-2316,44.0,Male,Suport,Chicago,Bachelors,,3.0,1.0,05-10-2012,49810.18,On PIP
+EMP1227,Donna Thompson,donna.thompson18@example.com,+1-496-172-5734,32.0,F,hr,austin ,High School,0.0,4.0,1.0,06/12/2013,52820.18,N/A
+EMP1368,William Thompson,william.thompson902@example.com,+1-988-252-3560,42.0,female,HR,Phoenix,Bachelor,3.0,2.0,1.0,31-Oct-2021,59669.61,
+EMP1026,Amanda Martinez,amanda.martinez@example.com,+1-909-758-4767,42.0,Male,Markting,MIAMI,PHD,17.0,2.0,,2011-11-29,108076.33,Good performer
+EMP1197,Andrew Anderson,andrew.anderson841@example.com,+1-864-490-5710,32.0,male,Marketing,Phoenix,High School,9.0,4.0,1.0,11-Dec-2012,73210.6,Promoted last cycle
+EMP1065,Mary Martin,mary.martin@example.com,+1-365-453-3323,36.0,Female,Human Resources,CHICAGO,Bachelor,0.0,1.0,0.0,2025-09-19,55169.35,Promoted last cycle
+EMP1016,Patricia Taylor,patricia.taylor@example.com,+1-909-383-8411,36.0,F,I.T.,New York,Master,0.0,2.0,0.0,25-May-2021,75221.34,
+EMP1298,Richard Taylor,richard.taylor@example.com,+1-201-993-5958,27.0,M,finance,chicago,PhD,6.0,3.0,0.0,12/09/2015,97974.1,Promoted last cycle
+EMP1372,Karen Robinson,karen.robinson191@example.com,+1-851-980-9305,25.0,,,denver,PhD,4.0,5.0,0.0,15-Aug-2010,99457.55,Good performer
+EMP1110,Paul Thomas,paul.thomas@example.com,,33.0,M,Operations,MIAMI,PhD,4.0,2.0,1.0,26/06/2017,71422.92,On PIP
+EMP1337,Sandra Wilson,sandra.wilson655@example.com,+1-302-668-6479,39.0,Female,Support,Boston,Master,2.0,4.0,1.0,11/08/2018,66795.98,
+EMP1309,Mary Miller,mary.miller@example.com,+1-248-676-2598,40.0,F,HR,houston,PhD,1.0,1.0,0.0,08-Mar-2022,73022.09,N/A
+EMP1027,Michael Harris,michael.harris@example.com,,28.0,F,Human Resources,Austin,PHD,1.0,3.0,0.0,26-Jun-2011,64625.05,N/A
+EMP1077,Joseph Harris,,+1-623-579-5822,33.0,Female,sales,Denver,Master,12.0,3.0,1.0,19/04/2022,88982.74,Good performer
+EMP1044,Nancy White,nancy.white@example.com,+1-266-124-4831,27.0,M,FINANCE,seattle,High School,1.0,2.0,1.0,28-May-2012,62415.38,N/A
+EMP1281,Nancy Miller,nancy.miller@example.com,+1-744-400-5518,25.0,male,H.R.,Miami,High School,2.0,1.0,1.0,01-Sep-2012,44996.97,
+EMP1004,Robert Davis,robert.davis@example.com,+1-558-708-9137,34.0,male,it,New York,Bachelors,13.0,2.0,0.0,,89860.41,Good performer
+EMP1467,  Linda Martin  ,linda.martin@example.com,+1-829-997-1697,29.0,Male,I.T.,boston,High School,7.0,3.0,1.0,12/10/2019,68423.96,
+EMP1050,Michelle Thomas,michelle.thomas@example.com,+1-367-507-5442,49.0,F,IT,Boston,bachelor,8.0,1.0,1.0,03-11-2019,97737.08,
+EMP1406,Patricia Clark,patricia.clark30@example.com,+1-745-987-4659,0.0,F,ENGINEERING,seattle,bachelor,1.0,1.0,1.0,21-Aug-2018,77611.47,Good performer
+EMP1388,James Robinson,james.robinson@example.com,+1-695-102-5259,41.0,F,hr,new york,Bachelor,,3.0,0.0,18/05/2025,1856172.88,Needs improvement
+EMP1495,Kevin Anderson,kevin.anderson758@example.com,+1-419-737-1915,35.0,Female,engineering,phoenix,High School,6.0,3.0,1.0,09-16-2011,75627.46,
+EMP1031,MARY WILSON,mary.wilson@example.com,+1-968-446-7525,,M,FINANCE,houston,PhD,7.0,2.0,1.0,10/09/2012,"$99,814.48",Good performer
+EMP1122,MATTHEW WILSON,matthew.wilson@example.com,+1-559-667-5013,40.0,M,Support,seattle,PhD,4.0,3.0,1.0,09/09/2018,73619.82,
+EMP1432,James Martin,james.martin212@example.com,+1-265-194-4365,28.0,Female,it,Denver,Master,2.0,3.0,0.0,26/12/2017,84166.53,On PIP
+EMP1116,Betty Robinson,betty.robinson@example.com,+1-374-471-6211,18.0,male,operations,boston,Bachelors,1.0,3.0,0.0,2018-03-23,53951.86,
+EMP1473,Timothy Miller,timothy.miller735@example.com,+1-911-195-7496,34.0,male,Ops,Miami,Bachelors,0.0,2.0,0.0,2020-01-19,49834.53,
+EMP1217,Joseph Davis,joseph.davis@example.com,+1-877-369-3959,38.0,Male,FINANCE,new york,High School,,4.0,0.0,10/01/2011,63653.96,
+EMP1265,Elizabeth Thomas,elizabeth.thomas@example.com,+1-283-971-1563,52.0,M,marketing,Boston,PHD,2.0,3.0,0.0,31-Oct-2014,"$90,020.99",
+EMP1210,Margaret Davis,margaret.davis@example.com,+1-705-720-6486,32.0,Male,Sales,Phoenix,Master,1.0,2.0,0.0,2014-04-23,67098.8,
+EMP1317,Elizabeth Harris,elizabeth.harris445@example.com,,44.0,female,Operations,Phoenix,Bachelors,1.0,3.0,,09-17-2022,51463.37,Good performer
+EMP1385,Barbara Jackson,barbara.jackson424@example.com,+1-410-862-8380,36.0,Female,support,houston,bachelor,1.0,1.0,1.0,05/10/2025,,Promoted last cycle
+EMP1002,DONNA HARRIS,donna.harris@example.com,+1-305-695-4078,70.0,male,marketing,Boston,High School,0.0,2.0,0.0,2018-05-09,49803.74,On PIP
+EMP1314,Emily Wilson,emily.wilson@example.com,+1-758-785-3896,40.0,male,it,seattle,Master,6.0,2.0,0.0,2013-10-27,94937.2,
+EMP1023,Amanda Miller,amanda.miller@example.com,+1-590-991-9289,34.0,female,Marketing,CHICAGO,Master,5.0,4.0,1.0,01-15-2025,84681.33,
+EMP1318,STEVEN DAVIS,steven.davis943@example.com,+1-312-805-3871,30.0,male,FINANCE,austin,PhD,9.0,3.0,0.0,17/07/2012,108920.56,
+EMP1320,Patricia Clark,patricia.clark@example.com,+1-426-443-1197,48.0,Male,operations,New york,Master,10.0,3.0,1.0,2010-08-08,92472.66,N/A
+EMP1008,Betty Johnson,betty.johnson@example.com,+1-226-172-4407,36.0,Male,SALES,New York,Bachelors,3.0,3.0,1.0,10-Oct-2023,63025.87,Good performer
+EMP1375,Anthony Smith,anthony.smith546@example.com,+1-913-360-6707,18.0,male,engineering,MIAMI,bachelor,,1.0,1.0,14/03/2012,77437.74,Needs improvement
+EMP1142,Linda White,linda.white@example.com,+1-244-936-6790,26.0,M,ENGINEERING,Chicago,Bachelors,0.0,3.0,0.0,03-27-2012,71500.07,
+EMP1087,  Elizabeth Smith  ,elizabeth.smith@example.com,+1-962-291-1821,35.0,F,sales,Chicago,High School,1.0,3.0,0.0,17/03/2018,47246.31,Good performer
+EMP1353,Margaret Martin,margaret.martin@example.com,+1-938-216-7475,29.0,M,,,Master,1.0,2.0,0.0,13-Feb-2021,"$66,114.68",Good performer
+EMP1242,  Steven Jackson  ,steven.jackson@example.com,+1-628-157-1001,50.0,Female,Markting,seattle,bachelor,6.0,2.0,1.0,03-14-2015,,
+EMP1472,Carol Robinson,carol.robinson@example.com,+1-901-382-3533,50.0,M,support,NYC,PHD,5.0,1.0,1.0,25-May-2017,"$75,701.06",Promoted last cycle
+EMP1216,Ashley Martinez,ashley.martinez900@example.com,+1-297-981-8546,53.0,,Marketing,austin,PhD,0.0,3.0,0.0,09-05-2017,77498.07,
+EMP1069,Barbara Garcia,barbara.garcia@example.com,+1-913-674-2713,54.0,F,marketing,Phoenix,Bachelor,7.0,3.0,1.0,02-01-2024,80957.98,Needs improvement
+EMP1051,Karen Clark,karen.clark@example.com,+1-615-691-6975,150.0,Male,Human Resources,Boston,PhD,0.0,3.0,0.0,03/05/2020,88317.4,On PIP
+EMP1399,Donald Anderson,donald.anderson@example.com,+1-445-759-3245,36.0,male,H.R.,chicago,PHD,5.0,3.0,0.0,27-Oct-2023,73124.11,
+EMP1414,Dorothy Smith,dorothy.smith@example.com,+1-959-769-5381,36.0,Female,SALES,houston,Master,15.0,,1.0,12/08/2016,98332.73,Good performer
+EMP1157,Deborah Anderson,deborah.anderson@example.com,+1-417-693-1854,38.0,Female,SALES,NYC,Bachelor,3.0,1.0,1.0,09-15-2014,56914.02,
+EMP1253,Charles Wilson,charles.wilson@example.com,+1-438-175-6763,27.0,,it,austin,Bachelor,1.0,3.0,1.0,24-Sep-2025,75658.54,
+EMP1396,Anthony Garcia,anthony.garcia@example.com,,35.0,M,H.R.,phoenix,,0.0,4.0,0.0,2017-07-02,64872.49,On PIP
+EMP1469,Jessica Martin,jessica.martin@example.com,+1-460-295-5966,31.0,F,Finance,CHICAGO,High School,10.0,2.0,0.0,03-Feb-2024,80731.3,On PIP
+EMP1403,Patricia Taylor,patricia.taylor133@example.com,+1-204-725-3197,49.0,F,support,CHICAGO,Bachelor,1.0,3.0,0.0,2023-12-31,58187.46,
+EMP1358,Joshua Wilson,joshua.wilson925@example.com,+1-249-535-5106,39.0,,Support,boston,PHD,1.0,1.0,1.0,12-15-2013,65892.39,Good performer
+EMP1255,Elizabeth White,elizabeth.white@example.com,+1-227-731-6295,34.0,female,H.R.,houston,Bachelor,5.0,2.0,1.0,04-Oct-2020,57272.39,
+EMP1277,Paul Thomas,paul.thomas59@example.com,+1-756-296-5311,50.0,F,Support,NYC,bachelor,3.0,1.0,1.0,2024-02-05,56396.28,Good performer
+EMP1179,Karen Johnson,karen.johnson@example.com,+1-665-197-2850,50.0,Male,Suport,Seattle,PHD,1.0,2.0,0.0,14-Aug-2013,67601.99,
+EMP1282,Amanda Martinez,amanda.martinez314@example.com,+1-665-468-2412,18.0,female,,denver,bachelor,0.0,2.0,1.0,31/01/2018,68938.18,Promoted last cycle
+EMP1391,Matthew Anderson,matthew.anderson885@example.com,+1-484-253-3327,30.0,F,Operations,austin,High School,2.0,1.0,0.0,08/10/2021,45817.12,
+EMP1238,Linda Martinez,linda.martinez@example.com,+1-458-922-9414,28.0,Male,I.T.,,bachelor,5.0,4.0,1.0,23-Dec-2014,82127.71,Promoted last cycle
+EMP1072,Jessica Jackson,jessica.jackson@example.com,+1-645-380-4214,29.0,F,sales,,,0.0,1.0,1.0,2012-06-14,60115.33,Needs improvement
+EMP1461,Mary Rodriguez,mary.rodriguez772@example.com,+1-486-931-7508,52.0,F,Operations,Boston,Bachelor,5.0,3.0,,06-Apr-2010,70494.08,
+EMP1130,Carol Martinez,carol.martinez@example.com,+1-466-355-1972,39.0,Female,HR,miami,Bachelors,1.0,4.0,0.0,10-08-2013,,
+EMP1145,Nancy Martinez,nancy.martinez@example.com,+1-521-106-6496,,female,engineering,houston,PhD,,2.0,0.0,28-Dec-2022,109020.18,
+EMP1449,James Harris,james.harris@example.com,+1-465-520-6137,61.0,Male,HR,denver,Bachelors,-3.0,2.0,1.0,06-03-2016,,Needs improvement
+EMP1336,Jennifer Harris,jennifer.harris36@example.com,+1-954-512-5574,41.0,female,Support,houston,PhD,3.0,1.0,1.0,01-May-2018,77296.08,
+EMP1134,Daniel Brown,daniel.brown@example.com,+1-503-476-4043,29.0,Female,FINANCE,Phoenix,bachelor,3.0,,1.0,24/04/2024,66164.5,Promoted last cycle
+EMP1204,Matthew Moore,matthew.moore@example.com,+1-337-241-1210,47.0,female,H.R.,miami,bachelor,3.0,3.0,1.0,29/06/2012,56835.6,
+EMP1394,Margaret Martin,,+1-712-126-8702,24.0,female,Ops,austin ,PHD,3.0,2.0,1.0,09-03-2013,72553.71,Needs improvement
+EMP1256,Mary White,mary.white@example.com,,38.0,F,IT,seattle,Bachelors,14.0,4.0,0.0,07-05-2011,108335.98,
+EMP1073,John Smith,john.smith@example.com,+1-640-817-7900,31.0,,finance,new york,Bachelors,1.0,1.0,0.0,16/02/2015,355536.8,Needs improvement
+EMP1397,Donna Clark,donna.clark@example.com,+1-382-598-9972,37.0,Female,it,boston,Master,0.0,4.0,0.0,04/08/2012,90003.3,Needs improvement
+EMP1236,Margaret Martinez,margaret.martinez@example.com,+1-388-309-6097,18.0,Female,,miami,bachelor,0.0,1.0,0.0,11-10-2024,72980.57,
+EMP1038,Timothy Davis,timothy.davis@example.com,+1-523-760-4970,21.0,male,Human Resources,Austin,High School,999.0,2.0,0.0,29/08/2020,1838044.43,Needs improvement

@@ -1,0 +1,18 @@
+ 
+ML Module 8 – Data Preprocessing Review
+
+Pending Topics
+
+Different Types of Data
+Scaling and Standardization
+Data Preprocessing Pipeline
+Data Leakage
+
+Practical Focus
+
+Practice encoding categorical variables using appropriate encoding techniques.
+Practice feature scaling on numerical features.
+Practice standardization and understand its practical use.
+Build simple preprocessing workflows using datasets.
+Practice identifying the correct preprocessing technique based on the type and characteristics of the data.
+Apply preprocessing steps while avoiding data leakage.

@@ -1,0 +1,6 @@
+uv venv
+uv add ipykernel
+
+uv run python -m ipykernel install --user \
+    --name my-project \
+    --display-name "Python (my-project)"
