@@ -1,0 +1,690 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
+>> /Border [ 0 0 0 ] /Rect [ 60 612.8023 399.4825 625.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/crash-course/representation/cleaning-data)
+>> /Border [ 0 0 0 ] /Rect [ 60 581.8023 442.8025 594.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/preprocessing.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 550.8023 299.6945 563.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/crash-course/representation/feature-engineering)
+>> /Border [ 0 0 0 ] /Rect [ 60 503.8023 468.1485 516.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/user_guide/missing_data.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 472.8023 318.742 485.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/data-prep/construct/collect/data-quality)
+>> /Border [ 0 0 0 ] /Rect [ 60 425.8023 428.0205 438.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ibm.com/topics/data-quality)
+>> /Border [ 0 0 0 ] /Rect [ 60 394.8023 226.8295 407.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/preprocessing.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 347.8023 299.6945 360.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/crash-course/representation/feature-engineering)
+>> /Border [ 0 0 0 ] /Rect [ 60 316.8023 468.1485 329.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 285.8023 362.043 298.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ibm.com/docs/en/spss-modeler/saas?topic=dm-crisp-help-overview)
+>> /Border [ 0 0 0 ] /Rect [ 60 238.8023 394.9605 251.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/data-prep)
+>> /Border [ 0 0 0 ] /Rect [ 60 207.8023 305.5275 220.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
+>> /Border [ 0 0 0 ] /Rect [ 60 176.8023 399.4825 189.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/user_guide/missing_data.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 99.80226 318.742 112.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/impute.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 68.80226 268.544 81.80226 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
+  14 0 R 15 0 R 16 0 R 17 0 R 18 0 R ] /Contents 79 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 78 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/data-prep/construct/collect/data-quality)
+>> /Border [ 0 0 0 ] /Rect [ 60 756.8023 428.0205 769.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.duplicated.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 709.8023 398.4755 722.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/data-prep/construct/collect/data-quality)
+>> /Border [ 0 0 0 ] /Rect [ 60 678.8023 428.0205 691.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/data-prep/construct/collect/data-quality)
+>> /Border [ 0 0 0 ] /Rect [ 60 631.8023 428.0205 644.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/user_guide/indexing.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 600.8023 298.1555 613.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/data-prep/transform/normalization)
+>> /Border [ 0 0 0 ] /Rect [ 60 553.8023 407.415 566.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/outlier_detection.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 522.8023 309.736 535.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.statisticshowto.com/probability-and-statistics/interquartile-range/)
+>> /Border [ 0 0 0 ] /Rect [ 60 491.8023 380.986 504.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/user_guide/text.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 444.8023 278.0915 457.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/data-prep/construct/collect/data-quality)
+>> /Border [ 0 0 0 ] /Rect [ 60 413.8023 428.0205 426.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/crash-course/representation/feature-engineering)
+>> /Border [ 0 0 0 ] /Rect [ 60 336.8023 468.1485 349.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/preprocessing.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 305.8023 299.6945 318.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 258.8023 441.1875 271.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/data-prep/transform/normalization)
+>> /Border [ 0 0 0 ] /Rect [ 60 227.8023 407.415 240.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/preprocessing.html#normalization)
+>> /Border [ 0 0 0 ] /Rect [ 60 180.8023 361.4635 193.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/data-prep/transform/normalization)
+>> /Border [ 0 0 0 ] /Rect [ 60 149.8023 407.415 162.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/preprocessing.html#encoding-categorical-features)
+>> /Border [ 0 0 0 ] /Rect [ 60 102.8023 430.1105 115.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 71.80226 362.043 84.80226 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/Annots [ 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 
+  30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R ] /Contents 80 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 78 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 760.8023 446.4885 773.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/data-prep/transform/normalization)
+>> /Border [ 0 0 0 ] /Rect [ 60 729.8023 407.415 742.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/crash-course/representation/feature-engineering)
+>> /Border [ 0 0 0 ] /Rect [ 60 652.8023 468.1485 665.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/user_guide/timeseries.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 621.8023 306.0595 634.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/feature_selection.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 574.8023 312.377 587.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/crash-course/representation/feature-engineering)
+>> /Border [ 0 0 0 ] /Rect [ 60 543.8023 468.1485 556.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 496.8023 374.184 509.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/crash-course/representation/feature-engineering)
+>> /Border [ 0 0 0 ] /Rect [ 60 465.8023 468.1485 478.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/preprocessing.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 418.8023 299.6945 431.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/data-prep)
+>> /Border [ 0 0 0 ] /Rect [ 60 387.8023 305.5275 400.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/data-prep/construct/collect/data-quality)
+>> /Border [ 0 0 0 ] /Rect [ 60 340.8023 428.0205 353.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/user_guide/merging.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 263.8023 297.0915 276.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/data-prep)
+>> /Border [ 0 0 0 ] /Rect [ 60 232.8023 305.5275 245.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/user_guide/merging.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 185.8023 297.0915 198.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/user_guide/groupby.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 138.8023 297.101 151.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/user_guide/merging.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 91.80226 297.0915 104.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cloud.google.com/learn/what-is-data-integration)
+>> /Border [ 0 0 0 ] /Rect [ 60 60.80226 288.627 73.80226 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/Annots [ 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 
+  49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R ] /Contents 81 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 78 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 740.8023 382.0975 753.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/user_guide/io.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 663.8023 270.1685 676.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cloud.google.com/learn/what-is-data-ingestion)
+>> /Border [ 0 0 0 ] /Rect [ 60 632.8023 282.2905 645.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pandas.pydata.org/docs/user_guide/basics.html#function-application)
+>> /Border [ 0 0 0 ] /Rect [ 60 585.8023 376.825 598.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/compose.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 538.8023 278.576 551.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/compose.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 491.8023 278.576 504.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/overview.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 444.8023 404.242 457.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://cloud.google.com/learn/what-is-a-data-pipeline)
+>> /Border [ 0 0 0 ] /Rect [ 60 413.8023 285.454 426.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/testing-debugging/common/data-errors)
+>> /Border [ 0 0 0 ] /Rect [ 60 336.8023 428.543 349.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/common_pitfalls.html#data-leakage)
+>> /Border [ 0 0 0 ] /Rect [ 60 305.8023 330.3225 318.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/common_pitfalls.html#data-leakage)
+>> /Border [ 0 0 0 ] /Rect [ 60 258.8023 330.3225 271.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/testing-debugging/common/data-errors)
+>> /Border [ 0 0 0 ] /Rect [ 60 227.8023 428.543 240.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/common_pitfalls.html#data-leakage)
+>> /Border [ 0 0 0 ] /Rect [ 60 180.8023 330.3225 193.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 149.8023 451.2385 162.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/compose.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 102.8023 278.576 115.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/Annots [ 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 
+  67 0 R 68 0 R 69 0 R 70 0 R 71 0 R ] /Contents 82 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 78 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scikit-learn.org/stable/modules/cross_validation.html)
+>> /Border [ 0 0 0 ] /Rect [ 60 774.8023 308.14 787.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://developers.google.com/machine-learning/crash-course/validation)
+>> /Border [ 0 0 0 ] /Rect [ 60 743.8023 362.537 756.8023 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/Annots [ 73 0 R 74 0 R ] /Contents 83 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 78 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+76 0 obj
+<<
+/PageMode /UseNone /Pages 78 0 R /Type /Catalog
+>>
+endobj
+77 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260907183443+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260907183443+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+78 0 obj
+<<
+/Count 5 /Kids [ 19 0 R 38 0 R 56 0 R 72 0 R 75 0 R ] /Type /Pages
+>>
+endobj
+79 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1631
+>>
+stream
+Gb!<O>Ar7S'Z],&.F-\2U:QGt#8dY%[rk6g0(H04!!+=l[TZsAP)A4HqAiJ>@lK82%!((T81[sXp#D\-8cgWZM><d0!$=\gS.d"Z7UmRTmDJ-#c:/&r%S1eTkX#u0[N?kOhLR%j6:h_8@$Ars@NTFb2%DoG%WF81H2nFXintNLWs>P%%o#0$]7(ISq,%?O2g$?C%bH*P"g@FZ17.837UKQq%]mp5Om5_iDj#BVS]iHQkf.$-IcL]((qB>CGsXtE4)!Slk,po!F4YYlB+J5u5djd/Y':0BBjPaTS>F]IR_Vpo2>B=hgVZse(jm*H`WT4c?,=#dE-6GQoH%a%@9*:;hL<3><R:4M=HtINFsri,oAb1bk@t>4W`jDX&a!#h5X0#*O@s74+#elpgg1K[X;6-X<a$'%j51p`[N"3V!o$Fs6;SU6:cs?qMhB1->Cmq#2N<;"^D(YYbeS,')YgpC+l9f-rsR.>r@;,IYTiRHYC2^l#/amIXrC6Q2jYtHBPB^WGVl)2X&#XC?(O?0$no]ZVbuYrn.O_L1]Z9OK/f`9a0"0FD_JrT>S)U4jq8W#O]biX%*NopAZXsX@YO.pU,sj7Bu+RQ9*9(n+j>\UV[LR&ctj/iA4gjhc[oZ??6/L^R?A'!1FQ1uB(FSok4?,h$_A0R_G9FF.Iqi%`56f@q:qC4>=bftXO?k[[gLDKKoY:@;,#aj-8\91aQ_^pP'EOeG1q6(KqCp)"])[1e8+WGfA[Wr2b]hn1a_V((Um^96s[K]PGsOMm?Z2!eMfp!bmKW3>3'#2.+sBc)1UR54i<Pm-ZqR$\<6QCR&OJ6C8DbG,^7Tb"IIh#270][Kr*t^4,#@,<9FVkXAqI3G]7-]>(,RI_^g"lfK0phi5b`A=JkoG>d\%8,u5M[fR:T,d\Hs/BK$TIb,%L.H`G5_(X`Zr<Uj[\mM?0eAh`UT:lf#eXI"cs_a^>H)m7j6*[Gh-QjL6jQV2d*%iKGc)Sn"3:%02V[]#%HGV_SKcsR<"AHKQ(d9^;\$puD+p2$E=g\=BAVp`Bo7bg_,4@?$gNA]R\$b#kg*t0+A>J*usSTtPoQXFm46kesNVQ%Wt8pF`4_g>mRn&<2U:278g`4(I9\\]aSAOV0n]*3h55L=\_E0cMB:0L^sM'c5IK\6'6c?5?8SH0mPju(iX"niS?YMptF09*'1-'11rk/Hb]JpmQ9[EQ>:KPX24>mPb78]nTt,nkX!402Lo2Qii%36PJaQ!Etar230eNCs:WVnJ>sm8@ik?mCP'QYnEW;I[gKp(D7"Q2fm7m()bDk%*;;C<>uNfk\)ShFeu@+Yeo:cATSPq=:6d=*IeGQ8t:99peDf7d]jW]uG&=G^EsX7+OEbCjBYDV?%Pm)Y#FMY;b*&53D)2H^8!$c/O3p=i@BlY8fQdd_`N4$SEF@R/G4iQX@)I8jt@Fes$t,CR84e;L^ofk2cC!c"HA7l;>0aC00]g-+:Rsf',OIafpnUCGGEq9-hnk,5^4UHUp,4+Q$b:LKBn?C.pLQ^'YP=(G'B2?Al#IU@'m=]nJWIL*Q(D*)F-TP$S2V#E=.r@3r@'GEeI8UF?&NgWVY0TH#eFBe.S7D7#S_[R.iM0=#Gq?Lr3g./o`AE:>N?(UV'~>endstream
+endobj
+80 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1431
+>>
+stream
+Gb!<PDf=?#&B<Vj;iGg:P*<,`rpRM4[^iHggo4@]7Z*-f^g:l]Zb$]]5Q/j\L4^g.>\"r\#tS1BDkG]qG'79Od%.S*=UFTP'^QbCb_>:$QuDdSr<+4>(Cq=`*uR*N7@rV]8PGbL2_6oX)2l?%g)E2qZ0MQ9(Dh0N[eTt8VIb,EUqO3PY'bL>j>D>,pfFUG"fASW44fIBQZ]'%bs_eF%OG26<ss7HM[%]H9`K\.YD2<uh06sBJ")BO06..=EWT\O/+t288=l#J_1p4I,W`-*>A@HECYR/)&IVI2<7XBl7=eJd9"Rd'-*OQ5-9aLeFZQKJeoiAiV.Gj)H;tYMcg?&i9j2N7D/]]n40#a(\%H\W$/Wd'/`E76Ur#l<_ZW+9gg.'o2ZLM')ME3V+J"U3&Qhd=b6!=p%$I`(G(DZec5ilGZf$71(Hb>JK#C@(HoTDHFGr32BpGU=WkTDX/0QI<,#bqg3D-A.[*tJI#JI#Y2_lu4b1G^b[FAbB`#U2@W6t!7\nJe\FE`"S"WRA*Z7,XmSJ-bW\X]u<>RgQWo_icXP?IC[U9r!_^e.6`S/jsUq:T9%U3";@n*3"TkTG^XR%G:Nnp]!U*,T$DpdAlcbsXi;*\A&MKV58FY_I_>OH?678=RBF9((T^K.n:s0=_7927h]oJ^g\VT,ZN_R5%5EYW#u0/^m=SPbh[5"%i995J!2ObV,\(<WT<*31S?<NZkRZ.OeSs.%SWjZqHN?"Y.->^$f%!W:h1MM2tp6p.V]!JeI`S$s,cKF:A+KX-KMT"g0].e5EBTBU<?``@RR"P7o;XkK/3`..q8<PV8lq"\ra50$kXbO2fH+?T'>%LKMAlFK0ffr-,=hi)<pWA?L:k.u;3i3G>gs)44]jpo"c$B$N>54CUl2BK3T8Vh*=a,9!3H?;('bF0n)`$3[\:oF>PYON_Mj-7.*7UOb2`hou^b3_7BL7f%R^e`.sRbMk`c4^3hf\Dm%qfArW5b;O5kF52@B7EmXXXul)Gf3@.hrP\;k;=3\G(>N;t)i:3uVsr!bLWE.g-WqBg3kWo+;j:s!BRAU\AV/Ha5(gjcK+i6#f8c65-o4\kP`HecK:%[CN[hp@>)EaC^<,5RkpGc<'uURm-,sb(nHZ)!&(8gafXT4p=bK>&A9`g=_,2*]qa.d-$DhI!f]m62BK)<f]Xgh0$pVo5OnHb34Znel2U5_?*S1bW`4#Dt;iAi=m4Str*S%:=/[GkJZ,@U5,FJ^b*\%PUNm^o%s%2XFK-SLTEOuY*NNn+VQnt+ZPihKbSADjXqo;(LfN%W1J$<<cJ)hAmW%sJSMjak96:ak3Ku[/5ZV$!eS?qi'?8)f]F-pdg@FEahK2[S1b=CO]%"p:UHO*eVn8H\!nJf[RomP\],tGAXIhRgBjS!#)Mkg6i`LKs4R=6UW7c,<?i8S+r.(1)~>endstream
+endobj
+81 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1417
+>>
+stream
+Gb!SmgMZ%0&:Ml+b[XPhP,Q"a\7r9O+9gJYJ\D7hd*u1[7M<*SAL%0M;O;Xi#*m\;G)E[.7t>.AnB@CY1CO<)]Lh_:Ee"ZNYjVi/(KMIt^?*8t*e%6tI(LNWPG&(UjB6rEN6O<*%Ef(&.g!msqLldpOh`hU+O^_iCZM]"Yl\%hk3$"m:49fiQFVcD%k[REC'mS^,,$dNIo=N[E<WDHYkk>*s*+&u`Xp(:%"rkf)h@$15odLE`I?kNb?#On(CUG4*<`QsYgp<a2n#h*J)Yd:+dIa-A83&SlO</c,ZTTA:9d&U2(#bXC*+oOQ;TD9MAN8bd-]bBd0ukZeTj'_$U="H_X/34R[<hcp>Q7ZGB)8&O2O+'Dr@;o+!+]HJn%%gEJ"l3L4cG[kS2f!\AM").$^&)O_/8]OkVm->@(]qfhc?0-5..PX1">$:`CR!].b<`S!"O4R$H$Z%8cim*c<9(>IYE5<7k+G[qpbhK#p!i3-YPE5u0gba)Tmb?&=_#n8I4pWNIM`Dh^M,a)QdKXA\bkFb%7QNisNan!IjkNp2-Q0std;UV]>VT^>IcMZjlqq$p$gr8:&WphYf=&mM/.i#XqLC(M@fSq?(0c@9Djca@:&[nHp'G,8#a8LpC*Xa+e4PoS>Q'o#I?.tK:^QE\&a:GlL+Y.%fS)C'0^JM@s3%)*`/PDBY,BO86N^WT&SL9**B\u3QC9goqQ'"RI.!'?L\*70]M2@,ief=9'U#'89uOUUjEP97\f9[934jL#C8.2e7dWbe,;SE7DX@2=71>jQ2F>Y9W_7gfd=W-a6GP2e4o1Rd9riNd1>?QQ5:h)e2LZk=h1;$Hd#HSTA!L@TTbGVuTnoL&)fOH1KFZcP_OA8P=_0e7#?0p,I]0rQ2O,P11JZ/APuL6`%$0m:bL17I^;P2hbq4\F#iKJb4pa$4RS3Pkl-LN:F0,PHA-+;*6Afop`p)?T3;B`sfOar5qX4QrD:)`=:Cg2:Y>3R#"]K*[*TO!=LgUPNiRRH*oqn4"gn)g`IPL?G,g4Q9_obY/^CbDL"TQ.<jb^"7+6E!PgDB+^oTmP%q!k,/+.@T##@0&PYS@tSiAdmj:7TeRR[Rb]B^2<t<"2;a:=c0Jaqj<u!C2`EijpGtLcjXAS,2XL;3G,>//`T0!76X8%8KXh+(.TfWgfe@F&HQG.?Ea>$%nL3?ElTgkBCfl3u):+fLlcsL^(_3\hT;:_A0C)1dD_p(mqAKHB_cO[4l^e5u>/*gaH(2m*F^_%Z.PVsO9]DV=G8q-!.Rd@?T>s=^cJ(;O6hdk*nDX0I<,!i=JsL!A]P+-#213GMm=,Y=R0!<NT8M`1VKlll@Y+d%NO;:8s&OkOF9HR6=IPg-rGJ!<g^&a8]W;!\ea0*:9N4TujtsKchJ]B"E4'?d%faSP"tolV9kQ?X~>endstream
+endobj
+82 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1464
+>>
+stream
+Gb!<P>u0cU&;KZL'dND6S4^&mrXO.:QE&B4qN\KJ88,7Uc5+IdmV^tPmlS/I:i\P9M84j(OW`T$H$J57fpN;%3B`f->&F>S=[IALJ46\I!DA"IQ65%sjiQC-XC%C?+j]0k.2E*c"^MD.7D`.-60oZb]dTU7"]_2Ah:TUa`3A%,RkNR1,CATt(K-g@pJTQO_KdB8'jO4*%cs-<%CS-/O=St")^AruDH2NiEPk)L#&D2;OR7BsrWUKK/`\SWg]pRJ5j'"JEX:ej0M="o'2TI?*]4!W\$$le;[hSgH@LnY9%dsQ%CYBs+@9<q7URdmUQdU(Vkaq.7?Z!G`D`m^#c(Ks&3GKO0qCK;_iD2@f0OV!jTqZ^_b-4U<4G7`8/UnmlkWa`$cP%ACf&Y!XNdU[7#nQMmI_=QfM>U%hd*sO>M]Y^2ing/.gFN8?+.hG+_^_ne#6?TE/70?M%[*mLB]u$%NEe>/D$W0&T'[eP%UPE=2oZ5;0Z%#*t%EeA$6_P>E.pJhMMY-+V0<(Q7O?jTc\^b,A!WY,o%ih'rg;qK!,`3&1jDK+^/SQ=&?Li(6ihQ2TSl;hQ=>V#sGV:Zf=_j`PeV'1@9s4%g6?<ZZK'')s5b#R$XUHCYcUdl=SSf]4$XBI[bSsk$"#'`V`f<D-L2cB"[FJ;'+MDd[X$t#WifH`6p$P<qC+4rA\(]2Qj`)!)(:89dgqkFW<pLSAKa%?X8O.@:h,8S\<`ZD8M:6[LMM`ZF,nmn?/-Jaf%u6p5$ohq69Tq&#fXD/iV"GPf!jRPB!.p!r-mS9:_5F>I?obHI+qp!r4M(RH40Zfh!V#(Waj%iU<mCLPIL!&2;AL23W@<Z`T@<9(G&=#\<-A6P<,P+W&:%K7J0Y>iWRVfDdu!0CPD_V8=*mgEh#4L[l52Xh_Qd#4M$Q0/iUL_82Oplc0]+K,pCRgKeQEVSs73#<GCbH@pBoqhAY%3Wp9Q`bjeNd#W/'OZ]R$glTJ-F%XWL&KpO4J.K_>GYLpTP9KIFU\j%%c"R=UdjcQKQ_a..K+)`T71`IDMiI("l,SpnTe%=AI%d>!%ZTj!gNloZosV$jDeRfn[\8U6<(a0!"f#ag#lF,oS1CboE)&cO7NZE,'a=Nf271D52+TZuV!7g*0'9"Bl@`=1VWiG&-fbkZ&1toh24nc#*Y3F=ValMUP`OR/jtoDpH^L@p]#9mb+U<WO8mf!HI$pPIe.&=dn,*4@?="U!A<d(SCJMep3PbQ/c09;h8UQna/]KrYb\7nU]9U5RP).[0[5f"^Af)ecjP4d=9OZVa#F:u4HqIg]5cP0VbnqCpINS_;JQmhhWIlbDhdS"6WK/3-X?q?q(XWt6Xu&'#NXu8\1.?P$oBJqlNA(UlCDNgH=/SiUNZ4H)9?0aL2Zl"Uc+oS%7ic0Fq';ksA'M`A9C4igV5&u504pZVN]`KIp&SN<,0diOpeMc^Am[On#?l34-3~>endstream
+endobj
+83 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 531
+>>
+stream
+Gau1h_/?#%&-h'>Smm`E8hns`J/hd1Hg.\4Q"-Z50bZlh0XXWNIJY$YRjM>gV_+3n"_RQ-%u6MV&$tO$Xt,<G3H,#L%X?,oW:&VW[<PpFpRUUenm&E+-k#m'?80Zg>\(X53%G=:X@VqB/&=+OWlC)a86?'r(Wr)nP3ODnp#Y'-_/5pfWV3am.ui!Nbh+7_?>_ViSZ,,=/lL7[pO&(6Xefr1ch>*%=&?Rqoj]a@co?6Pj&;j(;pGbkL5YJq9sUtJUG<ZT0]!_[J]AEH4:.-;+K[h!?u^r;H\E8A.K>G+C-8.I"'W_`@iC>#R4dd#g:'5jlF(UZ7d9UsAObu>qP7I$Mt4UeGo(_plQ0pj%,;!0*9g%^b#"1PGF*"/if'2oEZGfFSMOeZ9Fpn7)UH`HF-+.r`sk#W+\e_3kbt*U8e3[6)VhjqAn[H^/Lian=b<DBkq'lp_]TmZaq@jpkk/iC)K`U!df+gOW3O7scc;M55$`RVDQ1j2=pL)!BVhSX>'d92+TO6o-2T&!=Sr>=XTW_~>endstream
+endobj
+xref
+0 84
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000544 00000 n 
+0000000778 00000 n 
+0000000982 00000 n 
+0000001222 00000 n 
+0000001426 00000 n 
+0000001659 00000 n 
+0000001845 00000 n 
+0000002050 00000 n 
+0000002291 00000 n 
+0000002505 00000 n 
+0000002726 00000 n 
+0000002929 00000 n 
+0000003153 00000 n 
+0000003358 00000 n 
+0000003555 00000 n 
+0000003875 00000 n 
+0000004109 00000 n 
+0000004333 00000 n 
+0000004567 00000 n 
+0000004801 00000 n 
+0000005003 00000 n 
+0000005229 00000 n 
+0000005437 00000 n 
+0000005662 00000 n 
+0000005860 00000 n 
+0000006094 00000 n 
+0000006335 00000 n 
+0000006540 00000 n 
+0000006776 00000 n 
+0000007002 00000 n 
+0000007221 00000 n 
+0000007447 00000 n 
+0000007682 00000 n 
+0000007896 00000 n 
+0000008243 00000 n 
+0000008481 00000 n 
+0000008707 00000 n 
+0000008948 00000 n 
+0000009152 00000 n 
+0000009360 00000 n 
+0000009601 00000 n 
+0000009818 00000 n 
+0000010059 00000 n 
+0000010264 00000 n 
+0000010467 00000 n 
+0000010701 00000 n 
+0000010902 00000 n 
+0000011105 00000 n 
+0000011306 00000 n 
+0000011506 00000 n 
+0000011707 00000 n 
+0000011908 00000 n 
+0000012248 00000 n 
+0000012467 00000 n 
+0000012663 00000 n 
+0000012863 00000 n 
+0000013083 00000 n 
+0000013281 00000 n 
+0000013479 00000 n 
+0000013706 00000 n 
+0000013906 00000 n 
+0000014135 00000 n 
+0000014347 00000 n 
+0000014559 00000 n 
+0000014788 00000 n 
+0000015000 00000 n 
+0000015242 00000 n 
+0000015440 00000 n 
+0000015766 00000 n 
+0000015972 00000 n 
+0000016188 00000 n 
+0000016420 00000 n 
+0000016490 00000 n 
+0000016771 00000 n 
+0000016860 00000 n 
+0000018583 00000 n 
+0000020106 00000 n 
+0000021615 00000 n 
+0000023171 00000 n 
+trailer
+<<
+/ID 
+[<bed838119f680c3dbf405a1809f718e2><bed838119f680c3dbf405a1809f718e2>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 77 0 R
+/Root 76 0 R
+/Size 84
+>>
+startxref
+23793
+%%EOF
