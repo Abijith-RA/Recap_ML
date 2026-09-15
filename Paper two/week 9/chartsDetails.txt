@@ -1,0 +1,7 @@
+Bar chart — comparing a numeric value across categories
+Line chart — showing change over time (needs an ordered/date axis)
+Scatter plot — relationship between two numeric variables
+Histogram — distribution/spread of one numeric variable
+Box plot — distribution + outliers, often across categories (bridges univariate and comparative)
+Heatmap — good for correlation matrices or two categorical variables against a numeric one
+Pie chart — use sparingly; only for parts-of-a-whole with few categories, easy to misread with many slices

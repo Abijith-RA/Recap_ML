@@ -1,0 +1,50 @@
+ 
+Topic 1
+
+Check the shape, info, and summary stats of the dataset. Write 2 sentences about what you see.
+Note down which columns are numbers, which are categories, and which one is the target.
+Find the average income for each employment type.
+Find rows where income looks unusually high or low.
+Write a short 2-sentence summary describing the dataset to someone new.
+
+Topic 2
+6. Print summary stats for just income and loan amount.
+7. Check if income is skewed, and which direction.
+8. Check which is more variable — income or loan amount.
+9. Find the mean, median, and mode of age and compare them.
+10. Make a small table showing data type, missing %, and unique count for every column.
+
+Topic 3
+11. Look at the age column alone — min, max, average, missing count.
+12. Plot a histogram of loan amount and describe its shape.
+13. Find what percentage of applicants fall into each employment type.
+14. Use the IQR method to find outliers in income.
+15. Decide if income needs a transformation before modeling, based on what you found.
+
+Topic 4
+16. Check how credit history relates to default using a cross-tab.
+17. Find the correlation between income and loan amount.
+18. Plot income vs loan amount on a scatter plot.
+19. Compare the default rate across the three employment types.
+20. Turn the application date into months, then check if default rate is going up or down over time.
+
+Topic 5
+21. Make a table showing average income split by employment type and default status.
+22. Check if loan amount affects default differently for Salaried vs Self-employed applicants.
+23. Pick any 3 columns, define a risky group, and check its default rate against the overall rate.
+24. Plot income vs loan amount, colored by employment type, sized by age.
+25. Write one sentence turning your risky-group finding into a business recommendation.
+
+Topic 6
+26. Decide the right chart type for age alone, income vs loan amount, and employment type counts.
+27. Take your scatter plot and add a title and highlight that shows the actual insight.
+28. List 3 things you'd fix to make a plain chart look more professional.
+29. Make a chart with a misleading y-axis on purpose, then fix it to be honest.
+30. Explain how you'd show your default findings differently to a technical person vs a manager.
+
+Topic 7
+31. Check if default is balanced or imbalanced, and by how much.
+32. Rank all numeric columns by how strongly they correlate with default.
+33. Check how much of the data each employment type makes up, and its default rate.
+34. Check for missing values, duplicate rows, and anything that might leak the answer.
+35. Write a short 3-sentence summary wrapping up everything you found, as if handing it off for modeling.
