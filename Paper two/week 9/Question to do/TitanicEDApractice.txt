@@ -2,50 +2,50 @@ Titanic Dataset — EDA Question Set
 _______________________________
 
 1. Dataset Understanding
-Load the Titanic dataset.
-Display the first 5 rows.
-Display the last 5 rows.
-Find the number of rows and columns.
-Display all column names.
-Check the data types of all columns.
-Generate a statistical summary of the dataset.
-Identify numerical and categorical columns.
+/Load the Titanic dataset.
+/Display the first 5 rows.
+/Display the last 5 rows.
+/Find the number of rows and columns.
+/Display all column names.
+/Check the data types of all columns.
+/Generate a statistical summary of the dataset.
+/Identify numerical and categorical columns.
 
 2. Data Quality
-Check for missing values in each column.
-Find the percentage of missing values in each column.
-Identify columns containing duplicate values.
-Check whether duplicate rows exist.
-Identify columns that may not be useful for analysis.
-Check for inconsistent or unexpected values.
+/Check for missing values in each column.
+/Find the percentage of missing values in each column.
+/Identify columns containing duplicate values.
+/Check whether duplicate rows exist.
+/Identify columns that may not be useful for analysis.
+/Check for inconsistent or unexpected values.
 
 3. Univariate Analysis
-Find the distribution of passenger ages.
-Find the distribution of passenger fares.
-Count the number of male and female passengers.
-Count passengers in each passenger class.
-Find the number of passengers who survived and did not survive.
-Analyze the distribution of passengers by embarkation port.
-Find the most common passenger class.
-Find the most common age group.
+/Find the distribution of passenger ages.
+/Find the distribution of passenger fares.
+/Count the number of male and female passengers.
+/Count passengers in each passenger class.
+/Find the number of passengers who survived and did not survive.
+/Analyze the distribution of passengers by embarkation port.
+/Find the most common passenger class.
+/Find the most common age group.
 
 4. Survival Analysis
-What percentage of passengers survived?
-What percentage of passengers did not survive?
-Compare survival counts between males and females.
-Compare survival rates across passenger classes.
-Analyze survival rate by embarkation port.
-Analyze survival rate by age group.
-Identify which passenger class had the highest survival rate.
+/What percentage of passengers survived?
+/What percentage of passengers did not survive?
+/Compare survival counts between males and females.
+/Compare survival rates across passenger classes.
+/Analyze survival rate by embarkation port.
+/Analyze survival rate by age group.
+/Identify which passenger class had the highest survival rate.
 
 5. Bivariate Analysis
-Analyze the relationship between Sex and Survived.
-Analyze the relationship between Pclass and Survived.
-Analyze the relationship between Age and Survived.
-Analyze the relationship between Fare and Survived.
-Analyze the relationship between Embarked and Survived.
-Compare Fare distributions across passenger classes.
-Compare Age distributions across passenger classes.
+/Analyze the relationship between Sex and Survived.
+/Analyze the relationship between Pclass and Survived.
+/Analyze the relationship between Age and Survived.
+/Analyze the relationship between Fare and Survived.
+/Analyze the relationship between Embarked and Survived.
+/Compare Fare distributions across passenger classes.
+/Compare Age distributions across passenger classes.
 Analyze the relationship between SibSp and Survived.
 Analyze the relationship between Parch and Survived.
 
