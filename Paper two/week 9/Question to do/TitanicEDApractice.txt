@@ -1,0 +1,108 @@
+Titanic Dataset — EDA Question Set
+_______________________________
+
+1. Dataset Understanding
+Load the Titanic dataset.
+Display the first 5 rows.
+Display the last 5 rows.
+Find the number of rows and columns.
+Display all column names.
+Check the data types of all columns.
+Generate a statistical summary of the dataset.
+Identify numerical and categorical columns.
+
+2. Data Quality
+Check for missing values in each column.
+Find the percentage of missing values in each column.
+Identify columns containing duplicate values.
+Check whether duplicate rows exist.
+Identify columns that may not be useful for analysis.
+Check for inconsistent or unexpected values.
+
+3. Univariate Analysis
+Find the distribution of passenger ages.
+Find the distribution of passenger fares.
+Count the number of male and female passengers.
+Count passengers in each passenger class.
+Find the number of passengers who survived and did not survive.
+Analyze the distribution of passengers by embarkation port.
+Find the most common passenger class.
+Find the most common age group.
+
+4. Survival Analysis
+What percentage of passengers survived?
+What percentage of passengers did not survive?
+Compare survival counts between males and females.
+Compare survival rates across passenger classes.
+Analyze survival rate by embarkation port.
+Analyze survival rate by age group.
+Identify which passenger class had the highest survival rate.
+
+5. Bivariate Analysis
+Analyze the relationship between Sex and Survived.
+Analyze the relationship between Pclass and Survived.
+Analyze the relationship between Age and Survived.
+Analyze the relationship between Fare and Survived.
+Analyze the relationship between Embarked and Survived.
+Compare Fare distributions across passenger classes.
+Compare Age distributions across passenger classes.
+Analyze the relationship between SibSp and Survived.
+Analyze the relationship between Parch and Survived.
+
+6. Multivariate Analysis
+Analyze survival based on Sex and Pclass.
+Analyze survival based on Sex, Pclass, and Age.
+Compare survival rates across Pclass and Embarked.
+Analyze Fare, Pclass, and Survived together.
+Analyze Age, Sex, and Survived together.
+Analyze family size, gender, and survival together.
+Identify combinations of passenger characteristics associated with higher survival rates.
+
+7. Feature Engineering for EDA
+Create an AgeGroup column.
+Create a FamilySize column.
+Create an IsAlone column.
+Create a Title column from passenger names.
+Create fare categories.
+Create family-size categories.
+Analyze survival using the newly created features.
+
+8. Visualization Questions
+Plot the survival count.
+Plot the gender distribution.
+Plot the passenger class distribution.
+Plot the age distribution.
+Plot the fare distribution.
+Plot survival rate by gender.
+Plot survival rate by passenger class.
+Plot survival rate by age group.
+Plot survival rate by embarkation port.
+Plot a correlation heatmap for numerical features.
+Create boxplots to identify fare outliers.
+Create boxplots to compare age distributions between survivors and non-survivors.
+
+9. Outlier Analysis
+Identify outliers in Age.
+Identify outliers in Fare.
+Determine whether extreme fares are associated with particular passenger classes.
+Analyze whether removing outliers changes the overall fare distribution.
+
+10. Correlation & Relationships
+Calculate correlations between numerical variables.
+Identify the strongest positive correlation.
+Identify the strongest negative correlation.
+Analyze the relationship between Fare and Pclass.
+Analyze the relationship between SibSp and Parch.
+Analyze whether numerical variables show any relationship with Survived.
+
+11. Final EDA Questions
+Which passenger characteristics appear most strongly associated with survival?
+Which gender had the highest survival rate?
+Which passenger class had the highest survival rate?
+Which age group had the highest survival rate?
+Does higher fare appear to be associated with survival?
+Does traveling alone affect survival?
+Does family size affect survival?
+Which embarkation port had the highest survival rate?
+What are the major patterns discovered from the Titanic dataset?
+What conclusions can be drawn from the EDA?
