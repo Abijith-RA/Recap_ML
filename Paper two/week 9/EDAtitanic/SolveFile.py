@@ -1,4 +1,4 @@
- # %% [markdown]
+# %% [markdown]
 # ## 1. Dataset Understanding ##
 
 # %%
@@ -9,6 +9,9 @@ df = sns.load_dataset("titanic")
 
 # %%
 df.head(5)
+
+# %%
+
 
 # %%
 df.tail(5)
@@ -268,6 +271,70 @@ age_passenger_summary = df.groupby("pclass")["age"].agg(
 print(age_passenger_summary)
 
 # %%
+sns.regplot(x="sibsp", y="survived", data=df, logistic=True)
+plt.show()
 
+# %%
+df["parch"].corr(df["survived"])
 
+# %% [markdown]
+# ## 6. Multivariate Analysis ##
 
+# %%
+survival_plot_S_Pc = df.pivot_table(values="survived", index="pclass", columns="sex", aggfunc="mean")
+print(survival_plot_S_Pc)
+
+# %%
+sns.barplot(x="pclass", y="survived", hue="sex", data=df,edgecolor = "black")
+plt.show()
+
+# %%
+survival_plot_s_p_a = df.pivot_table(values="survived", index=["pclass", "age"], columns="sex", aggfunc="mean")
+print(survival_plot_s_p_a)
+
+# %%
+bins = [0, 12, 18, 60, 100]
+labels = ["Child", "Teen", "Adult", "Senior"]
+df["age_group"] = pd.cut(df["age"], bins=bins, labels=labels)
+print(df["age_group"])
+
+# %%
+sns.catplot(
+    x="pclass",
+    y="survived",
+    hue="sex",
+    col="age_group",
+    data=df,
+    kind="bar",
+)
+plt.show()
+
+# %%
+features = ["age", "fare", "sibsp", "survived"]
+sns.pairplot(df[features], hue="survived", palette="coolwarm")
+plt.show()
+
+# %%
+port_class_pivot = df.pivot_table(
+    values="survived", index="pclass", columns="embarked", aggfunc="mean"
+)
+
+print(port_class_pivot)
+
+# %%
+port_age_pivot = df.pivot_table(
+    values="survived", index="age_group", columns="sex", aggfunc="mean"
+)
+print(port_age_pivot)
+
+# %%
+df["sibsp"].value_counts()
+
+# %%
+plot_family_count = df.pivot_table(
+    values="survived", index="sibsp", columns="sex", aggfunc="mean"
+)
+print(plot_family_count)
+
+# %%
+df.groupby(["sex", "pclass", "age_group"])["survived"].mean().sort_values(ascending=False)

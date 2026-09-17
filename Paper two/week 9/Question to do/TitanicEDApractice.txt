@@ -46,17 +46,17 @@ _______________________________
 /Analyze the relationship between Embarked and Survived.
 /Compare Fare distributions across passenger classes.
 /Compare Age distributions across passenger classes.
-Analyze the relationship between SibSp and Survived.
-Analyze the relationship between Parch and Survived.
+/Analyze the relationship between SibSp and Survived.
+/Analyze the relationship between Parch and Survived.
 
 6. Multivariate Analysis
-Analyze survival based on Sex and Pclass.
-Analyze survival based on Sex, Pclass, and Age.
-Compare survival rates across Pclass and Embarked.
-Analyze Fare, Pclass, and Survived together.
-Analyze Age, Sex, and Survived together.
-Analyze family size, gender, and survival together.
-Identify combinations of passenger characteristics associated with higher survival rates.
+/Analyze survival based on Sex and Pclass.
+/Analyze survival based on Sex, Pclass, and Age.
+/Compare survival rates across Pclass and Embarked.
+/Analyze Fare, Pclass, and Survived together.
+/Analyze Age, Sex, and Survived together.
+/Analyze family size, gender, and survival together.
+/Identify combinations of passenger characteristics associated with higher survival rates.
 
 7. Feature Engineering for EDA
 Create an AgeGroup column.
