@@ -1,0 +1,45 @@
+Module: Data Cleaning
+
+/Given a DataFrame, show the missing-value count for every column.
+/Dataset: sales_dataset_467rows.csv
+
+/Fill missing age values with the median.
+/Dataset: sales_dataset_467rows.csv
+
+/Remove exact duplicate rows.
+/Dataset: sales_dataset_467rows.csv
+
+/Standardize inconsistent state values such as " kerala ", "KERALA", and "Kerala".
+/Dataset: sales_dataset_467rows.csv
+
+/Identify salary outliers using the IQR rule.
+/Dataset: sales_dataset_467rows.csv
+
+Module: Data Wrangling
+
+/Create total_amount from quantity and unit_price.
+/Dataset: sales_dataset_467rows.csv
+b 
+/One-hot encode a nominal city column.
+/Dataset: sales_dataset_467rows.csv
+
+/Merge customers with orders while preserving customers with no orders.
+/Dataset: customers.csv + orders.csv
+
+/Create customer-level total spend and order count.
+/Dataset: orders.csv 
+
+/Find the top 5 cities by total revenue, 
+/along with the number of unique customers who ordered from each city.
+/Datasets: customers.csv + orders.csv
+
+Module: EDA / Preprocessing
+
+/Explain why scaling the full dataset before splitting can be leakage.
+/Dataset: sales_dataset_467rows.csv (conceptual — no code required)
+
+Create a reusable preprocessing workflow for numeric and categorical features.
+Dataset: sales_dataset_467rows.csv
+
+Document a cleaning decision for invalid negative age values.
+Dataset: sales_dataset_467rows.csv

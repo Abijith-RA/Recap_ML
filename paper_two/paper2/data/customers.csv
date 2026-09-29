@@ -1,0 +1,153 @@
+customer_id,customer_name,city,state
+C1036,Vivaan Reddy,Kolkata, TAMIL NADU 
+C1014,Karan Reddy,Kolkata,Punjab  
+C1039,Ishaan Varma,Bengaluru,Kerala  
+C1105,Divya Shah,Hyderabad,tamil nadu
+C1111,Pari Singh,Mumbai,Gujarat
+C1109,Neha Reddy,Chennai,Maharashtra  
+C1037,Aadhya Varma,Kochi,karnataka
+C1047,Riya Kumar,Ludhiana,Maharashtra
+C1062,Vivaan Verma,Mysuru,West Bengal  
+C1033,Kavya Sharma,Ahmedabad,TAMIL NADU
+C1142,Sai Joshi,Chennai,rajasthan
+C1060,Divya Menon,Kochi,Gujarat  
+C1077,Arjun Shah,Mysuru,TAMIL NADU
+C1137,Pari Rao,Ahmedabad,Telangana  
+C1067,Amit Das,Mysuru,West Bengal  
+C1044,Reyansh Nair,Coimbatore,punjab
+C1128,Rahul Sharma,Delhi, Kerala 
+C1144,Nikhil Mukherjee,Hyderabad, DELHI 
+C1140,Nikhil Joshi,Mumbai,RAJASTHAN
+C1005,Navya Das,Ahmedabad,west bengal
+C1000,Neha Yadav,Noida,TELANGANA
+C1133,Aditya Patel,Bengaluru,west bengal
+C1002,Pooja Gupta,Hyderabad, Gujarat 
+C1149,Aarav Patel,Ludhiana,Karnataka
+C1055,Kavya Das,Mysuru,RAJASTHAN
+C1121,Ananya Pillai,Trivandrum, Telangana 
+C1092,Reyansh Patel,Trivandrum, WEST BENGAL 
+C1029,Arjun Yadav,Delhi, Gujarat 
+C1057,Rohan Varma,Chennai, TAMIL NADU 
+C1102,Karan Pillai,Kochi,KARNATAKA
+C1124,Neha Menon,Mumbai, Tamil Nadu 
+C1103,Reyansh Kumar,Kochi,Rajasthan  
+C1065,Pooja Bose,Trivandrum, WEST BENGAL 
+C1132,Kavya Verma,Delhi,kerala
+C1101,Ayaan Yadav,Coimbatore,Tamil Nadu
+C1093,Divya Reddy,Trivandrum,West Bengal
+C1084,Myra Menon,Ahmedabad,Telangana  
+C1024,Priya Chatterjee,Pune,Gujarat  
+C1080,Vivaan Yadav,Delhi,Telangana
+C1013,Rahul Pillai,Pune,Delhi
+C1141,Reyansh Patel,Chennai,Tamil Nadu  
+C1146,Ayaan Shah,Ludhiana,MAHARASHTRA
+C1129,Anika Rao,Jaipur, KARNATAKA 
+C1099,Rahul Shah,Ludhiana,Tamil Nadu  
+C1123,Riya Das,Trivandrum,West Bengal  
+C1020,Karan Chatterjee,Noida,TAMIL NADU
+C1090,Sneha Iyer,Hyderabad, PUNJAB 
+C1070,Ananya Iyer,Hyderabad, Rajasthan 
+C1038,Divya Das,Noida, GUJARAT 
+C1049,Ananya Das,Ludhiana,Punjab  
+C1017,Ananya Yadav,Mumbai, RAJASTHAN 
+C1095,Reyansh Bose,Mysuru,Telangana  
+C1041,Krishna Das,Kolkata, West Bengal 
+C1010,Aarav Menon,Delhi,Rajasthan
+C1034,Anika Sharma,Noida,Delhi
+C1085,Ishaan Rao,Mumbai,Gujarat
+C1108,Amit Gupta,Noida, TELANGANA 
+C1081,Navya Verma,Noida,RAJASTHAN
+C1035,Vihaan Menon,Kolkata,GUJARAT
+C1073,Arjun Gupta,Ahmedabad,RAJASTHAN
+C1001,Ayaan Gupta,Mysuru,Delhi
+C1056,Riya Bose,Jaipur,Maharashtra  
+C1053,Aditya Varma,Mysuru,WEST BENGAL
+C1050,Pari Verma,Pune, TAMIL NADU 
+C1087,Rohan Singh,Kochi, Rajasthan 
+C1076,Aditya Menon,Noida,gujarat
+C1058,Priya Chatterjee,Ludhiana,TAMIL NADU
+C1098,Rahul Yadav,Noida,Kerala  
+C1072,Amit Bose,Kochi, DELHI 
+C1059,Vivaan Varma,Hyderabad,RAJASTHAN
+C1125,Ananya Patel,Coimbatore,MAHARASHTRA
+C1122,Vivaan Bose,Kolkata, RAJASTHAN 
+C1079,Anika Pillai,Mumbai,punjab
+C1031,Sneha Bose,Bengaluru,karnataka
+C1068,Aditya Joshi,Jaipur, KERALA 
+C1032,Saanvi Gupta,Chennai, PUNJAB 
+C1040,Aadhya Sharma,Mysuru, Karnataka 
+C1006,Navya Reddy,Kolkata,Punjab  
+C1086,Riya Reddy,Hyderabad,Rajasthan  
+C1074,Anika Rao,Mumbai,tamil nadu
+C1088,Amit Chatterjee,Ahmedabad,Rajasthan
+C1116,Vihaan Chatterjee,Ludhiana,gujarat
+C1078,Reyansh Varma,Ahmedabad,Rajasthan  
+C1052,Aarav Singh,Bengaluru, GUJARAT 
+C1097,Pooja Mukherjee,Jaipur, Karnataka 
+C1022,Vivaan Rao,Mumbai,GUJARAT
+C1134,Amit Pillai,Chennai,KERALA
+C1021,Kavya Sharma,Pune,Delhi
+C1082,Ananya Kumar,Delhi, West Bengal 
+C1075,Aarav Varma,Mumbai,TELANGANA
+C1113,Reyansh Shah,Hyderabad, DELHI 
+C1135,Pari Yadav,Coimbatore,Karnataka  
+C1071,Nikhil Nair,Ludhiana,Rajasthan  
+C1003,Anika Menon,Delhi,Karnataka
+C1016,Ishaan Reddy,Mysuru,rajasthan
+C1069,Vivaan Mukherjee,Trivandrum,Kerala
+C1107,Saanvi Gupta,Trivandrum,Gujarat
+C1126,Aarav Singh,Pune,PUNJAB
+C1115,Saanvi Patel,Coimbatore,tamil nadu
+C1112,Pari Yadav,Hyderabad,TAMIL NADU
+C1025,Reyansh Patel,Kolkata,Telangana  
+C1008,Aarav Menon,Mumbai,telangana
+C1143,Ananya Joshi,Ludhiana,Karnataka
+C1011,Diya Das,Ahmedabad,DELHI
+C1136,Anika Gupta,Mysuru,Kerala  
+C1027,Krishna Bose,Noida, KERALA 
+C1104,Krishna Rao,Bengaluru, Gujarat 
+C1030,Karan Sharma,Chennai, PUNJAB 
+C1012,Karan Yadav,Pune, Maharashtra 
+C1130,Ayaan Verma,Bengaluru,punjab
+C1009,Divya Yadav,Ahmedabad, WEST BENGAL 
+C1131,Arjun Reddy,Trivandrum, KARNATAKA 
+C1089,Navya Reddy,Pune,karnataka
+C1028,Nikhil Patel,Noida, Karnataka 
+C1042,Divya Sharma,Trivandrum,RAJASTHAN
+C1145,Ananya Pillai,Hyderabad,Telangana  
+C1066,Vihaan Iyer,Ahmedabad,Karnataka  
+C1091,Aarav Varma,Noida, Punjab 
+C1148,Ishaan Mukherjee,Coimbatore,DELHI
+C1051,Amit Reddy,Chennai,KARNATAKA
+C1023,Aarav Yadav,Jaipur, DELHI 
+C1054,Riya Yadav,Mumbai,RAJASTHAN
+C1026,Ayaan Nair,Ahmedabad,Tamil Nadu  
+C1045,Amit Joshi,Bengaluru, TELANGANA 
+C1120,Pari Das,Bengaluru, Punjab 
+C1110,Pari Sharma,Bengaluru,MAHARASHTRA
+C1018,Vivaan Chatterjee,Mysuru,kerala
+C1004,Aadhya Rao,Coimbatore,MAHARASHTRA
+C1117,Aditya Iyer,Noida, WEST BENGAL 
+C1139,Pari Varma,Pune,WEST BENGAL
+C1063,Aadhya Bose,Mysuru, KERALA 
+C1061,Rahul Bose,Coimbatore, Gujarat 
+C1100,Kavya Verma,Jaipur, TELANGANA 
+C1015,Rohan Menon,Hyderabad, Tamil Nadu 
+C1096,Myra Menon,Noida, MAHARASHTRA 
+C1138,Navya Bose,Coimbatore, KERALA 
+C1048,Saanvi Patel,Mysuru,KERALA
+C1007,Ishaan Mukherjee,Ludhiana,delhi
+C1147,Myra Iyer,Ludhiana, DELHI 
+C1114,Divya Menon,Coimbatore,TELANGANA
+C1127,Myra Mukherjee,Chennai,Telangana
+C1046,Sai Verma,Noida,TELANGANA
+C1106,Saanvi Chatterjee,Ahmedabad,West Bengal
+C1064,Sai Mukherjee,Jaipur, Maharashtra 
+C1150,Aditya Gupta,Ahmedabad,Karnataka  
+C1151,Rahul Kumar,Chennai,Tamil Nadu  
+C1152,Myra Das,Chennai,Telangana  
+C1153,Saanvi Patel,Jaipur, Karnataka 
+C1154,Navya Bose,Kochi,karnataka
+C1155,Riya Sharma,Bengaluru,KARNATAKA
+C1156,Amit Menon,Ludhiana,delhi
+C1157,Rahul Mukherjee,Delhi,Karnataka

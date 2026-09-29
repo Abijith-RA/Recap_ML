@@ -1,0 +1,11 @@
+employee_id,name,department,age,experience_years,salary,rating
+101,Anu Nair, sales ,29.0,4.0,42000.0,Good
+102,Rahul Menon,IT,,9.0,58000.0,Excellent
+103,Priya Das,HR,41.0,,,Average
+104,Arjun Iyer,sales,35.0,6.0,51000.0,
+105,Meera Pillai,IT ,,3.0,39000.0,Good
+106,Vishnu Kumar,Finance,38.0,,62000.0,Excellent
+107,Divya Varma,hr,27.0,2.0,,Average
+108,Kiran Thomas,IT,45.0,15.0,71000.0,
+109,Sneha Jose,FINANCE,,5.0,45500.0,Good
+110,Rohit Raj,Sales,33.0,7.0,48000.0,Excellent
