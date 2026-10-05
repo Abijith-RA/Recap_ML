@@ -1,0 +1,101 @@
+student_id,gender,school_type,parent_education,study_hours,attendance_pct,previous_score,sleep_hours,has_tutor,internet_access,result
+267,M,Private,Graduate,,79.0,58.0,7.7,No,Yes,Pass
+233,M,Private,Graduate,2.4,56.0,62.0,5.5,No,Yes,Fail
+247,Female,government,Graduate,2.0,74.0,49.0,6.9,No,Yes,Fail
+229,Female,Aided,Postgraduate,3.3,96.0,70.0,5.7,Yes,Yes,Pass
+275,Male,Private,,4.7,81.0,47.0,7.3,Yes,Yes,Pass
+224,Male,Government,Graduate,5.0,250.0,62.0,7.3,No,Yes,Pass
+211,Male,Private,High School,6.3,63.0,51.0,7.4,No,No,Pass
+221,Female,Private,Graduate,6.4,95.0,64.0,6.8,Yes,No,Pass
+218,Male,Government,Graduate,7.7,80.0,40.0,6.7,Yes,Yes,Pass
+236,Male,private,Postgraduate,4.6,66.0,55.0,6.1,No,Yes,Fail
+229,Female,Aided,Postgraduate,3.3,96.0,70.0,5.7,Yes,Yes,Pass
+238,Male,Private,Graduate,3.5,81.0,52.0,7.8,No,Yes,Fail
+271,M,Aided,Graduate,3.9,71.0,55.0,9.5,No,Yes,Fail
+241,F,Aided,High School,5.4,55.0,83.0,8.8,No,Yes,Pass
+261,Male,Aided,Graduate,,98.0,60.0,6.4,No,Yes,Fail
+235,Male,Aided,Postgraduate,6.1,72.0,60.0,6.3,No,Yes,Pass
+243,Female,Private,High School,4.3,96.0,57.0,7.2,No,Yes,Pass
+258,Male,Government,Postgraduate,4.6,78.0,52.0,9.6,No,No,Pass
+213,Female,Government,Graduate,1.3,90.0,76.0,8.4,Yes,Yes,Pass
+270,Male,Government,Graduate,40.0,86.0,48.0,8.0,No,No,Fail
+295,Female,Private,High School,7.0,75.0,53.0,7.7,Yes,Yes,Pass
+257,Male,private,,3.4,75.0,58.0,8.5,No,Yes,Fail
+223,Male,Private,High School,3.2,68.0,21.0,6.5,No,Yes,Fail
+240,Female,Government,Graduate,3.7,75.0,53.0,7.0,No,No,Fail
+225,Male,Government,High School,4.7,79.0,53.0,7.8,No,Yes,Pass
+214,Male,Private,Graduate,1.5,100.0,78.0,7.7,Yes,Yes,Pass
+264,Male,Private,High School,3.6,90.0,77.0,7.3,No,No,Pass
+272,Female,Aided,Graduate,2.7,85.0,,,No,Yes,Pass
+256,Male,Private,Graduate,1.2,78.0,,6.9,Yes,No,Fail
+288,Female,Government,High School,7.3,79.0,67.0,6.3,No,Yes,Pass
+207,Male,Private,Graduate,3.2,78.0,52.0,6.0,No,No,Fail
+289,Male,Private,Graduate,6.1,79.0,47.0,8.9,No,Yes,Pass
+265,Male,Private,High School,,86.0,45.0,5.7,No,Yes,Fail
+227,Female,Government,Graduate,5.3,69.0,57.0,,No,Yes,Fail
+249,Female,Private,Graduate,5.2,83.0,41.0,7.7,No,Yes,Pass
+251,Female,Aided,Graduate,4.4,72.0,65.0,7.5,Yes,Yes,Pass
+273,Female,Government,High School,6.4,76.0,80.0,7.1,Yes,Yes,Pass
+255,Male,Government,Postgraduate,7.6,86.0,51.0,6.2,No,No,Pass
+222,Female,Private,Graduate,5.5,69.0,53.0,8.0,No,Yes,Fail
+226,Male,Private,High School,7.0,70.0,49.0,5.5,No,Yes,Fail
+234,Female,Private,Graduate,7.2,62.0,39.0,6.1,Yes,Yes,Pass
+230,Male,Aided,Postgraduate,6.0,89.0,62.0,8.2,Yes,Yes,Pass
+253,Male,Aided,Graduate,8.1,68.0,66.0,7.2,Yes,Yes,Pass
+215,Male,Government,Graduate,8.4,85.0,46.0,7.1,No,Yes,Pass
+286,Male,Private,Postgraduate,4.7,87.0,64.0,7.1,No,Yes,Pass
+280,Female,Private,Graduate,4.1,93.0,57.0,7.2,No,Yes,Pass
+296,Male,Government,Postgraduate,5.7,99.0,75.0,6.3,No,Yes,Pass
+204,Female,Private,High School,8.7,92.0,66.0,5.1,No,Yes,Pass
+244,Male,Private,Graduate,6.9,73.0,,5.5,No,Yes,Pass
+212,Female,Aided,Graduate,6.4,83.0,52.0,6.6,No,Yes,Pass
+255,Male,Government,Postgraduate,7.6,86.0,51.0,6.2,No,No,Pass
+246,Female,Government,High School,4.4,88.0,57.0,7.6,No,No,Pass
+284,Male,Government,High School,,82.0,50.0,6.7,No,Yes,Fail
+268,Female,Private,High School,5.0,71.0,64.0,8.6,No,Yes,Pass
+290,Female,Aided,High School,4.4,68.0,53.0,7.7,No,Yes,Fail
+287,Female,Government,Postgraduate,6.6,90.0,,5.5,No,Yes,Pass
+250,Female,Private,Graduate,4.6,,42.0,6.4,Yes,Yes,Pass
+283,Male,Government,Postgraduate,7.8,74.0,77.0,3.8,No,Yes,Pass
+260,Male,Government,High School,2.7,73.0,67.0,5.5,Yes,Yes,Fail
+220,Male,Government,Postgraduate,7.8,80.0,61.0,7.4,No,Yes,Pass
+282,Female,private,Graduate,3.1,62.0,66.0,5.6,Yes,Yes,Fail
+239,Female,Government,High School,5.5,65.0,68.0,7.8,No,No,Pass
+269,Male,Private,High School,,90.0,76.0,9.0,Yes,No,Pass
+203,Female,Private,Graduate,1.1,77.0,60.0,8.2,No,Yes,Fail
+232,Male,Private,High School,3.1,95.0,66.0,7.3,No,Yes,Pass
+285,Female,Government,Graduate,6.5,80.0,57.0,7.2,No,Yes,Pass
+252,Female,Aided,Postgraduate,7.9,63.0,56.0,7.2,No,Yes,Pass
+237,Male,Private,Postgraduate,5.9,68.0,36.0,8.0,No,Yes,Fail
+205,Male,government,Postgraduate,4.9,57.0,71.0,8.4,No,Yes,Fail
+201,Female,Private,Graduate,5.8,63.0,74.0,6.6,No,Yes,Pass
+259,Male,Government,High School,5.2,93.0,,6.4,No,Yes,Pass
+206,Male,government,High School,3.2,75.0,67.0,6.1,Yes,Yes,Fail
+237,Male,Private,Postgraduate,5.9,68.0,36.0,8.0,No,Yes,Fail
+202,Female,Government,Postgraduate,8.3,79.0,37.0,4.5,No,Yes,Pass
+294,Male,Government,Graduate,3.1,67.0,31.0,8.4,No,Yes,Fail
+242,Female,Government,Graduate,7.2,68.0,87.0,8.0,Yes,Yes,Pass
+210,Female,Private,High School,6.8,45.0,28.0,7.5,No,Yes,Fail
+219,Male,Private,High School,2.7,78.0,31.0,7.6,No,Yes,Fail
+292,Female,Aided,Postgraduate,7.1,77.0,63.0,,No,Yes,Pass
+248,Female,Government,High School,4.8,87.0,56.0,7.7,No,No,Pass
+266,Female,Government,Graduate,7.0,,49.0,7.5,Yes,Yes,Pass
+276,Female,Private,,5.4,73.0,59.0,8.0,Yes,Yes,Pass
+278,M,Aided,High School,8.1,86.0,75.0,8.9,No,Yes,Pass
+245,Male,Private,High School,2.7,84.0,92.0,7.6,No,Yes,Pass
+293,Female,Private,Graduate,4.2,67.0,78.0,7.7,No,Yes,Fail
+291,Female,Government,High School,1.3,,30.0,7.5,No,Yes,Fail
+254,Female,Government,Graduate,2.3,73.0,69.0,6.4,Yes,Yes,Fail
+216,Female,Private,Postgraduate,7.1,70.0,65.0,7.0,No,Yes,Pass
+277,Female,Private,Graduate,6.2,85.0,50.0,6.4,Yes,Yes,Pass
+208,Male,private,High School,2.6,97.0,68.0,6.8,No,No,Fail
+281,Male,Aided,,5.4,77.0,53.0,7.4,No,Yes,Pass
+231,Female,Private,High School,6.1,88.0,54.0,5.5,No,Yes,Pass
+228,Female,Private,Graduate,8.5,,45.0,8.8,No,Yes,Pass
+263,Female,Aided,Graduate,3.5,73.0,77.0,6.3,No,Yes,Fail
+209,Male,government,High School,4.5,67.0,54.0,6.8,No,Yes,Fail
+274,Female,Government,High School,4.8,79.0,83.0,7.0,No,Yes,Pass
+217,Male,Private,Graduate,9.8,91.0,63.0,6.7,No,Yes,Pass
+262,Male,Government,Graduate,5.2,65.0,67.0,5.8,No,Yes,Fail
+279,Male,Private,High School,4.4,85.0,69.0,8.3,No,No,Pass
+224,Male,Government,Graduate,5.0,250.0,62.0,7.3,No,Yes,Pass
