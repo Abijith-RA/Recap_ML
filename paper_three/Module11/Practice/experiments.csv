@@ -1,0 +1,2 @@
+model,lr,depth,f1_macro
+XGBoost,0.05,4,0.9665831244778613
