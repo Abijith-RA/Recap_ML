@@ -1,0 +1,358 @@
+---
+markmap:
+  initialExpandLevel: 2
+  maxWidth: 320
+---
+
+# [Machine Learning (GeeksforGeeks)](https://www.geeksforgeeks.org/machine-learning/machine-learning-tutorial/)
+
+## Module 1: ML Fundamentals
+- [Introduction](https://www.geeksforgeeks.org/machine-learning/introduction-machine-learning/)
+- [Types of ML](https://www.geeksforgeeks.org/machine-learning/types-of-machine-learning/)
+  - Supervised Learning
+  - Unsupervised Learning
+  - Reinforcement Learning
+  - Semi-Supervised Learning
+  - Self-Supervised Learning
+- [AI vs ML vs Deep Learning](https://www.geeksforgeeks.org/artificial-intelligence/artificial-intelligence-vs-machine-learning-vs-deep-learning/)
+- [ML workflow / lifecycle](https://www.geeksforgeeks.org/machine-learning/machine-learning-lifecycle/)
+- [ML Pipeline](https://www.geeksforgeeks.org/blogs/machine-learning-pipeline/)
+- [Applications](https://www.geeksforgeeks.org/machine-learning/machine-learning-introduction/)
+
+## Module 2: Python for ML
+- [Introduction](https://www.geeksforgeeks.org/python/introduction-to-python/)
+- Python basics
+  - [Variables](https://www.geeksforgeeks.org/python/python-variables/)
+  - [Data Types](https://www.geeksforgeeks.org/python/python-data-types/)
+  - [Operators](https://www.geeksforgeeks.org/python/python-operators/)
+  - [Conditional Statements](https://www.geeksforgeeks.org/python/conditional-statements-in-python/)
+  - [Loops](https://www.geeksforgeeks.org/python/loops-in-python/)
+  - [Functions](https://www.geeksforgeeks.org/python/python-functions/)
+  - [Lists](https://www.geeksforgeeks.org/python/python-lists/)
+  - [Dictionary](https://www.geeksforgeeks.org/python/python-dictionary/)
+- Libraries
+  - [NumPy](https://www.geeksforgeeks.org/numpy/python-numpy/)
+  - [Pandas](https://www.geeksforgeeks.org/pandas/pandas-step-by-step-guide/)
+  - [Matplotlib](https://www.geeksforgeeks.org/data-visualization/data-visualization-using-matplotlib/)
+  - [Seaborn](https://www.geeksforgeeks.org/data-visualization/data-visualization-with-python-seaborn/)
+  - [Scikit-learn](https://www.geeksforgeeks.org/machine-learning/learning-model-building-scikit-learn-python-machine-learning-library/)
+
+## Module 3: Mathematics for ML
+- Probability
+  - [Basic probability](https://www.geeksforgeeks.org/maths/basic-concepts-of-probability/)
+  - [Conditional Probability](https://www.geeksforgeeks.org/maths/conditional-probability/)
+  - [Bayes' Theorem](https://www.geeksforgeeks.org/data-science/bayes-theorem-in-machine-learning/)
+  - [Probability distributions](https://www.geeksforgeeks.org/data-science/probability-distributions-in-data-science/)
+- Statistics
+  - [Descriptive Statistics](https://www.geeksforgeeks.org/data-science/descriptive-statistic/)
+  - [Inferential Statistics](https://www.geeksforgeeks.org/data-science/what-is-inferential-statistics/)
+  - [Skewness and Kurtosis](https://www.geeksforgeeks.org/data-science/how-to-calculate-skewness-and-kurtosis-in-python/)
+  - Correlation
+    - [Pearson](https://www.geeksforgeeks.org/data-science/pearson-correlation-in-data-science/)
+    - [Spearman](https://www.geeksforgeeks.org/data-science/spearmans-rank-correlation/)
+- Linear Algebra & Calculus
+  - [Vectors](https://www.geeksforgeeks.org/data-science/vectors-for-ml/)
+  - [Matrices](https://www.geeksforgeeks.org/data-science/matrices-and-matrix-arithmetic-for-machine-learning/)
+  - [Dot Product](https://www.geeksforgeeks.org/physics/scalar-product-of-vectors/)
+  - [Linear equations](https://www.geeksforgeeks.org/data-science/solving-linear-equations-data-science/)
+  - [Differentiation](https://www.geeksforgeeks.org/maths/derivatives/)
+  - [Gradient Descent](https://www.geeksforgeeks.org/machine-learning/what-is-gradient-descent/)
+
+## Module 4: Data Preparation
+- [Introduction / Data Preprocessing](https://www.geeksforgeeks.org/data-analysis/data-preprocessing-machine-learning-python/)
+- [Data Cleaning](https://www.geeksforgeeks.org/data-analysis/data-cleaning-introduction/)
+- [Missing Values](https://www.geeksforgeeks.org/data-analysis/handling-missing-values-machine-learning/)
+- [Outliers](https://www.geeksforgeeks.org/machine-learning/machine-learning-outlier/)
+- [Splitting Data](https://www.geeksforgeeks.org/machine-learning/splitting-data-for-machine-learning-models/)
+- [Feature Selection](https://www.geeksforgeeks.org/machine-learning/feature-selection-techniques-in-machine-learning/)
+  - Why needed
+    - Improved accuracy
+    - Faster training
+    - Greater interpretability
+    - Avoiding curse of dimensionality
+  - [Filter methods](https://www.geeksforgeeks.org/machine-learning/feature-selection-filter-methods/)
+    - [Information Gain](https://www.geeksforgeeks.org/machine-learning/information-gain-and-mutual-information-for-machine-learning/)
+    - [Chi-square test](https://www.geeksforgeeks.org/maths/chi-square-test/)
+    - Fisher's Score
+    - [Pearson's Correlation Coefficient](https://www.geeksforgeeks.org/maths/pearson-correlation-coefficient/)
+    - [Variance Threshold](https://www.geeksforgeeks.org/machine-learning/variance-threshold/)
+    - Mean Absolute Difference
+    - Dispersion ratio
+  - [Wrapper methods](https://www.geeksforgeeks.org/machine-learning/wrapper-methods-feature-selection/)
+    - [Forward Selection](https://www.geeksforgeeks.org/machine-learning/forward-feature-selection-in-machine-learning/)
+    - [Backward Elimination](https://www.geeksforgeeks.org/machine-learning/ml-multiple-linear-regression-backward-elimination-technique/)
+    - [Recursive Feature Elimination (RFE)](https://www.geeksforgeeks.org/machine-learning/recursive-feature-elimination/)
+  - [Embedded methods](https://www.geeksforgeeks.org/machine-learning/feature-selection-embedded-methods/)
+    - L1 Regularization (Lasso)
+    - Decision Trees and Random Forests
+    - Gradient Boosting
+  - Choosing a method
+    - Dataset size
+    - Model type
+    - Interpretability
+    - Computational resources
+- [Feature Scaling](https://www.geeksforgeeks.org/machine-learning/feature-engineering-scaling-normalization-and-standardization/)
+  - Normalization
+  - Standardization
+- [Feature Engineering](https://www.geeksforgeeks.org/machine-learning/what-is-feature-engineering/)
+- [Feature Extraction](https://www.geeksforgeeks.org/machine-learning/what-is-feature-extraction/)
+- [Imbalanced Data](https://www.geeksforgeeks.org/machine-learning/handling-imbalanced-data-for-classification/)
+
+## Module 5: Exploratory Data Analysis
+- [Introduction to EDA](https://www.geeksforgeeks.org/data-analysis/exploratory-data-analysis-in-python/)
+- [Univariate, Bivariate and Multivariate](https://www.geeksforgeeks.org/data-analysis/univariate-bivariate-and-multivariate-data-and-its-analysis/)
+- [Data Visualization](https://www.geeksforgeeks.org/data-visualization/data-visualization-and-its-importance/)
+- [Correlation Analysis](https://www.geeksforgeeks.org/data-analysis/what-is-correlation-analysis/)
+- [Advanced EDA](https://www.geeksforgeeks.org/data-analysis/advanced-eda/)
+
+## Module 6: Supervised Learning
+- [Supervised Learning overview](https://www.geeksforgeeks.org/machine-learning/supervised-machine-learning/)
+- [Classification](https://www.geeksforgeeks.org/machine-learning/getting-started-with-classification/)
+  - Types
+    - Binary classification
+    - Multiclass classification
+    - Multi-label classification
+  - Working steps
+    - Data collection
+    - Feature extraction
+    - Model training
+    - Model evaluation
+    - Prediction
+    - Model improvement
+  - Linear classifiers
+    - Logistic Regression
+    - Support Vector Machines
+    - Single-layer Perceptron
+    - SGD Classifier
+  - Non-linear classifiers
+    - K-Nearest Neighbours
+    - Kernel SVM
+    - Decision Tree Classification
+    - Random Forests
+    - AdaBoost
+    - Bagging Classifier
+    - Voting Classifier
+    - Extra Trees Classifier
+    - Multi-layer Artificial Neural Networks
+  - Applications
+    - Email spam filtering
+    - Credit risk assessment
+    - Medical diagnosis
+    - Image classification
+    - Sentiment analysis
+    - Fraud detection
+    - Recommendation systems
+- [Regression](https://www.geeksforgeeks.org/machine-learning/regression-in-machine-learning/)
+  - [Simple Linear Regression](https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/)
+  - [Multiple Linear Regression](https://www.geeksforgeeks.org/machine-learning/ml-multiple-linear-regression-using-python/)
+  - [Polynomial Regression](https://www.geeksforgeeks.org/machine-learning/polynomial-regression-from-scratch-using-python/)
+  - Regularized regression
+    - [Ridge (L2)](https://www.geeksforgeeks.org/machine-learning/what-is-ridge-regression/)
+    - [Lasso (L1)](https://www.geeksforgeeks.org/machine-learning/what-is-lasso-regression/)
+  - [Support Vector Regression (SVR)](https://www.geeksforgeeks.org/machine-learning/support-vector-regression-svr-using-linear-and-non-linear-kernels-in-scikit-learn/)
+  - [Decision Tree Regression](https://www.geeksforgeeks.org/machine-learning/python-decision-tree-regression-using-sklearn/)
+  - [Random Forest Regression](https://www.geeksforgeeks.org/machine-learning/random-forest-regression-in-python/)
+  - Evaluation metrics
+    - MAE
+    - MSE
+    - RMSE
+    - Huber Loss
+    - R2 Score
+  - Applications
+    - Predicting prices
+    - Forecasting trends
+    - Identifying risk factors
+    - Making decisions
+- Algorithms
+  - 1. Linear Regression
+    - [Introduction to Linear Regression](https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/)
+    - [Multiple Linear Regression](https://www.geeksforgeeks.org/machine-learning/ml-multiple-linear-regression-using-python/)
+  - 2. Logistic Regression
+    - [Understanding Logistic Regression](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/)
+    - [Cost function in Logistic Regression](https://www.geeksforgeeks.org/machine-learning/ml-cost-function-in-logistic-regression/)
+  - 3. Decision Trees
+    - [Decision Tree in ML](https://www.geeksforgeeks.org/machine-learning/decision-tree-introduction-example/)
+    - [Types of Decision Tree algorithms](https://www.geeksforgeeks.org/machine-learning/decision-tree-algorithms/)
+      - [ID3](https://www.geeksforgeeks.org/machine-learning/iterative-dichotomiser-3-id3-algorithm-from-scratch/)
+      - C5
+      - [CART](https://www.geeksforgeeks.org/machine-learning/cart-classification-and-regression-tree-in-machine-learning/)
+    - [Decision Tree Regression (implementation)](https://www.geeksforgeeks.org/machine-learning/python-decision-tree-regression-using-sklearn/)
+    - [Decision Tree Classification (implementation)](https://www.geeksforgeeks.org/machine-learning/building-and-implementing-decision-tree-classifiers-with-scikit-learn-a-comprehensive-guide/)
+  - 4. k-Nearest Neighbors (k-NN)
+    - [Introduction to KNN](https://www.geeksforgeeks.org/machine-learning/k-nearest-neighbours/)
+    - Distance metrics
+      - Euclidean
+      - Manhattan
+    - [Decision Boundaries in KNN](https://www.geeksforgeeks.org/machine-learning/understanding-decision-boundaries-in-k-nearest-neighbors-knn/)
+  - 5. Naive Bayes
+    - [Introduction to Naive Bayes](https://www.geeksforgeeks.org/machine-learning/naive-bayes-classifiers/)
+    - [Gaussian Naive Bayes](https://www.geeksforgeeks.org/machine-learning/gaussian-naive-bayes/)
+    - [Multinomial Naive Bayes](https://www.geeksforgeeks.org/machine-learning/multinomial-naive-bayes/)
+    - [Bernoulli Naive Bayes](https://www.geeksforgeeks.org/machine-learning/bernoulli-naive-bayes/)
+  - 6. Support Vector Machines (SVM)
+    - [Understanding SVMs](https://www.geeksforgeeks.org/machine-learning/support-vector-machine-algorithm/)
+    - [Non-Linear SVM](https://www.geeksforgeeks.org/machine-learning/ml-non-linear-svm/)
+    - [Kernel functions](https://www.geeksforgeeks.org/machine-learning/major-kernel-functions-in-support-vector-machine-svm/)
+  - 7. Ensemble Learning
+    - [Ensemble learning overview](https://www.geeksforgeeks.org/machine-learning/a-comprehensive-guide-to-ensemble-learning/)
+    - Bagging
+      - [Bagging vs Boosting](https://www.geeksforgeeks.org/machine-learning/bagging-vs-boosting-in-machine-learning/)
+      - [Bagging Classifier](https://www.geeksforgeeks.org/machine-learning/what-is-bagging-classifier/)
+      - Bootstrap sampling
+      - Base model training
+      - Prediction aggregation
+      - OOB evaluation
+      - Random Forest
+      - Random Subspace Method
+    - Boosting
+      - [AdaBoost](https://www.geeksforgeeks.org/machine-learning/adaboost-in-machine-learning/)
+      - [Gradient Boosting](https://www.geeksforgeeks.org/machine-learning/ml-gradient-boosting/)
+      - [XGBoost](https://www.geeksforgeeks.org/machine-learning/xgboost/)
+      - [LightGBM](https://www.geeksforgeeks.org/machine-learning/lightgbm-light-gradient-boosting-machine/)
+      - [CatBoost](https://www.geeksforgeeks.org/machine-learning/catboost-ml/)
+    - Stacking (meta-model)
+    - Voting Classifier
+  - 8. Random Forest (Bagging algorithm)
+    - [Introduction](https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/)
+    - [Random Forest Classifier](https://www.geeksforgeeks.org/dsa/random-forest-classifier-using-scikit-learn/)
+    - [Random Forest Regression](https://www.geeksforgeeks.org/machine-learning/random-forest-regression-in-python/)
+  - 9. Neural Networks
+    - [Neural Networks (beginner's guide)](https://www.geeksforgeeks.org/deep-learning/neural-networks-a-beginners-guide/)
+    - Multilayer Perceptron (MLP)
+    - Backpropagation
+
+## Module 7: Model Evaluation & Optimization
+- [Evaluation Metrics overview](https://www.geeksforgeeks.org/machine-learning/metrics-for-machine-learning-model/)
+  - Classification metrics
+    - Accuracy
+    - Precision
+    - Recall
+    - F1 Score
+    - Log Loss
+    - AUC and ROC Curve
+      - TPR
+      - TNR
+      - FPR
+      - FNR
+    - Confusion Matrix
+  - Regression metrics
+    - MAE
+    - MSE
+    - RMSE
+    - RMSLE
+    - R-squared
+  - Clustering metrics
+    - Silhouette Score
+    - Davies-Bouldin Index
+- [Confusion Matrix](https://www.geeksforgeeks.org/machine-learning/confusion-matrix-machine-learning/)
+- [Precision, Recall](https://www.geeksforgeeks.org/machine-learning/precision-and-recall-in-machine-learning/) and [F1-Score](https://www.geeksforgeeks.org/machine-learning/f1-score-in-machine-learning/)
+- [AUC-ROC Curve](https://www.geeksforgeeks.org/machine-learning/auc-roc-curve/)
+- [Regression Metrics](https://www.geeksforgeeks.org/machine-learning/regression-metrics/)
+- [Cross-validation](https://www.geeksforgeeks.org/machine-learning/cross-validation-machine-learning/)
+- [Overfitting and Underfitting](https://www.geeksforgeeks.org/machine-learning/underfitting-and-overfitting-in-machine-learning/)
+- [Bias-Variance Tradeoff](https://www.geeksforgeeks.org/machine-learning/ml-bias-variance-trade-off/)
+- [Regularization](https://www.geeksforgeeks.org/machine-learning/regularization-in-machine-learning/)
+- [Hyperparameter Tuning](https://www.geeksforgeeks.org/machine-learning/hyperparameter-tuning/)
+- [Model Selection](https://www.geeksforgeeks.org/machine-learning/model-selection-for-machine-learning/)
+
+## Module 8: Unsupervised Learning
+- [Unsupervised Learning overview](https://www.geeksforgeeks.org/machine-learning/unsupervised-learning/)
+- [Clustering](https://www.geeksforgeeks.org/machine-learning/clustering-in-machine-learning/)
+  - Centroid-based methods
+    - [K-Means](https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/)
+    - [Elbow Method](https://www.geeksforgeeks.org/machine-learning/elbow-method-for-optimal-value-of-k-in-kmeans/)
+    - [K-Means++](https://www.geeksforgeeks.org/machine-learning/ml-k-means-algorithm/)
+    - [K-Mode](https://www.geeksforgeeks.org/machine-learning/k-mode-clustering-in-python/)
+    - [Fuzzy C-Means](https://www.geeksforgeeks.org/machine-learning/ml-fuzzy-clustering/)
+  - Connectivity-based methods
+    - [Hierarchical clustering](https://www.geeksforgeeks.org/machine-learning/hierarchical-clustering/)
+    - [Agglomerative Clustering](https://www.geeksforgeeks.org/machine-learning/implementing-agglomerative-clustering-using-sklearn/)
+    - [Divisive clustering](https://www.geeksforgeeks.org/machine-learning/difference-between-agglomerative-clustering-and-divisive-clustering/)
+    - [Affinity propagation](https://www.geeksforgeeks.org/machine-learning/affinity-propagation/)
+  - Density-based methods
+    - [DBSCAN](https://www.geeksforgeeks.org/machine-learning/dbscan-clustering-in-ml-density-based-clustering/)
+    - [OPTICS](https://www.geeksforgeeks.org/machine-learning/ml-optics-clustering/)
+  - Distribution-based methods
+    - [Gaussian Mixture Models (GMM)](https://www.geeksforgeeks.org/machine-learning/gaussian-mixture-model/)
+    - [Expectation-Maximization](https://www.geeksforgeeks.org/machine-learning/ml-expectation-maximization-algorithm/)
+    - [Dirichlet Process Mixture Models (DPMM)](https://www.geeksforgeeks.org/machine-learning/dirichlet-process-mixture-models-dpmms/)
+- [Dimensionality Reduction](https://www.geeksforgeeks.org/machine-learning/dimensionality-reduction/)
+  - [PCA](https://www.geeksforgeeks.org/data-analysis/principal-component-analysis-pca/)
+  - [t-SNE](https://www.geeksforgeeks.org/machine-learning/ml-t-distributed-stochastic-neighbor-embedding-t-sne-algorithm/)
+  - [NMF](https://www.geeksforgeeks.org/machine-learning/non-negative-matrix-factorization/)
+  - [ICA](https://www.geeksforgeeks.org/machine-learning/ml-independent-component-analysis/)
+  - [Isomap](https://www.geeksforgeeks.org/machine-learning/isomap-a-non-linear-dimensionality-reduction-technique/)
+  - [LLE](https://www.geeksforgeeks.org/machine-learning/swiss-roll-reduction-with-lle-in-scikit-learn/)
+  - [LSA](https://www.geeksforgeeks.org/machine-learning/latent-semantic-analysis/)
+  - [Autoencoders](https://www.geeksforgeeks.org/machine-learning/auto-encoders/)
+- Association Rule Mining
+  - [Association Rule](https://www.geeksforgeeks.org/machine-learning/association-rule/)
+  - [Apriori](https://www.geeksforgeeks.org/machine-learning/apriori-algorithm/)
+  - [FP-Growth](https://www.geeksforgeeks.org/machine-learning/frequent-pattern-growth-algorithm/)
+  - [ECLAT](https://www.geeksforgeeks.org/machine-learning/ml-eclat-algorithm/)
+- [Anomaly Detection](https://www.geeksforgeeks.org/computer-networks/what-is-anomaly-detection/)
+
+## Module 9: Reinforcement Learning
+- [Reinforcement Learning overview](https://www.geeksforgeeks.org/machine-learning/what-is-reinforcement-learning/)
+- Fundamental methods
+  - [Markov Decision Processes (MDPs)](https://www.geeksforgeeks.org/machine-learning/markov-decision-process/)
+  - [Bellman equation](https://www.geeksforgeeks.org/machine-learning/bellman-equation/)
+  - [Value iteration](https://www.geeksforgeeks.org/python/implement-value-iteration-in-python/)
+- Model-based methods
+  - [Value Iteration vs Policy Iteration](https://www.geeksforgeeks.org/machine-learning/what-is-the-difference-between-value-iteration-and-policy-iteration/)
+  - [Monte Carlo Tree Search](https://www.geeksforgeeks.org/machine-learning/monte-carlo-tree-search-mcts-in-machine-learning/)
+- Model-free methods
+  - Value-based
+    - [Q-Learning](https://www.geeksforgeeks.org/machine-learning/q-learning-in-python/)
+    - [SARSA](https://www.geeksforgeeks.org/machine-learning/sarsa-reinforcement-learning/)
+    - [Monte Carlo Methods](https://www.geeksforgeeks.org/artificial-intelligence/what-is-monte-carlo-simulation/)
+  - Policy-based
+    - [REINFORCE](https://www.geeksforgeeks.org/machine-learning/reinforce-algorithm/)
+    - [Actor-Critic](https://www.geeksforgeeks.org/machine-learning/actor-critic-algorithm-in-reinforcement-learning/)
+    - [A3C](https://www.geeksforgeeks.org/machine-learning/asynchronous-advantage-actor-critic-a3c-algorithm/)
+
+## Module 10: Semi-Supervised & Self-Supervised Learning
+- Semi-Supervised
+  - [Semi-Supervised Learning](https://www.geeksforgeeks.org/machine-learning/ml-semi-supervised-learning/)
+  - [Semi-Supervised Classification](https://www.geeksforgeeks.org/machine-learning/semi-supervised-classification/)
+  - [Self-Training](https://www.geeksforgeeks.org/machine-learning/self-training-in-semi-supervised-learning/)
+  - [Co-Training](https://www.geeksforgeeks.org/machine-learning/what-is-co-training/)
+  - Label Propagation
+  - Label Spreading
+- Self-Supervised
+  - [Self-Supervised Learning](https://www.geeksforgeeks.org/machine-learning/self-supervised-learning-ssl/)
+  - [Contrastive Learning (SimCLR, MoCo)](https://www.geeksforgeeks.org/deep-learning/contrastive-learning-with-simclr-in-pytorch/)
+  - [Masked Language Models (BERT-style)](https://www.geeksforgeeks.org/nlp/masked-language-models/)
+
+## Module 11: Time Series & Forecasting
+- [Introduction](https://www.geeksforgeeks.org/machine-learning/time-series-analysis-and-forecasting/)
+- [Seasonality](https://www.geeksforgeeks.org/machine-learning/seasonality-detection-in-time-series-data/)
+- [Stationarity](https://www.geeksforgeeks.org/python/how-to-check-if-time-series-data-is-stationary-with-python/)
+- [Exponential Smoothing](https://www.geeksforgeeks.org/artificial-intelligence/exponential-smoothing-for-time-series-forecasting/)
+- [ARIMA](https://www.geeksforgeeks.org/machine-learning/model-selection-for-arima/)
+- [SARIMA](https://www.geeksforgeeks.org/machine-learning/sarima-seasonal-autoregressive-integrated-moving-average/)
+
+## Module 12: Deployment & MLOps
+- [ML deployment](https://www.geeksforgeeks.org/machine-learning/machine-learning-deployment/)
+- ML applications
+  - [Streamlit](https://www.geeksforgeeks.org/machine-learning/deploy-a-machine-learning-model-using-streamlit-library/)
+  - [Gradio](https://www.geeksforgeeks.org/machine-learning/python-create-uis-for-prototyping-machine-learning-model-with-gradio/)
+- ML APIs
+  - [Flask](https://www.geeksforgeeks.org/machine-learning/deploy-machine-learning-model-using-flask/)
+  - [FastAPI](https://www.geeksforgeeks.org/machine-learning/deploying-ml-models-as-api-using-fastapi/)
+- [MLOps](https://www.geeksforgeeks.org/machine-learning/what-is-mlops/)
+- [CI/CD in MLOps](https://www.geeksforgeeks.org/machine-learning/continuous-integration-and-continuous-deployment-ci-cd-in-mlops/)
+- [End-to-End MLOps](https://www.geeksforgeeks.org/machine-learning/end-to-end-mlops-pipeline-a-comprehensive-project/)
+
+## Module 13: Projects & Practice
+- [Machine Learning Projects](https://www.geeksforgeeks.org/machine-learning/machine-learning-projects/)
+- [Interview Questions and Answers](https://www.geeksforgeeks.org/machine-learning/machine-learning-interview-questions/)
+- [Coding Interview Questions](https://www.geeksforgeeks.org/data-science/data-science-coding-interview-questions/)
+
+## Related GfG tracks (beyond this tutorial)
+- [Deep Learning](https://www.geeksforgeeks.org/deep-learning/deep-learning-tutorial/)
+- [NLP](https://www.geeksforgeeks.org/nlp/natural-language-processing-nlp-tutorial/)
+- [Computer Vision](https://www.geeksforgeeks.org/computer-vision/computer-vision/)
+- [Data Science](https://www.geeksforgeeks.org/data-science/data-science-for-beginners/)
+- [Artificial Intelligence](https://www.geeksforgeeks.org/artificial-intelligence/artificial-intelligence/)
+- [Machine Learning with R](https://www.geeksforgeeks.org/r-machine-learning/introduction-to-machine-learning-in-r/)
