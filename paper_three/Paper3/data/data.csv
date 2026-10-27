@@ -1,0 +1,13 @@
+id,location,bedrooms,sq_ft,price_lakhs,age_years
+1,Kochi - Kakkanad,3,1450,65.5,2
+2,Kochi - Edappally,2,1100,45.0,5
+3,Trivandrum - Technopark,3,,80.0,1
+4,Kochi - Kakkanad,4,2200,120.0,0
+5,Kochi - Palarivattom,,950,55.0,8
+6,Trivandrum - Kowdiar,5,4500,350.0,3
+7,Calicut - Mavoor Road,2,1000,38.5,10
+8,Kochi - Kakkanad,3,1400,,4
+9,Kochi - Infopark,2,50000,45.0,2
+10,Trivandrum - Pattom,3,1350,70.0,6
+11,Calicut - Beach Road,,1600,95.0,4
+12,Kochi - Edappally,2,1050,42.0,7
