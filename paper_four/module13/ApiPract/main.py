@@ -1,3 +1,15 @@
-import fastapi
+from fastapi import FastAPI
 
-print(fastapi.__version__)
+app = FastAPI(title="Demo API")
+
+@app.get("/")
+def home():
+    return{"message" : "Hello, FastAPI"}
+
+@app.get("/health")
+def health():
+    return{"status": "ok"}
+
+@app.get("/path")
+def path():
+    return 
