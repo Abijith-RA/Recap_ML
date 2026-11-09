@@ -28,14 +28,14 @@ def run_inferance(items: list[House]) -> list[dict]:
     frame = pd.DataFrame([item.model_dump() for item in items])
     price = model.predict(frame)
 
-    return (
+    return [
         {"prediction_lakhs" : round(float(p), 2), "unit" : "lakh", "model_version" : "v1"}
         for p in price
-    )
+    ]
 
 @app.post("/predict", response_model=predictionOut)
 def predict(data: House):
-    return run_inferance(data)[0]
+    return run_inferance([data])[0]
 
 @app.post("/predict/batch", response_model=list[predictionOut])
 def predict_batch(data: BatchIn):
