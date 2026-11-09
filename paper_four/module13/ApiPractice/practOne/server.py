@@ -17,11 +17,21 @@ class House(BaseModel):
 def index():
     return {"message" : "House Api is running"}
 
+@app.get("/welcome")
+def welcome(name: str):
+    return {"Welcome" : name}
+
 @app.post("/predict")
 def predict(data: House):
-    
-    features = list(data.model_dump().values())
-    
+
+    features = [
+        data.area_sqft,
+        data.bedrooms,
+        data.bathrooms,
+        data.age_years,
+        data.distance_city_km,
+    ]
+
     prediction = model.predict([features])
-    
-    return {"prediction" : prediction[0]}
+
+    return {"prediction" : round(float(prediction[0]), 2)}
