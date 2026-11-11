@@ -1,6 +1,6 @@
 import joblib
 from fastapi import FastAPI
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, ConfigDict
 import pandas as pd
 
 model = joblib.load("HousePrice_prediction.joblib")
@@ -59,6 +59,9 @@ def hello(name: str):
     return {"hello": name}
 
 class House(BaseModel):
+    
+        model_config = ConfigDict(extra="forbid")
+    
         area_sqft: float = Field(ge=200, le=10000)
         bedrooms: int = Field(ge=1)
         bathrooms: int = Field(ge=1)
